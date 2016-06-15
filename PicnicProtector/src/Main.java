@@ -90,4 +90,12 @@ public class Main extends PApplet {
 		text("Quit", 950, 700);
 	}
 	
+	public void mouseClicked() {
+		if(mouseX >= 580 && mouseX <=580+140 && mouseY>=650 && mouseY<=700){
+			System.out.println("Detected click on Play, sending over to gameDriver");
+			gameDriver game = new gameDriver(this);
+			game.draw();
+	}
+	}
+	
 }
