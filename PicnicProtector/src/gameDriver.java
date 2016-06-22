@@ -46,7 +46,7 @@ public class gameDriver extends PApplet{
 	 */
 	public void draw()
 	{	
-		p.background(map);
+		p.image(map,0,0);
 		running();
 	}
 	public void mouseClicked() {

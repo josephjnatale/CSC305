@@ -17,9 +17,11 @@ public class Main extends PApplet {
 	
 	public void setup(){
 		//frame.setName("Picnic Protector! 1.0");
-		size(1280, 720);
+		size(menuBackground.width, menuBackground.height);
 		background(255);
 		frameRate(60);
+		
+		
 		
 	}
 	
@@ -38,7 +40,7 @@ public class Main extends PApplet {
 	
 	private void mainMenu(){
 		//sets background image
-		background(menuBackground);
+		image(menuBackground,0,0);
 				
 		//basket is the basket's x position, bx is the distance needed to hide the image off the left side of the screen. 
 		//squirrel's x needs to also clear the baskets x so sx is larger than bx.
