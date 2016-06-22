@@ -3,7 +3,7 @@ public class gameDriver {
 
 	PApplet p;
 	public gameDriver(PApplet parent){
-		p= parent;
+		p = parent;
 	}
 	public void draw()
 	{
@@ -12,3 +12,4 @@ public class gameDriver {
 		p.rect(0, 0, 10000, 1000);
 	}
 }
+//merge test
