@@ -8,6 +8,9 @@ public class Main extends PApplet {
 	private PImage basket = loadImage("images\\basket.png");
 	private PImage squirrel = loadImage("images\\squirrel.png");
 	private PImage menuBackground = loadImage("images\\menu.jpg");
+	private PImage map = loadImage("images\\map.png");
+	private gameDriver game;
+	private int gameState = 0;
 	
 	private int sx=-squirrel.width/6-basket.width/4-100, bx=-basket.width/4, i=0, basketx=0,squirrelx=0;
 	
@@ -21,10 +24,14 @@ public class Main extends PApplet {
 	}
 	
 	public void draw(){
+		
+		if(gameState == 0){
 		mainMenu();
-		
 		text(frameRate, 50, 50);
-		
+		}else if(gameState == 1){
+			
+			game.draw();
+		}
 		
 				
 	}
@@ -49,6 +56,7 @@ public class Main extends PApplet {
 		//draw the images at the specified positions, make the image a sixth and a fourth the original size.
 		image(squirrel, squirrelx, 270, width/6, height/6);
 		image(basket, basketx, 200, width/4, height/4);
+		image(map, this.width, this.height, width, height);
 		
 		//Increments i, i is the amount of pixels the basket and squirrel moves each time around
 		i+=5;
@@ -88,14 +96,20 @@ public class Main extends PApplet {
 		
 		//write quit,
 		text("Quit", 950, 700);
+		fill(255);
 	}
 	
 	public void mouseClicked() {
 		if(mouseX >= 580 && mouseX <=580+140 && mouseY>=650 && mouseY<=700){
 			System.out.println("Detected click on Play, sending over to gameDriver");
-			gameDriver game = new gameDriver(this);
-			game.draw();
-	}
+			//Changes the game state from start menu to running
+			gameState = 1;
+			game = new gameDriver(this);
+			
+			
+		}else if(gameState == 1){
+			game.mouseClicked();
+		}
 	}
 	
 }
