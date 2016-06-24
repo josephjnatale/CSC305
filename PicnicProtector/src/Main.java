@@ -30,9 +30,11 @@ public class Main extends PApplet {
 		if(gameState == 0){
 		mainMenu();
 		text(frameRate, 50, 50);
-		}else if(gameState == 1){
+		}
+		
+		else if(gameState == 1){
 			
-			game.draw();
+			game.init();
 		}
 		
 				
@@ -40,6 +42,7 @@ public class Main extends PApplet {
 	
 	private void mainMenu(){
 		//sets background image
+		System.out.println("Drawing background");
 		image(menuBackground,0,0);
 				
 		//basket is the basket's x position, bx is the distance needed to hide the image off the left side of the screen. 
@@ -56,6 +59,7 @@ public class Main extends PApplet {
 			squirrelx=sx;
 		
 		//draw the images at the specified positions, make the image a sixth and a fourth the original size.
+		System.out.println("Drawing moving things");
 		image(squirrel, squirrelx, 270, width/6, height/6);
 		image(basket, basketx, 200, width/4, height/4);
 		image(map, this.width, this.height, width, height);
@@ -109,8 +113,7 @@ public class Main extends PApplet {
 			game = new gameDriver(this);
 			
 			
-		}else if(gameState == 1){
-			game.mouseClicked();
+			
 		}
 	}
 	
