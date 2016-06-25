@@ -9,8 +9,8 @@ public class Main extends PApplet {
 	public PImage squirrel = loadImage("images\\squirrel.png");
 	private PImage menuBackground = loadImage("images\\menu.jpg");
 	private PImage map = loadImage("images\\map.png");
-	private gameDriver game;
-	private int gameState = 0;
+	private gameDriver game= new gameDriver(this);
+	private int gameState = 1;
 	
 	private int sx=-squirrel.width/6-basket.width/4-100, bx=-basket.width/4, i=0, basketx=0,squirrelx=0;
 	
@@ -34,7 +34,6 @@ public class Main extends PApplet {
 			break;
 		case 1:
 			
-			//for testing only will be set up in wave class
 			game.init();
 
 			break;		
@@ -113,7 +112,6 @@ public class Main extends PApplet {
 			System.out.println("Detected click on Play, sending over to gameDriver");
 			//Changes the game state from start menu to running
 			gameState = 1;
-			game = new gameDriver(this);
 			
 			
 			

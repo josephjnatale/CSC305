@@ -1,8 +1,10 @@
 public abstract class Attacker {
 
+	//movementspeed is how many pixels per update attacker should move
+	protected int x, y, movementSpeed;
 	
-	private int x, y, movementSpeed;
-	protected String type;
+	//will be set depending on the map
+	protected String type, moving="down";
 	
 
 	public Attacker(int x, int y){
@@ -10,6 +12,32 @@ public abstract class Attacker {
 		this.x = x;
 		this.y = y;
 
+	}
+	
+	public void move(){
+		
+		switch(moving){
+		case "down":
+			y+=movementSpeed;
+			break;
+		case "left":
+			x-=movementSpeed;
+			break;
+		case "right":
+			x+=movementSpeed;
+			break;
+		case "up":
+			y-=movementSpeed;
+			break;
+		}
+	}
+	
+	public void setMovingDirection(String dir){
+		moving=dir;
+	}
+	
+	public String getMovingDirection(){
+		return moving;
 	}
 		
 	public String getType(){

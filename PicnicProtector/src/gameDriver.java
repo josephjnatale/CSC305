@@ -12,7 +12,12 @@ public class gameDriver extends PApplet{
 	private PImage squirrel = loadImage("images\\squirrel.png");
 	private PImage towerImg = loadImage("images\\tower.png");
 	
-
+	
+	private attackerDriver attackerDriver = new attackerDriver();
+	
+	public Map MAP = new Map(1);
+	
+	
 
 	//Arraylist to keep track of the attackers currently on the screen.
 	public ArrayList<Attacker> attackerList = new ArrayList<Attacker>();
@@ -34,29 +39,7 @@ public class gameDriver extends PApplet{
 	}
 	
 	
-	/*Just moves a squirrel very basic but at least it isn't just a picture
-	 * 
-	 
-	public void running(){
-
-		
-		if(y>= 340 && x>=740 && y<720){
-			y++;
-		}else if(y <=340){
-			y++;
-		}else if(x <=740){
-			x++;
-		}else{
-			x = 140;
-			y = 60;
-		}
-		squirrel.repos(x, y);
-		squirrel.paint(p);
-		tower.paint(p);
-	}
 	
-	 
-	 */
 	
 	public void init(){
 		
@@ -77,15 +60,12 @@ public class gameDriver extends PApplet{
 	
 	public void draw()
 	{	
-		
-		
+		//one call to redraw everything on the screen
 		REDRAW();
 		
-		attackerMovement();
+		//attackerDriver deals with any type of attacker movement
+		attackerDriver.main(attackerList);
 	
-		
-	
-		//running();
 	}
 	
 	public void mouseClicked() {
@@ -93,6 +73,7 @@ public class gameDriver extends PApplet{
 			
 	}
 	
+	//calls redrawbg and redrawattacker
 	private void REDRAW() {
 		System.out.println("Redrawing");
 		redrawBg();
@@ -100,6 +81,7 @@ public class gameDriver extends PApplet{
 		
 	}
 	
+	//redraws the attackers
 	private void redrawAttacker() {
 		
 		for(int i=0; i<attackerList.size(); i++){
@@ -119,41 +101,21 @@ public class gameDriver extends PApplet{
 		}
 	}
 	
+	//redraws the background
 	private void redrawBg() {
 		p.image(map, 0, 0);
+		p.fill(255);
+		
+		//checking turning points
+		p.rect(145, 345, 55, 50);
+
+		
 		System.out.println("redrew background");
 		
 	}
 	
 
-	private void attackerMovement() {
-		
-		for(int i=0; i<attackerList.size(); i++){
-			
-			
-			attackerMove(attackerList.get(i));
-		
-		}
-		
-		//redrawAttacker();
-	}
-
-	private void attackerMove(Attacker attacker) {
-
-		//will get turning point values from array within map class.
-
-		if(attacker.getY() >= 340 && attacker.getX() >=740 && attacker.getY() <720){
-			attacker.setY(attacker.getX()+1);
-		}else if(attacker.getY() <=340){
-			attacker.setY(attacker.getY()+1);
-		}else if(attacker.getX() <=740){
-			attacker.setX(attacker.getX()+1);
-		}else{
-			attacker.setX(140);
-			attacker.setY(60);
-		}
-
-	}
+	
 
 
 	 
