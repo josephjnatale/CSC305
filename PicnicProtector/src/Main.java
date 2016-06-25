@@ -6,7 +6,7 @@ public class Main extends PApplet {
 	
 	
 	private PImage basket = loadImage("images\\basket.png");
-	private PImage squirrel = loadImage("images\\squirrel.png");
+	public PImage squirrel = loadImage("images\\squirrel.png");
 	private PImage menuBackground = loadImage("images\\menu.jpg");
 	private PImage map = loadImage("images\\map.png");
 	private gameDriver game;
@@ -16,28 +16,31 @@ public class Main extends PApplet {
 	
 	
 	public void setup(){
-		//frame.setName("Picnic Protector! 1.0");
+		
 		size(menuBackground.width, menuBackground.height);
 		background(255);
-		frameRate(60);
-		
-		
-		
+		frameRate(65);
+				
 	}
 	
 	public void draw(){
 		
-		if(gameState == 0){
-		mainMenu();
-		text(frameRate, 50, 50);
-		}
 		
-		else if(gameState == 1){
+		
+		//state logic for going into game.init
+		switch(gameState){
+		case 0:
+			mainMenu();
+			break;
+		case 1:
 			
+			//for testing only will be set up in wave class
 			game.init();
+
+			break;		
 		}
 		
-				
+		text(frameRate, 50, 50);			
 	}
 	
 	private void mainMenu(){

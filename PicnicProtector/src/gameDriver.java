@@ -1,15 +1,15 @@
-import processing.core.PApplet;
-import processing.core.PImage;
+import processing.core.*;
 
 import java.*;
 import java.util.ArrayList;
+
 public class gameDriver extends PApplet{
 
 	private PApplet p;
 	/**Loads images 
 	 */
 	private PImage map = loadImage("images\\map.png");
-	private PImage squirrelImg = loadImage("images\\squirrel.png");
+	private PImage squirrel = loadImage("images\\squirrel.png");
 	private PImage towerImg = loadImage("images\\tower.png");
 	
 
@@ -17,25 +17,29 @@ public class gameDriver extends PApplet{
 	//Arraylist to keep track of the attackers currently on the screen.
 	public ArrayList<Attacker> attackerList = new ArrayList<Attacker>();
 	
+	private boolean setup=true;
 
 
 	/**Squirrel position
 	 * 
 	 */
-	private int x = 140,y = 60, towerX = 100, towerY = 100;
+	private int towerX = 100, towerY = 100;
 	private Tower tower = new Tower(towerImg, towerX, towerY);
-	private Attacker squirrel = new Attacker(squirrelImg, x, y);
+	//private Attacker squirrel = new Attacker(squirrelImg, x, y);
+	
+
+	
 	public gameDriver(PApplet parent){
-		p= parent;
+		p=parent;
 	}
-	/**Just moves a squirrel very basic but at least it isn't just a picture
+	
+	
+	/*Just moves a squirrel very basic but at least it isn't just a picture
 	 * 
-	 */
+	 
 	public void running(){
 
-		/**These values just control the movement of the squirrel
-		 * 
-		 */
+		
 		if(y>= 340 && x>=740 && y<720){
 			y++;
 		}else if(y <=340){
@@ -51,30 +55,34 @@ public class gameDriver extends PApplet{
 		tower.paint(p);
 	}
 	
-	/**Sets background first so it paints over it
-	 * 
+	 
 	 */
-	public void init() {
-		p.fill(255);
-		p.rect(0, 0, 100001, 0101000);
-		redrawBg();
-		addAttacker();
-		p.frameRate(60);
+	
+	public void init(){
+		
+		//if fist time setup, after each wave this will be reset so that the correct amount of attacker are loaded
+		
+		if(setup){
+			
+			WaveSetup wave = new WaveSetup(1);
+		
+			attackerList=wave.setList();
+			
+			setup=false;
+		}
 		draw();
+		
 	}
 	
 	
 	public void draw()
 	{	
-		int counter=0;
-		while(true){
-			
-			//if(counter++ %100==0)
-			//REDRAW();
-			if(p.frameCount %50==0)
-			attackerMovement();
-			
-		}
+		
+		
+		REDRAW();
+		
+		attackerMovement();
+	
 		
 	
 		//running();
@@ -95,9 +103,19 @@ public class gameDriver extends PApplet{
 	private void redrawAttacker() {
 		
 		for(int i=0; i<attackerList.size(); i++){
-			p.image(squirrelImg, attackerList.get(i).getX(), attackerList.get(i).getY());
+
+			int xPos=attackerList.get(i).getX();
+			int yPos=attackerList.get(i).getY();
+			
+			switch(attackerList.get(i).getType()){
+			
+			case "squirrel":
+				p.image(squirrel, xPos, yPos, 60, 60);
+				break;
+			
+			}
 			System.out.println("redrew Attacker at("+attackerList.get(i).getX()+" ,"+attackerList.get(i).getY()+")");
-			i++;
+			
 		}
 	}
 	
@@ -107,22 +125,17 @@ public class gameDriver extends PApplet{
 		
 	}
 	
-	private void addAttacker(){
-		//will get list of attackers meant to be added this wave, list will be part of the map class
-		Attacker squirrel1 = new Attacker(squirrelImg, 140, 60);
-		attackerList.add(squirrel1);
-		System.out.println("Added squirrel to attackerList");
-
-	}
 
 	private void attackerMovement() {
 		
 		for(int i=0; i<attackerList.size(); i++){
+			
+			
 			attackerMove(attackerList.get(i));
 		
 		}
 		
-		redrawAttacker();
+		//redrawAttacker();
 	}
 
 	private void attackerMove(Attacker attacker) {

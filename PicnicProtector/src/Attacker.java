@@ -1,21 +1,23 @@
-import processing.core.PApplet;
-import processing.core.PImage;
+public abstract class Attacker {
 
-public class Attacker {
+	
+	private int x, y, movementSpeed;
+	protected String type;
+	
 
-	private PImage img;
-	private int x, y;
-
-	public Attacker(PImage img, int x, int y){
+	public Attacker(int x, int y){
+		
 		this.x = x;
 		this.y = y;
-		this.img = img;
 
+	}
+		
+	public String getType(){
+		return type;
 	}
 	
 	public void setX(int newX){
-		x=newX;
-		
+		x=newX;	
 	}
 	
 	public void setY(int newY){
@@ -29,14 +31,12 @@ public class Attacker {
 	public int getY(){
 		return y;
 	}
+	
 	public void repos(int x, int y){
 		this.x = x;
 		this.y = y;
 	}
 
-	public void paint(PApplet p){
-		p.image(img, x, y,  60, 60);
-	}
 
 }
 
