@@ -1,9 +1,10 @@
 public class squirrel extends Attacker{
 
 	
-	public squirrel(int x, int y) {
+	public squirrel(double x, double y) {
 		super(x, y);
 		type="squirrel";
+		
 		movementSpeed=1;
 		
 		

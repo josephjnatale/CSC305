@@ -27,7 +27,7 @@ public class Main extends PApplet {
 		
 		
 		
-		//state logic for going into game.init
+		//state machine
 		switch(gameState){
 		case 0:
 			mainMenu();

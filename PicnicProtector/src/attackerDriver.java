@@ -19,7 +19,7 @@ public class attackerDriver {
 				
 				
 				attackerMove(attackerList.get(i));
-				System.out.println(attackerList.get(i).getMovingDirection());
+				//System.out.println(attackerList.get(i).getMovingDirection());
 			
 			}
 		}

@@ -1,13 +1,13 @@
 public abstract class Attacker {
 
 	//movementspeed is how many pixels per update attacker should move
-	protected int x, y, movementSpeed;
+	protected double x, y, movementSpeed;
 	
 	//will be set depending on the map
 	protected String type, moving="down";
 	
 
-	public Attacker(int x, int y){
+	public Attacker(double x, double y){
 		
 		this.x = x;
 		this.y = y;
@@ -53,14 +53,14 @@ public abstract class Attacker {
 	}
 	
 	public int getX(){
-		return x;
+		return (int) x;
 	}
 	
 	public int getY(){
-		return y;
+		return (int) y;
 	}
 	
-	public void repos(int x, int y){
+	public void repos(double x, double y){
 		this.x = x;
 		this.y = y;
 	}

@@ -14,6 +14,7 @@ public class gameDriver extends PApplet{
 	
 	
 	private attackerDriver attackerDriver = new attackerDriver();
+	private WaveSetup wave = new WaveSetup(1);
 	
 	public Map MAP = new Map(1);
 	
@@ -22,14 +23,14 @@ public class gameDriver extends PApplet{
 	//Arraylist to keep track of the attackers currently on the screen.
 	public ArrayList<Attacker> attackerList = new ArrayList<Attacker>();
 	
+	//keeps track if wave needs to be set up.
 	private boolean setup=true;
 
 
-	/**Squirrel position
-	 * 
-	 */
+	//will be in tower class
 	private int towerX = 100, towerY = 100;
 	private Tower tower = new Tower(towerImg, towerX, towerY);
+
 	//private Attacker squirrel = new Attacker(squirrelImg, x, y);
 	
 
@@ -46,8 +47,6 @@ public class gameDriver extends PApplet{
 		//if fist time setup, after each wave this will be reset so that the correct amount of attacker are loaded
 		
 		if(setup){
-			
-			WaveSetup wave = new WaveSetup(1);
 		
 			attackerList=wave.setList();
 			
@@ -75,7 +74,7 @@ public class gameDriver extends PApplet{
 	
 	//calls redrawbg and redrawattacker
 	private void REDRAW() {
-		System.out.println("Redrawing");
+		//System.out.println("Redrawing");
 		redrawBg();
 		redrawAttacker();
 		
@@ -96,7 +95,7 @@ public class gameDriver extends PApplet{
 				break;
 			
 			}
-			System.out.println("redrew Attacker at("+attackerList.get(i).getX()+" ,"+attackerList.get(i).getY()+")");
+			//System.out.println("redrew Attacker at("+attackerList.get(i).getX()+" ,"+attackerList.get(i).getY()+")");
 			
 		}
 	}
@@ -110,7 +109,7 @@ public class gameDriver extends PApplet{
 		p.rect(145, 345, 55, 50);
 
 		
-		System.out.println("redrew background");
+		//System.out.println("redrew background");
 		
 	}
 	
