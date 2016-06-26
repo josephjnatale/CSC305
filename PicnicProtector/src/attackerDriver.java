@@ -42,8 +42,9 @@ public class attackerDriver {
 			//once the attacker knows what direction he is going in then the position can be calculated in the attacker class
 			attacker.move();
 			
+			//will decrease player health
 			if(yPos>725)
-				attacker.repos(140, -40);
+				attacker.repos(170, -40);
 			
 
 	

@@ -1,4 +1,5 @@
 import processing.core.*;
+import gifAnimation.*;
 
 import java.*;
 import java.util.ArrayList;
@@ -6,12 +7,18 @@ import java.util.ArrayList;
 public class gameDriver extends PApplet{
 
 	private PApplet p;
+	
+	
 	/**Loads images 
 	 */
-	private PImage map = loadImage("images\\map.png");
-	private PImage squirrel = loadImage("images\\squirrel.png");
+	private PImage map = loadImage("images\\map1.png");
+	//private PImage squirrel = loadImage("images\\squirrel.png");
 	private PImage towerImg = loadImage("images\\tower.png");
 	
+	private Gif squirrelLeft = new Gif(this, "images\\squirrelLeft.gif");
+	private Gif squirrelRight = new Gif(this, "images\\squirrelRight.gif");
+	private Gif squirrelUp = new Gif(this, "images\\squirrelUp.gif");
+	private Gif squirrelDown = new Gif(this, "images\\squirrelDown.gif");
 	
 	private attackerDriver attackerDriver = new attackerDriver();
 	private WaveSetup wave = new WaveSetup(1);
@@ -23,34 +30,38 @@ public class gameDriver extends PApplet{
 	//Arraylist to keep track of the attackers currently on the screen.
 	public ArrayList<Attacker> attackerList = new ArrayList<Attacker>();
 	
-	//keeps track if wave needs to be set up.
-	private boolean setup=true;
+	//keeps track if first time setup or to resetup wave
+	private boolean reSetup=true, setup=true;
 
 
 	//will be in tower class
 	private int towerX = 100, towerY = 100;
 	private Tower tower = new Tower(towerImg, towerX, towerY);
 
-	//private Attacker squirrel = new Attacker(squirrelImg, x, y);
-	
-
 	
 	public gameDriver(PApplet parent){
 		p=parent;
 	}
 	
-	
-	
-	
 	public void init(){
 		
 		//if fist time setup, after each wave this will be reset so that the correct amount of attacker are loaded
 		
-		if(setup){
+		if(reSetup){
 		
 			attackerList=wave.setList();
 			
-			setup=false;
+			if(setup){
+				squirrelDown.play();
+				squirrelUp.play();
+				squirrelLeft.play();
+				squirrelRight.play();
+				
+				setup=false;
+			}
+				
+			reSetup=false;
+			
 		}
 		draw();
 		
@@ -64,6 +75,7 @@ public class gameDriver extends PApplet{
 		
 		//attackerDriver deals with any type of attacker movement
 		attackerDriver.main(attackerList);
+		p.image(tower, towerX, towerY);
 	
 	}
 	
@@ -91,7 +103,21 @@ public class gameDriver extends PApplet{
 			switch(attackerList.get(i).getType()){
 			
 			case "squirrel":
-				p.image(squirrel, xPos, yPos, 60, 60);
+				switch(attackerList.get(i).getMovingDirection())
+				{
+					case "down": 
+						p.image(squirrelDown, xPos,  yPos);
+						break;
+					case "left":
+						p.image(squirrelLeft, xPos, yPos);
+						break;
+					case "right":
+						p.image(squirrelRight, xPos, yPos);
+						break;
+					case "up":
+						p.image(squirrelUp, xPos, yPos);
+						break;
+				}
 				break;
 			
 			}
@@ -102,20 +128,9 @@ public class gameDriver extends PApplet{
 	
 	//redraws the background
 	private void redrawBg() {
-		p.image(map, 0, 0);
-		p.fill(255);
-		
-		//checking turning points
-		p.rect(145, 345, 55, 50);
-
-		
+		p.image(map, map.width/2, map.height/2);
 		//System.out.println("redrew background");
 		
 	}
-	
-
-	
-
-
 	 
 }

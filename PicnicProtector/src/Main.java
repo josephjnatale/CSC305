@@ -17,10 +17,11 @@ public class Main extends PApplet {
 	
 	public void setup(){
 		
+	
 		size(menuBackground.width, menuBackground.height);
 		background(255);
-		frameRate(65);
-				
+		frameRate(60);
+		imageMode(CENTER);
 	}
 	
 	public void draw(){
@@ -45,7 +46,7 @@ public class Main extends PApplet {
 	private void mainMenu(){
 		//sets background image
 		System.out.println("Drawing background");
-		image(menuBackground,0,0);
+		image(menuBackground,menuBackground.width/2, menuBackground.height/2);
 				
 		//basket is the basket's x position, bx is the distance needed to hide the image off the left side of the screen. 
 		//squirrel's x needs to also clear the baskets x so sx is larger than bx.
