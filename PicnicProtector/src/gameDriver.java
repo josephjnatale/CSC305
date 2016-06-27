@@ -75,7 +75,7 @@ public class gameDriver extends PApplet{
 		
 		//attackerDriver deals with any type of attacker movement
 		attackerDriver.main(attackerList);
-		p.image(tower, towerX, towerY);
+		//p.image(tower, towerX, towerY);
 	
 	}
 	
