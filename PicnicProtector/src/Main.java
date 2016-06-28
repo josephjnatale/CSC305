@@ -11,7 +11,7 @@ public class Main extends PApplet {
 	private PImage basket = loadImage("images\\basket.png");
 	public PImage squirrel = loadImage("images\\squirrel.png");
 	private PImage menuBackground = loadImage("images\\menu.jpg");
-	private PImage map = loadImage("images\\map.png");
+	private PImage map = loadImage("images\\map1.png");
 	
 	private int gameState = 0, mapSelected =-1;
 	
@@ -42,7 +42,7 @@ public class Main extends PApplet {
 			break;
 			
 		case 2:
-			game.init();
+			game.draw();
 			break;		
 		}
 		
@@ -69,8 +69,8 @@ public class Main extends PApplet {
 	}
 	
 	private void mainMenu(){
+		
 		//sets background image
-		System.out.println("Drawing background");
 		image(menuBackground,menuBackground.width/2, menuBackground.height/2);
 				
 		//basket is the basket's x position, bx is the distance needed to hide the image off the left side of the screen. 
@@ -87,7 +87,7 @@ public class Main extends PApplet {
 			squirrelx=sx;
 		
 		//draw the images at the specified positions, make the image a sixth and a fourth the original size.
-		System.out.println("Drawing moving things");
+		//System.out.println("Drawing moving things");
 		image(squirrel, squirrelx, 270, width/6, height/6);
 		image(basket, basketx, 200, width/4, height/4);
 		

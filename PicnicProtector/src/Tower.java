@@ -1,24 +1,33 @@
-import processing.core.PApplet;
-import processing.core.PImage;
+import processing.core.*;
 
 public class Tower {
 	
-	private PImage img;
 	private int x, y, range = 60;
+	private PImage towerImage;
 	
-	public Tower(PImage img, int x, int y){
+	public Tower(int x, int y){
 		this.x = x;
 		this.y = y;
-		this.img = img;
+		
 		
 	}
+	
 	public void repos(int x, int y){
 		this.x = x;
 		this.y = y;
 	}
 	
-	public void paint(PApplet p){
-		p.image(img, x, y,  60, 60);
+	public int getX(){
+		return x;
+	}
+	
+	public int getY(){
+		return y;
+	}
+	
+	public void draw(PApplet p){
+		
+		p.image(towerImage, x, y,  60, 60);
 	}
 
 }
