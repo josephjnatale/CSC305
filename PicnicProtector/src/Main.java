@@ -13,7 +13,7 @@ public class Main extends PApplet {
 	private PImage menuBackground = loadImage("images\\menu.jpg");
 	private PImage map = loadImage("images\\map1.png");
 	
-	private int gameState = 1, mapSelected =-1;
+	private int gameState = 0, mapSelected =-1;
 	
 	private int sx=-squirrel.width/6-basket.width/4-100, bx=-basket.width/4, i=0, basketx=0,squirrelx=0;
 	
@@ -43,12 +43,30 @@ public class Main extends PApplet {
 			
 		case 2:
 			game.draw();
-			break;		
+			break;	
+		
+		case 3:
+			instructions();
+			break;
 		}
 		
 		//draws framerate over any screen.
 		fill(Color.cyan.getRGB());
 		text(frameRate, 50, 50);			
+	}
+	
+	private void instructions(){
+		background(100);
+		textSize(60);
+		fill(255);
+		text("I will fill in instructions later.", 200, 400);
+		//If mouse is over play, change the fill purple 
+		if(mouseX >= 50 && mouseX <=50+125 && mouseY>=650 && mouseY<=700 && gameState == 3)
+			fill(186,85,211);
+		text("Back", 50, 700);
+		
+		
+		
 	}
 	
 	private void selectMap(){
@@ -140,7 +158,19 @@ public class Main extends PApplet {
 			//Changes the game state from start menu to running
 			gameState = 1;
 			
+		}		
+		
+		//if on menu n click instructions
+		if(gameState==0 && mouseX >= 100 && mouseX <=450 && mouseY>=650 && mouseY<=700){
+			System.out.println("Detected click on Instructions, sending over to gameDriver");
+			//Changes the game state from start menu to instructions
+			gameState = 3 ;
 		}
+		
+		//if user clicks on back change game state
+		if(mouseX >= 50 && mouseX <=50+125 && mouseY>=650 && mouseY<=700 && gameState == 3)
+			gameState = 0;
+		
 		
 		//if they are on mapSelect and they click
 		if(gameState==1 && mouseX > 70 && mouseX <420 && mouseY> 100 && mouseY<470){
@@ -149,6 +179,12 @@ public class Main extends PApplet {
 			MAP=new Map(this, mapSelected);
 			game = new gameDriver(this,  MAP);
 			gameState=2;
+		}
+		
+		//if they click quit
+		if(mouseX >= 950 && mouseX <=950+130 && mouseY>=650 && mouseY<=700 && gameState==0){
+			System.out.println("Detected quit button, now closing window");
+			System.exit(0);
 		}
 	}
 	
