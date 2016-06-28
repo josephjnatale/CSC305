@@ -9,6 +9,7 @@ public class gameDriver extends PApplet{
 	private PApplet p;
 
 	private attackerDriver attackerDriver;
+	public towerDriver towerDriver;
 	private WaveSetup wave = new WaveSetup(1);
 	private Store store;
 	public Map MAP;
@@ -32,6 +33,7 @@ public class gameDriver extends PApplet{
 		MAP = m;
 		attackerDriver = new attackerDriver(p, MAP);
 		store= new Store(p);
+		towerDriver = new towerDriver(p);
 	}
 	
 	public void init(){
@@ -59,13 +61,14 @@ public class gameDriver extends PApplet{
 		
 		case "build":
 			buildPhase();
-			store.draw();
+			
 			break;
 		case "attack":
 			init();
 			break;
 		}
 		
+		store.drawTowers(p);
 		
 		//attackerDriver deals with any type of attacker movement
 		//
@@ -74,12 +77,30 @@ public class gameDriver extends PApplet{
 	}
 	
 	private void buildPhase(){
+		store.main();
 		
+		switch(store.towerSelected()){
+		case 1:
+			p.image(store.getImage(), p.mouseX, p.mouseY, 100, 100);
+			
+			break;
+		default:
+			break;
+		}
+		
+		if(store.towerSelected()!=-1 && p.mousePressed && !store.overMenu()){
+			
+			placeTower(p.mouseX, p.mouseY);
+			
+		}
+		//places tower once selected
 		
 	}
 	
-	private void store(){
+	private void placeTower(int x, int y){
 		
+		towerDriver.addTower(x,  y);
+		store.setTowerSelected(-1);
 	}
 	
 	private void attackPhase(){
@@ -90,16 +111,16 @@ public class gameDriver extends PApplet{
 	
 	public void mouseClicked() {
 	
-			if(phase.equals("build")){
-				
-			}
+			
 			
 	}
 	
 	//calls redrawbg and redrawattacker
 	private void REDRAW() {
 		//System.out.println("Redrawing");
+		
 		MAP.drawMap(p);
+		towerDriver.redraw();
 		
 		//happens once wave starts
 		//attackerDriver.redrawAttacker();

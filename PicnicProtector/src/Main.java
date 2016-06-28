@@ -13,7 +13,7 @@ public class Main extends PApplet {
 	private PImage menuBackground = loadImage("images\\menu.jpg");
 	private PImage map = loadImage("images\\map1.png");
 	
-	private int gameState = 0, mapSelected =-1;
+	private int gameState = 1, mapSelected =-1;
 	
 	private int sx=-squirrel.width/6-basket.width/4-100, bx=-basket.width/4, i=0, basketx=0,squirrelx=0;
 	

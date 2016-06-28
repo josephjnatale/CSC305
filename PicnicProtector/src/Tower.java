@@ -1,11 +1,12 @@
 import processing.core.*;
 
-public class Tower {
+public class Tower{
 	
 	private int x, y, range = 60;
-	private PImage towerImage;
+	private PApplet p;
 	
-	public Tower(int x, int y){
+	public Tower(PApplet applet, int x, int y){
+		p=applet;
 		this.x = x;
 		this.y = y;
 		
@@ -25,9 +26,14 @@ public class Tower {
 		return y;
 	}
 	
-	public void draw(PApplet p){
+	public void draw(PImage image){
 		
-		p.image(towerImage, x, y,  60, 60);
+		
+		p.image(image, x, y,  100, 100);
+	}
+	
+	public int distanceToTower(Tower tower){
+		return (int) Math.sqrt(Math.pow((double)tower.getY()-y, 2.0)+Math.pow((double)tower.getX()-x, 2.0));
 	}
 
 }

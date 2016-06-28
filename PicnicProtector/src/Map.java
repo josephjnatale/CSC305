@@ -18,6 +18,8 @@ public class Map {
 		}
 	}
 	
+	
+	
 	public int[][] getTurningPoints(){
 		return turningPoints;
 	}
