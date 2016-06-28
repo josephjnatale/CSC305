@@ -1,7 +1,6 @@
 import processing.core.PApplet;
 import processing.core.PImage;
 import java.*;
-import java.awt.Color;
 
 public class Main extends PApplet {
 	
