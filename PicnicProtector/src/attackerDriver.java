@@ -1,9 +1,16 @@
 import java.util.ArrayList;
+import processing.core.*;
 
 public class attackerDriver {
 	
 	private ArrayList<Attacker> attackerList;
-	private Map MAP = new Map(1);
+	private Map MAP;
+	private PApplet p;
+	
+	public attackerDriver(PApplet applet, Map m){
+		p=applet;
+		MAP =  m;
+	}
 	
 	//class driver
 	public void main(ArrayList<Attacker> attackerList){
@@ -24,7 +31,7 @@ public class attackerDriver {
 			}
 		}
 	
-		private void attackerMove(Attacker attacker) {
+	private void attackerMove(Attacker attacker) {
 	
 			int xPos = attacker.getX();
 			int yPos = attacker.getY();
@@ -49,5 +56,24 @@ public class attackerDriver {
 
 	
 		}
+	
+	public void redrawAttacker() {
+		
+		for(int i=0; i<attackerList.size(); i++){
+
+			int xPos=attackerList.get(i).getX();
+			int yPos=attackerList.get(i).getY();
+			
+			switch(attackerList.get(i).getType()){
+			
+			case "squirrel":
+				attackerList.get(i).draw(p);
+				break;
+			
+			}
+			//System.out.println("redrew Attacker at("+attackerList.get(i).getX()+" ,"+attackerList.get(i).getY()+")");
+			
+		}
+	}
 
 }

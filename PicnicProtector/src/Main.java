@@ -1,16 +1,19 @@
 import processing.core.PApplet;
 import processing.core.PImage;
 import java.*;
+import java.awt.Color;
 
 public class Main extends PApplet {
 	
+	private Map MAP;
+	private gameDriver game;
 	
 	private PImage basket = loadImage("images\\basket.png");
 	public PImage squirrel = loadImage("images\\squirrel.png");
 	private PImage menuBackground = loadImage("images\\menu.jpg");
 	private PImage map = loadImage("images\\map.png");
-	private gameDriver game= new gameDriver(this);
-	private int gameState = 1;
+	
+	private int gameState = 0, mapSelected =-1;
 	
 	private int sx=-squirrel.width/6-basket.width/4-100, bx=-basket.width/4, i=0, basketx=0,squirrelx=0;
 	
@@ -33,14 +36,36 @@ public class Main extends PApplet {
 		case 0:
 			mainMenu();
 			break;
-		case 1:
 			
+		case 1:
+			selectMap();
+			break;
+			
+		case 2:
 			game.init();
-
 			break;		
 		}
 		
+		//draws framerate over any screen.
+		fill(Color.cyan.getRGB());
 		text(frameRate, 50, 50);			
+	}
+	
+	private void selectMap(){
+		fill(255);
+		rect(0,0,1280,720);
+		
+		if(mouseX > 70 && mouseX <420 && mouseY> 100 && mouseY<470)
+			fill(Color.green.getRGB());
+		else
+			fill(Color.pink.getRGB());
+		
+		rect(70, 100, 350, 370);
+		
+		image(map, 250, 200, map.width/4, map.height/4);
+		textSize(35);
+		fill(0);
+		text("Map 1", 200, 400);
 	}
 	
 	private void mainMenu(){
@@ -65,7 +90,7 @@ public class Main extends PApplet {
 		System.out.println("Drawing moving things");
 		image(squirrel, squirrelx, 270, width/6, height/6);
 		image(basket, basketx, 200, width/4, height/4);
-		image(map, this.width, this.height, width, height);
+		
 		
 		//Increments i, i is the amount of pixels the basket and squirrel moves each time around
 		i+=5;
@@ -109,13 +134,21 @@ public class Main extends PApplet {
 	}
 	
 	public void mouseClicked() {
-		if(mouseX >= 580 && mouseX <=580+140 && mouseY>=650 && mouseY<=700){
+		//if on main menu and they click
+		if(gameState==0 && mouseX >= 580 && mouseX <=580+140 && mouseY>=650 && mouseY<=700){
 			System.out.println("Detected click on Play, sending over to gameDriver");
 			//Changes the game state from start menu to running
 			gameState = 1;
 			
-			
-			
+		}
+		
+		//if they are on mapSelect and they click
+		if(gameState==1 && mouseX > 70 && mouseX <420 && mouseY> 100 && mouseY<470){
+			System.out.println("selected map1, sending over to game driver");
+			mapSelected=1;
+			MAP=new Map(this, mapSelected);
+			game = new gameDriver(this,  MAP);
+			gameState=2;
 		}
 	}
 	

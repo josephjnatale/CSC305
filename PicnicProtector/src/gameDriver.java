@@ -14,16 +14,12 @@ public class gameDriver extends PApplet{
 	private PImage map = loadImage("images\\map1.png");
 	//private PImage squirrel = loadImage("images\\squirrel.png");
 	private PImage towerImg = loadImage("images\\tower.png");
+
 	
-	private Gif squirrelLeft = new Gif(this, "images\\squirrelLeft.gif");
-	private Gif squirrelRight = new Gif(this, "images\\squirrelRight.gif");
-	private Gif squirrelUp = new Gif(this, "images\\squirrelUp.gif");
-	private Gif squirrelDown = new Gif(this, "images\\squirrelDown.gif");
-	
-	private attackerDriver attackerDriver = new attackerDriver();
+	private attackerDriver attackerDriver;
 	private WaveSetup wave = new WaveSetup(1);
 	
-	public Map MAP = new Map(1);
+	public Map MAP;
 	
 	
 
@@ -39,8 +35,10 @@ public class gameDriver extends PApplet{
 	private Tower tower = new Tower(towerImg, towerX, towerY);
 
 	
-	public gameDriver(PApplet parent){
+	public gameDriver(PApplet parent, Map m){
 		p=parent;
+		MAP = m;
+		attackerDriver = new attackerDriver(p, MAP);
 	}
 	
 	public void init(){
@@ -52,10 +50,7 @@ public class gameDriver extends PApplet{
 			attackerList=wave.setList();
 			
 			if(setup){
-				squirrelDown.play();
-				squirrelUp.play();
-				squirrelLeft.play();
-				squirrelRight.play();
+				
 				
 				setup=false;
 			}
@@ -87,50 +82,15 @@ public class gameDriver extends PApplet{
 	//calls redrawbg and redrawattacker
 	private void REDRAW() {
 		//System.out.println("Redrawing");
-		redrawBg();
-		redrawAttacker();
+		MAP.drawMap(p);
+		//happens once wave starts
+		//attackerDriver.redrawAttacker();
+		
 		
 	}
 	
-	//redraws the attackers
-	private void redrawAttacker() {
-		
-		for(int i=0; i<attackerList.size(); i++){
+	
+	
 
-			int xPos=attackerList.get(i).getX();
-			int yPos=attackerList.get(i).getY();
-			
-			switch(attackerList.get(i).getType()){
-			
-			case "squirrel":
-				switch(attackerList.get(i).getMovingDirection())
-				{
-					case "down": 
-						p.image(squirrelDown, xPos,  yPos);
-						break;
-					case "left":
-						p.image(squirrelLeft, xPos, yPos);
-						break;
-					case "right":
-						p.image(squirrelRight, xPos, yPos);
-						break;
-					case "up":
-						p.image(squirrelUp, xPos, yPos);
-						break;
-				}
-				break;
-			
-			}
-			//System.out.println("redrew Attacker at("+attackerList.get(i).getX()+" ,"+attackerList.get(i).getY()+")");
-			
-		}
-	}
-	
-	//redraws the background
-	private void redrawBg() {
-		p.image(map, map.width/2, map.height/2);
-		//System.out.println("redrew background");
-		
-	}
 	 
 }

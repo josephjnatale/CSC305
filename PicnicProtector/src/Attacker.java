@@ -1,3 +1,5 @@
+import processing.core.PApplet;
+
 public abstract class Attacker {
 
 	//movementspeed is how many pixels per update attacker should move
@@ -13,6 +15,7 @@ public abstract class Attacker {
 		this.y = y;
 
 	}
+	
 	
 	public void move(){
 		
@@ -64,6 +67,10 @@ public abstract class Attacker {
 		this.x = x;
 		this.y = y;
 	}
+
+
+	public abstract void draw(PApplet p);
+
 
 
 }
