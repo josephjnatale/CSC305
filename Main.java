@@ -182,9 +182,10 @@ public class Main extends PApplet {
 		}
 		
 		//if they click quit
-		if(mouseX >= 950 && mouseX <=950+130 && mouseY>=650 && mouseY<=700)
+		if(gameState==0 && mouseX >= 950 && mouseX <=950+130 && mouseY>=650 && mouseY<=700){
 			System.out.println("Detected quit button, now closing window");
 			System.exit(0);
+		}
 	}
 	
 }
