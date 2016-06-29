@@ -32,8 +32,8 @@ public class Tower{
 		p.image(image, x, y,  100, 100);
 	}
 	
-	public int distanceToTower(Tower tower){
-		return (int) Math.sqrt(Math.pow((double)tower.getY()-y, 2.0)+Math.pow((double)tower.getX()-x, 2.0));
+	public int distanceToPoint(int xPos, int yPos){
+		return (int) Math.sqrt(Math.pow((double)yPos-y, 2.0)+Math.pow((double)xPos-x, 2.0));
 	}
 
 }

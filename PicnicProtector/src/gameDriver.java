@@ -2,6 +2,7 @@ import processing.core.*;
 import gifAnimation.*;
 
 import java.*;
+import java.awt.Color;
 import java.util.ArrayList;
 
 public class gameDriver extends PApplet{
@@ -114,11 +115,23 @@ public class gameDriver extends PApplet{
 		
 		//if there is a tower selected and the player has clicked and the mouse is not over the store
 		//place a tower at the players mouse coor's
-		if(store.towerSelected()!=-1 && p.mousePressed && !store.overMenu()){
+		if(store.towerSelected()!=-1 && p.mousePressed && !store.overStore()){
 			
-			placeTower(p.mouseX, p.mouseY);
+			//check the placement of the tower
+			if(towerDriver.checkPlacement(p.mouseX, p.mouseY))
+				placeTower(p.mouseX, p.mouseY);
+			
+			//else show a error circle at the mouse coor
+			else{
+				p.fill(Color.red.getRGB());
+				p.ellipse(p.mouseX, p.mouseY, 75, 75);
+				p.fill(Color.black.getRGB());
+				p.textSize(12);
+				p.text("Too Close\nTo Other\n  Tower", p.mouseX-25, p.mouseY-12);
+			}
 			
 		}
+		
 		
 		
 	}

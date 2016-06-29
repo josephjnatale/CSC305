@@ -54,6 +54,12 @@ public class Main extends PApplet {
 			break;
 		}
 		
+
+		println("Red: "+red(get().pixels[mouseX + mouseY * width]));
+        println("Green: "+green(get().pixels[mouseX + mouseY * width]));
+        println("Blue: "+blue(get().pixels[mouseX + mouseY * width]));
+		println();
+		
 		//draws framerate over any screen.
 		this.textSize(45);
 		fill(Color.cyan.getRGB());

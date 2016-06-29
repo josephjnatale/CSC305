@@ -30,6 +30,11 @@ public class Map {
 		applet.image(mapImage, mapImage.width/2, mapImage.height/2+60);
 	}
 	
+	public void distanceToPath(int x, int y){
+		
+		
+	}
+	
 	
 
 }

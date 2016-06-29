@@ -8,7 +8,8 @@ public class Store {
 
 	private int menuX=1080, menuY=60, menuWidth=200, menuHeight=660;
 	private int towerSelected=-1;
-	private boolean overMenu=false;
+	private boolean overTower=false, overStore=false;
+	
 	
 	private PImage tower1;
 	
@@ -25,20 +26,28 @@ public class Store {
 		p.fill(Color.cyan.getRGB());
 		p.rect(menuX, menuY, menuWidth, menuHeight);
 		
-		//not over menu
-		overMenu=false;
+		//not a tower / menu --reset check
+		overTower=false;
+		overStore=false;
 		
-		if(p.mouseX>menuX && p.mouseX<menuX+190 && p.mouseY>menuY && p.mouseY<menuY+110){
+		//overtower  menu
+		if(p.mouseX>menuX && p.mouseX<menuX+190 && p.mouseY>menuY ){
+			overStore=true;
 			
-			//is over menu
-			overMenu=true;
+			//over tower 1
+			if(p.mouseY<menuY+110){
+		
+				overTower=true;
+				
+				p.fill(Color.pink.getRGB());
+				
+				//draw pink rect behind tower
+				p.rect(menuX+5, menuY+5, 190, 105);
 			
-			p.fill(Color.pink.getRGB());
-			
-			//tower1
-			p.rect(menuX+5, menuY+5, 190, 105);
-			
+			}
 		}
+		
+		//sets select tower background to green
 		switch(towerSelected){
 		
 		case 1:
@@ -58,8 +67,11 @@ public class Store {
 		drawTowers(p);
 	}
 
-	public boolean overMenu(){
-		return overMenu;
+	public boolean overTower(){
+		return overTower;
+	}
+	public boolean overStore(){
+		return overStore;
 	}
 	public PImage getImage(){
 		return tower1;
