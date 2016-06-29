@@ -96,6 +96,13 @@ public class Main extends PApplet {
 		textSize(35);
 		fill(0);
 		text("Map 1", 200, 400);
+		
+		//back button highlight
+		textSize(60);
+		//If mouse is over back, change the fill purple 
+		if(mouseX >= 50 && mouseX <=50+125 && mouseY>=650 && mouseY<=700 && gameState == 1)
+			fill(186,85,211);
+		text("Back", 50, 700);
 	}
 	
 	private void mainMenu(){
@@ -180,7 +187,7 @@ public class Main extends PApplet {
 		}
 		
 		//if user clicks on back change game state
-		if(mouseX >= 50 && mouseX <=50+125 && mouseY>=650 && mouseY<=700 && gameState == 3)
+		if(mouseX >= 50 && mouseX <=50+125 && mouseY>=650 && mouseY<=700 && (gameState == 3||gameState == 1))
 			gameState = 0;
 		
 		
