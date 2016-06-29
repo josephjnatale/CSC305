@@ -1,11 +1,15 @@
 import processing.core.PApplet;
 import processing.core.PImage;
 import java.*;
+import java.awt.Color;
 
 public class Main extends PApplet {
 	
+	//Initiates Map and gamedriver
 	private Map MAP;
 	private gameDriver game;
+	
+	
 	
 	private PImage basket = loadImage("images\\basket.png");
 	public PImage squirrel = loadImage("images\\squirrel.png");
@@ -32,6 +36,7 @@ public class Main extends PApplet {
 		
 		//state machine
 		switch(gameState){
+		
 		case 0:
 			mainMenu();
 			break;
@@ -43,18 +48,20 @@ public class Main extends PApplet {
 		case 2:
 			game.draw();
 			break;	
-		
+			
 		case 3:
 			instructions();
 			break;
 		}
 		
 		//draws framerate over any screen.
+		this.textSize(45);
 		fill(Color.cyan.getRGB());
 		text(frameRate, 50, 50);			
 	}
 	
 	private void instructions(){
+		
 		background(100);
 		textSize(60);
 		fill(255);

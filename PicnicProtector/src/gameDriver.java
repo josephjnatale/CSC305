@@ -29,10 +29,19 @@ public class gameDriver extends PApplet{
 
 	
 	public gameDriver(PApplet parent, Map m){
+		//sets Papplet
 		p=parent;
+		
+		//loads map data
 		MAP = m;
+		
+		//creates attackerdriver sends over applet and map class
 		attackerDriver = new attackerDriver(p, MAP);
+		
+		//creates a new store  sends over the appelt
 		store= new Store(p);
+		
+		//creates tower driver sends over appelt
 		towerDriver = new towerDriver(p);
 	}
 	
@@ -54,31 +63,46 @@ public class gameDriver extends PApplet{
 	public void draw()
 	{	
 		
-		//one call to redraw everything on the screen
+		/*
+		Order of the layers drawn
+		
+		
+		store images
+		tower select rects
+		Store
+		attackers
+		towers
+		background		
+		
+		*/
 		REDRAW();
 		
+		
+		//controls the phase, things that happen in both are just drawn ouside the switch
 		switch(phase){
 		
 		case "build":
 			buildPhase();
-			
 			break;
+			
 		case "attack":
 			init();
 			break;
 		}
 		
+		//draws images for the store
 		store.drawTowers(p);
 		
-		//attackerDriver deals with any type of attacker movement
-		//
-		//p.image(tower, towerX, towerY);
-	
 	}
 	
 	private void buildPhase(){
+		//build phase allows for map select
+		//store.main handels any mouse interaction with the store
 		store.main();
 		
+		//will have different options in the future, but for now this dictates what image to draw at the mouse location
+		//when player has clicked on a tower image from the store.
+		//towerSelected will bee -1 when nothing is selected, the default handles that case
 		switch(store.towerSelected()){
 		case 1:
 			p.image(store.getImage(), p.mouseX, p.mouseY, 100, 100);
@@ -88,31 +112,29 @@ public class gameDriver extends PApplet{
 			break;
 		}
 		
+		//if there is a tower selected and the player has clicked and the mouse is not over the store
+		//place a tower at the players mouse coor's
 		if(store.towerSelected()!=-1 && p.mousePressed && !store.overMenu()){
 			
 			placeTower(p.mouseX, p.mouseY);
 			
 		}
-		//places tower once selected
+		
 		
 	}
 	
+	//adds the tower newly placed tower to the towerList inside gamedriver and deselects the tower from currently selected
 	private void placeTower(int x, int y){
 		
 		towerDriver.addTower(x,  y);
 		store.setTowerSelected(-1);
 	}
 	
+	
 	private void attackPhase(){
 		
 		//deals with all attacker movement
 		attackerDriver.main(attackerList);
-	}
-	
-	public void mouseClicked() {
-	
-			
-			
 	}
 	
 	//calls redrawbg and redrawattacker

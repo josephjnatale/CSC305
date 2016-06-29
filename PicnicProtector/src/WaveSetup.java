@@ -8,6 +8,7 @@ public class WaveSetup {
 	//for now statically adding the attackers per wave, [wave][# of squirrels, etc, ...]
 	private int[][] eachWave = {{5}};
 	
+	
 	public WaveSetup(int wave){
 		this.wave = wave;
 	}
