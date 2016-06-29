@@ -61,8 +61,8 @@ public class attackerDriver {
 		
 		for(int i=0; i<attackerList.size(); i++){
 
-			int xPos=attackerList.get(i).getX();
-			int yPos=attackerList.get(i).getY();
+			//int xPos=attackerList.get(i).getX();
+			//int yPos=attackerList.get(i).getY();
 			
 			switch(attackerList.get(i).getType()){
 			

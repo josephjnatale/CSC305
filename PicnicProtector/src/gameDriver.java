@@ -24,8 +24,6 @@ public class gameDriver extends PApplet{
 	private boolean setup=true;
 
 
-	//will be in tower class
-	private int towerX = 100, towerY = 100;
 	private String phase = "build";
 
 	
@@ -45,22 +43,7 @@ public class gameDriver extends PApplet{
 		//creates tower driver sends over appelt
 		towerDriver = new towerDriver(p);
 	}
-	
-	public void init(){
 		
-		//if fist time setup, after each wave this will be reset so that the correct amount of attacker are loaded
-		if(setup){
-		
-			attackerList=wave.setList();
-			setup=false;
-			
-		}
-		
-		attackPhase();
-		
-	}
-	
-	
 	public void draw()
 	{	
 		
@@ -76,7 +59,8 @@ public class gameDriver extends PApplet{
 		background		
 		
 		*/
-		REDRAW();
+		
+		REDRAW(phase);
 		
 		
 		//controls the phase, things that happen in both are just drawn ouside the switch
@@ -93,6 +77,20 @@ public class gameDriver extends PApplet{
 		
 		//draws images for the store
 		store.drawTowers(p);
+		
+	}
+	
+	public void init(){
+		
+		//if fist time setup, after each wave this will be reset so that the correct amount of attacker are loaded
+		if(setup){
+		
+			attackerList=wave.setList();
+			setup=false;
+			
+		}
+		
+		attackPhase();
 		
 	}
 	
@@ -151,14 +149,18 @@ public class gameDriver extends PApplet{
 	}
 	
 	//calls redrawbg and redrawattacker
-	private void REDRAW() {
+	private void REDRAW(String phase) {
 		//System.out.println("Redrawing");
 		
 		MAP.drawMap(p);
 		towerDriver.redraw();
 		
-		//happens once wave starts
-		//attackerDriver.redrawAttacker();
+		if(phase.equals("attack") && !setup){
+			//happens once wave starts
+			System.out.println("Drawing attackers");
+			attackerDriver.redrawAttacker();
+			
+		}
 		
 		
 	}

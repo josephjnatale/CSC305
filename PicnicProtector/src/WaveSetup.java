@@ -15,7 +15,7 @@ public class WaveSetup {
 	
 	public ArrayList<Attacker> setList(){
 		
-		//will hold wave attackerlist but for now only 1 attacker
+		
 		addAttacker();
 		
 		
