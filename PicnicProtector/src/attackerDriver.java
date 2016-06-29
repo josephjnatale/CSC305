@@ -59,7 +59,7 @@ public class attackerDriver {
 	
 	public void redrawAttacker() {
 		
-		for(int i=0; i<attackerList.size(); i++){
+		for(int i=0; i<attackerList.size()-1; i++){
 
 			//int xPos=attackerList.get(i).getX();
 			//int yPos=attackerList.get(i).getY();
@@ -67,6 +67,7 @@ public class attackerDriver {
 			switch(attackerList.get(i).getType()){
 			
 			case "squirrel":
+				System.out.println("Drawing attacker "+i);
 				attackerList.get(i).draw(p);
 				break;
 			

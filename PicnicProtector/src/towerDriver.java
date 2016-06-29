@@ -66,7 +66,10 @@ public class towerDriver {
 	}
 	
 	public void redraw(){
+		
+		
 		for(int i =0; i<towerList.size(); i++){
+			System.out.println("redrawing tower "+ i);
 			towerList.get(i).draw(tower1);
 		}
 	}

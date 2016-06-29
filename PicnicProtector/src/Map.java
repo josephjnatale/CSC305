@@ -25,8 +25,8 @@ public class Map {
 	}
 	
 	public void drawMap(PApplet applet){
-		applet.fill(255);
-		applet.rect(0, 0, 1280, 720);
+		
+		System.out.println("Drawing map");
 		applet.image(mapImage, mapImage.width/2, mapImage.height/2+60);
 	}
 	

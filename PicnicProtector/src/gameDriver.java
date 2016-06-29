@@ -153,6 +153,10 @@ public class gameDriver extends PApplet{
 		//System.out.println("Redrawing");
 		
 		MAP.drawMap(p);
+		
+		drawInterface();
+		
+		//redraws placed tower on map
 		towerDriver.redraw();
 		
 		if(phase.equals("attack") && !setup){
@@ -162,10 +166,28 @@ public class gameDriver extends PApplet{
 			
 		}
 		
+		System.out.println("CurrentPhase: "+phase+"\n");
+		
 		
 	}
 	
+	private void drawInterface(){
+		p.fill(255);
+		p.rect(0, 0, 1280, 60);
+		
+		p.fill(Color.green.getRGB());
+		p.rect(1080, 10, 175, 40);
+		p.fill(Color.blue.getRGB());
+		p.textSize(30);
+		p.text("Start Wave", 1100, 35);
+		
+		//clicked on start wave set phase to attack
+		if(p.mousePressed && p.mouseX>1080 && p.mouseX<1260 && p.mouseY>10 && p.mouseY<50){
+			System.out.println("Clicked on wave start, setting phase to attack phase");
+			phase="attack";
+		}
 	
+	}
 	
 
 	 
