@@ -14,18 +14,12 @@ public class squirrel extends Attacker{
 		type="squirrel";
 		
 		movementSpeed=1;
-		
-		
-		
+				
 	}
 	
 	
 	public void draw(PApplet p){
 		
-		squirrelLeft = new Gif(p, "images\\squirrelLeft.gif");
-		squirrelRight = new Gif(p, "images\\squirrelRight.gif");
-		squirrelUp = new Gif(p, "images\\squirrelUp.gif");
-		squirrelDown = new Gif(p, "images\\squirrelDown.gif");
 		
 		squirrelDown.play();
 		squirrelUp.play();
@@ -47,6 +41,8 @@ public class squirrel extends Attacker{
 				p.image(squirrelUp, this.getX(),  this.getY());
 				break;
 		}
+		
+		
 		
 	}
 
