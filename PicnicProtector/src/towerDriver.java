@@ -2,28 +2,26 @@ import java.util.ArrayList;
 
 import processing.core.*;
 
-public class towerDriver {
+public class towerDriver extends Main{
 	
-	private PApplet p;
+
 	private ArrayList<Tower> towerList;
-	private PImage tower1;
+	protected PImage tower1;
 	
 	
-	public towerDriver(PApplet applet){
+	public towerDriver(){
 		
-		p=applet; 
 		towerList = new ArrayList<Tower>();
-		tower1= p.loadImage("images\\tower.png");
 	}
 	
 	public void addTower(int x, int y){
 		
 		
-		towerList.add(new Tower(p, x, y));
-		System.out.println("added a new tower");
+		towerList.add(new Tower(x, y));
+		//System.out.println("added a new tower");
 	}
 	
-	public boolean checkPlacement(int x, int y){
+	public boolean closeToOtherTower(int x, int y){
 		
 		//if it is not the first tower to be added
 		if(towerList.size()!=0){
@@ -57,20 +55,72 @@ public class towerDriver {
 			
 			
 		}
-		//check to see if tower is too close to the path
-		//if()
 		
+		//check to see if tower is too close to the path
+		
+		//int red= (int) red(images.map1.get(x, y));
+	
+		
+		//System.out.println(""+x+" , "+y+"\n"+ green);
+        
+       // int blue= (int) blue(images.map1.get(x, y));
+        
+        /*if the user clicks on the path return false
+		if(green==122)
+			return false;
+		
+		//changes pixel to left edge
+		green = green(images.map1.get(x-Tower.WIDTH/2, y));
+		
+		if(green==122)
+			return false;
+		
+		//changes pixel to top edge
+				green = green(images.map1.get(x, y-Tower.WIDTH/2));
+				
+				if(green==122)
+					return false;
+				
+		//changes pixel to right edge
+		green = (int) green(images.map1.get(x+Tower.WIDTH/2, y));
+		
+		if(green==122)
+			return false;
+		
+		//changes pixel to bottom edge
+		green = (int) green(images.map1.get(x, y+Tower.WIDTH/2));
+		
+		if(green==122)
+			return false;
+		
+		
+		*/
 			
 		return true;
 		
 	}
 	
-	public void redraw(){
+	
+	public boolean overPath(){
+		
+		if(greenAtMouse==177)
+			return false;
+		
+		else if(greenAtMouse==122){
+			
+			System.out.println("INVALID POSITION");
+			return true;
+		}
+		
+		
+		return false;
+	}
+	public void redraw(PApplet p){
 		
 		
 		for(int i =0; i<towerList.size(); i++){
-			System.out.println("redrawing tower "+ i);
-			towerList.get(i).draw(tower1);
+			//System.out.println("redrawing tower "+ i);
+			towerList.get(i).draw(p);
 		}
 	}
 

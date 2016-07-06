@@ -9,6 +9,13 @@ public class allMyImages extends PApplet{
 	public Gif squirrelDown = new Gif(this, "images\\squirrelDown.gif");
 	public Gif squirrelOriginal = new Gif(this, "images\\squirrelGif--Original.gif");
 	
+	public PImage basket = loadImage("images\\basket.png");
+	public PImage menuBackground = loadImage("images\\menu.jpg");
+	public PImage map1 = loadImage("images\\map1.png");
+	public PImage tower1 = loadImage("images\\tower.png");
+	
+
+	
 	public allMyImages(){
 		
 	}

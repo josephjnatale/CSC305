@@ -41,12 +41,12 @@ public class gameDriver extends Main {
 		store= new Store(p);
 		
 		//creates tower driver sends over appelt
-		towerDriver = new towerDriver(p);
+		towerDriver = new towerDriver();
 	}
 		
 	public void draw()
 	{	
-		
+		System.out.println(""+greenAtMouse);
 		/*
 		Order of the layers drawn
 		
@@ -116,16 +116,25 @@ public class gameDriver extends Main {
 		if(store.towerSelected()!=-1 && p.mousePressed && !store.overStore()){
 			
 			//check the placement of the tower
-			if(towerDriver.checkPlacement(p.mouseX, p.mouseY))
+			if(towerDriver.closeToOtherTower(p.mouseX, p.mouseY)&& !towerDriver.overPath())
 				placeTower(p.mouseX, p.mouseY);
 			
-			//else show a error circle at the mouse coor
-			else{
+			//if too close to another tower
+			else if(!towerDriver.closeToOtherTower(p.mouseX, p.mouseY)){
 				p.fill(Color.red.getRGB());
 				p.ellipse(p.mouseX, p.mouseY, 75, 75);
 				p.fill(Color.black.getRGB());
 				p.textSize(12);
 				p.text("Too Close\nTo Other\n  Tower", p.mouseX-25, p.mouseY-12);
+			}
+			
+			//if over the path
+			else if(towerDriver.overPath()){
+				p.fill(Color.red.getRGB());
+				p.ellipse(p.mouseX, p.mouseY, 75, 75);
+				p.fill(Color.black.getRGB());
+				p.textSize(12);
+				p.text("Too Close\nTo Other\n  Path", p.mouseX-25, p.mouseY-12);
 			}
 			
 		}
@@ -157,16 +166,16 @@ public class gameDriver extends Main {
 		drawInterface();
 		
 		//redraws placed tower on map
-		towerDriver.redraw();
+		towerDriver.redraw(p);
 		
 		if(phase.equals("attack") && !setup){
 			//happens once wave starts
-			System.out.println("Drawing attackers");
+			//System.out.println("Drawing attackers");
 			attackerDriver.redrawAttacker();
 			
 		}
 		
-		System.out.println("CurrentPhase: "+phase+"\n");
+		//System.out.println("CurrentPhase: "+phase+"\n");
 		
 		
 	}
@@ -183,7 +192,7 @@ public class gameDriver extends Main {
 		
 		//clicked on start wave set phase to attack
 		if(p.mousePressed && p.mouseX>1080 && p.mouseX<1260 && p.mouseY>10 && p.mouseY<50){
-			System.out.println("Clicked on wave start, setting phase to attack phase");
+			//System.out.println("Clicked on wave start, setting phase to attack phase");
 			phase="attack";
 		}
 	

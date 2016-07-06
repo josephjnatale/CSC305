@@ -1,19 +1,16 @@
 import processing.core.*;
 
-public class Map {
+public class Map extends Main{
 	
-	private int map;
-	private PApplet p;
 	private PImage mapImage;
 	//top left and bottom right corner of turning point
 	private int[][] turningPoints={{140 ,355 ,200, 400},{765, 345, 800, 400}};
 	
 	public Map(PApplet applet, int map){
-		p=applet;
-		this.map=map;
+		
 		switch(map){
 		case 1:
-			mapImage= p.loadImage("images\\map1.png");
+			mapImage= images.map1;
 			break;
 		}
 	}
@@ -26,7 +23,7 @@ public class Map {
 	
 	public void drawMap(PApplet applet){
 		
-		System.out.println("Drawing map");
+		//System.out.println("Drawing map");
 		applet.image(mapImage, mapImage.width/2, mapImage.height/2+60);
 	}
 	

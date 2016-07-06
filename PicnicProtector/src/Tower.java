@@ -1,12 +1,10 @@
 import processing.core.*;
 
-public class Tower{
+public class Tower extends towerDriver{
 	
 	private int x, y, range = 60;
-	private PApplet p;
 	
-	public Tower(PApplet applet, int x, int y){
-		p=applet;
+	public Tower( int x, int y){
 		this.x = x;
 		this.y = y;
 		
@@ -26,10 +24,10 @@ public class Tower{
 		return y;
 	}
 	
-	public void draw(PImage image){
+	public void draw(PApplet p){
 		
 		
-		p.image(image, x, y,  100, 100);
+		p.image(images.tower1, x, y,  100, 100);
 	}
 	
 	public int distanceToPoint(int xPos, int yPos){

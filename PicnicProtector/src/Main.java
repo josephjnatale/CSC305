@@ -9,24 +9,20 @@ public class Main extends PApplet {
 	private Map MAP;
 	private gameDriver game;
 	
-	public static allMyImages images = new allMyImages();
+	protected static allMyImages images = new allMyImages();
 	
+	private int basketx=-250, squirrelx=-550;
 	
-	
-	private PImage basket = loadImage("images\\basket.png");
-	public PImage squirrel = loadImage("images\\squirrel.png");
-	private PImage menuBackground = loadImage("images\\menu.jpg");
-	private PImage map = loadImage("images\\map1.png");
 	
 	private int gameState = 0, mapSelected =-1;
 	
-	private int sx=-squirrel.width/6-basket.width/4-100, bx=-basket.width/4, i=0, basketx=0,squirrelx=0;
-	
+	//is the value of green at the current mouse position
+	protected static int greenAtMouse;
 	
 	public void setup(){
 		
 	
-		size(menuBackground.width, menuBackground.height);
+		size(images.menuBackground.width, images.menuBackground.height);
 		background(255);
 		frameRate(60);
 		imageMode(CENTER);
@@ -55,6 +51,9 @@ public class Main extends PApplet {
 			instructions();
 			break;
 		}
+		
+		greenAtMouse= (int) green(images.map1.get(mouseX, mouseY-60));
+		//System.out.println("Green: "+green);
 		
 		
 		//draws framerate over any screen.
@@ -89,7 +88,7 @@ public class Main extends PApplet {
 		
 		rect(70, 100, 350, 370);
 		
-		image(map, 250, 200, map.width/4, map.height/4);
+		image(images.map1, 250, 200, images.map1.width/4, images.map1.height/4);
 		textSize(35);
 		fill(0);
 		text("Map 1", 200, 400);
@@ -105,30 +104,27 @@ public class Main extends PApplet {
 	private void mainMenu(){
 		
 		//sets background image
-		image(menuBackground,menuBackground.width/2, menuBackground.height/2);
+		image(images.menuBackground,images.menuBackground.width/2, images.menuBackground.height/2);
 				
 		//basket is the basket's x position, bx is the distance needed to hide the image off the left side of the screen. 
 		//squirrel's x needs to also clear the baskets x so sx is larger than bx.
 		//% makes it loop back to the beginning.
-		basketx=bx+i%(1280+2*basket.width/4);
-		squirrelx=sx+i%(1280+2*squirrel.width/6+basket.width/4);
+		basketx+=3;
+		squirrelx+=3;
 		
+		if(basketx>1800)
+			basketx=-250;
 		
-		//if at end, then go back to left side
-		if(basketx>1280)
-			basketx=bx;
-		if(squirrelx>1280)
-			squirrelx=sx;
+		if(squirrelx>1800)
+			squirrelx=-250;
 		
 		//draw the images at the specified positions, make the image a sixth and a fourth the original size.
 		//System.out.println("Drawing moving things");
 		images.squirrelRight.play();
 		image(images.squirrelRight, squirrelx, 270, width/6, height/6);
-		image(basket, basketx, 200, width/4, height/4);
+		image(images.basket, basketx, 230, width/4, height/4);
 		
-		
-		//Increments i, i is the amount of pixels the basket and squirrel moves each time around
-		i+=5;
+
 		
 		//writes Picnic game title
 		textSize(90);
@@ -205,10 +201,10 @@ public class Main extends PApplet {
 		}
 		
 		//displays rgb color values when click, no matter the screen
-		println("Red: "+red(get().pixels[mouseX + mouseY * width]));
-        println("Green: "+green(get().pixels[mouseX + mouseY * width]));
-        println("Blue: "+blue(get().pixels[mouseX + mouseY * width]));
-		println();
+//		println("Red: "+red(get().pixels[mouseX + mouseY * width]));
+//        println("Green: "+green(get().pixels[mouseX + mouseY * width]));
+//        println("Blue: "+blue(get().pixels[mouseX + mouseY * width]));
+//		println();
 	}
 	
 }
