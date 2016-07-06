@@ -4,10 +4,6 @@ import processing.core.*;
 public class squirrel extends Attacker{
 
 	
-	private Gif squirrelLeft;
-	private Gif squirrelRight;
-	private Gif squirrelUp;
-	private Gif squirrelDown;
 	
 	public squirrel(double x, double y) {
 		super(x, y);
@@ -21,24 +17,25 @@ public class squirrel extends Attacker{
 	public void draw(PApplet p){
 		
 		
-		squirrelDown.play();
-		squirrelUp.play();
-		squirrelLeft.play();
-		squirrelRight.play();
+		
 		
 		switch(moving)
 		{
-			case "down": 
-				p.image(squirrelDown, this.getX(),  this.getY());
+			case "down":
+				images.squirrelDown.play();
+				p.image(images.squirrelDown, this.getX(),  this.getY());
 				break;
 			case "left":
-				p.image(squirrelLeft, this.getX(),  this.getY());
+				images.squirrelLeft.play();
+				p.image(images.squirrelLeft, this.getX(),  this.getY());
 				break;
 			case "right":
-				p.image(squirrelRight, this.getX(),  this.getY());
+				images.squirrelRight.play();
+				p.image(images.squirrelRight, this.getX(),  this.getY());
 				break;
 			case "up":
-				p.image(squirrelUp, this.getX(),  this.getY());
+				images.squirrelUp.play();
+				p.image(images.squirrelUp, this.getX(),  this.getY());
 				break;
 		}
 		

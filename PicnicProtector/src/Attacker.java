@@ -5,6 +5,9 @@ public abstract class Attacker {
 	//movementspeed is how many pixels per update attacker should move
 	protected double x, y, movementSpeed;
 	
+	//all the images 
+	protected  static allMyImages images = new allMyImages();
+	
 	//will be set depending on the map
 	protected String type, moving="down";
 	

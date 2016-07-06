@@ -5,7 +5,7 @@ import java.*;
 import java.awt.Color;
 import java.util.ArrayList;
 
-public class gameDriver extends PApplet{
+public class gameDriver extends Main {
 
 	private PApplet p;
 

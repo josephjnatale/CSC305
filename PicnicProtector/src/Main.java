@@ -9,6 +9,8 @@ public class Main extends PApplet {
 	private Map MAP;
 	private gameDriver game;
 	
+	public static allMyImages images = new allMyImages();
+	
 	
 	
 	private PImage basket = loadImage("images\\basket.png");
@@ -120,7 +122,8 @@ public class Main extends PApplet {
 		
 		//draw the images at the specified positions, make the image a sixth and a fourth the original size.
 		//System.out.println("Drawing moving things");
-		image(squirrel, squirrelx, 270, width/6, height/6);
+		images.squirrelRight.play();
+		image(images.squirrelRight, squirrelx, 270, width/6, height/6);
 		image(basket, basketx, 200, width/4, height/4);
 		
 		
