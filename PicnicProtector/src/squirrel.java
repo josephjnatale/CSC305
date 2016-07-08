@@ -9,7 +9,9 @@ public class squirrel extends Attacker{
 		super(x, y);
 		type="squirrel";
 		
-		movementSpeed=1;
+		movementSpeed=3;
+		
+		attackDamage=20;
 				
 	}
 	

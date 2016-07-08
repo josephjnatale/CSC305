@@ -50,8 +50,14 @@ public class attackerDriver {
 			attacker.move();
 			
 			//will decrease player health
-			if(yPos>725)
+			if(yPos>735){
+				
+				
 				attacker.repos(170, -40);
+				
+			}
+			
+				
 			
 
 	
@@ -59,7 +65,7 @@ public class attackerDriver {
 	
 	public void redrawAttacker() {
 		
-		for(int i=0; i<attackerList.size()-1; i++){
+		for(int i=0; i<attackerList.size(); i++){
 
 			//int xPos=attackerList.get(i).getX();
 			//int yPos=attackerList.get(i).getY();
@@ -67,7 +73,7 @@ public class attackerDriver {
 			switch(attackerList.get(i).getType()){
 			
 			case "squirrel":
-				System.out.println("Drawing attacker "+i);
+				//System.out.println("Drawing attacker "+i);
 				attackerList.get(i).draw(p);
 				break;
 			
@@ -75,6 +81,20 @@ public class attackerDriver {
 			//System.out.println("redrew Attacker at("+attackerList.get(i).getX()+" ,"+attackerList.get(i).getY()+")");
 			
 		}
+	}
+
+	public int endPathcheck(ArrayList<Attacker> attackerList) {
+		
+		int damageToBeDone=0;
+		
+		for(int i=0; i<attackerList.size(); i++){
+			if(attackerList.get(i).atEnd()){
+				damageToBeDone+= attackerList.get(i).attackDamage();
+				attackerList.remove(i);
+			}
+		}
+		
+		return damageToBeDone;
 	}
 
 }

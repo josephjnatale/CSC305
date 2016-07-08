@@ -18,7 +18,7 @@ public class towerDriver extends Main{
 		
 		
 		towerList.add(new Tower(x, y));
-		//System.out.println("added a new tower");
+		System.out.println("added a new tower");
 	}
 	
 	public boolean closeToOtherTower(int x, int y){

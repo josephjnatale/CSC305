@@ -8,13 +8,17 @@ import java.util.ArrayList;
 public class gameDriver extends Main {
 
 	private PApplet p;
+	private int currentWave=1;
 
 	private attackerDriver attackerDriver;
 	public towerDriver towerDriver;
-	private WaveSetup wave = new WaveSetup(1);
+	private WaveSetup wave = new WaveSetup(currentWave);
 	private Store store;
 	public Map MAP;
 	
+	
+	//the players health
+	private int playerHealth;
 	
 
 	//Arraylist to keep track of the attackers currently on the screen.
@@ -22,6 +26,12 @@ public class gameDriver extends Main {
 	
 	//keeps track if first time setup or to resetup wave
 	private boolean setup=true;
+	
+	//true if player has no health
+	private boolean noHealth;
+	
+	//score of the player
+	private int playerScore=1000;
 
 
 	private String phase = "build";
@@ -42,11 +52,21 @@ public class gameDriver extends Main {
 		
 		//creates tower driver sends over appelt
 		towerDriver = new towerDriver();
+		
+		//sets player health to 100 upon start of new map
+		playerHealth=100;
+		noHealth=false;
+		
+		//sets current wave to 1
+		currentWave=1;
+		
+		
+		
 	}
 		
 	public void draw()
 	{	
-		System.out.println(""+greenAtMouse);
+		//System.out.println(""+greenAtMouse);
 		/*
 		Order of the layers drawn
 		
@@ -71,16 +91,37 @@ public class gameDriver extends Main {
 			break;
 			
 		case "attack":
-			init();
+			attackPhaseDriver();
 			break;
 		}
 		
 		//draws images for the store
 		store.drawTowers(p);
 		
+		
+		//check if the player has lost done every 15 frames
+		if(p.frameCount%15==0 && playerHealth<=0)
+			noHealth=true;
+			
+		//System.out.println("player health: " + playerHealth);
+		
 	}
 	
-	public void init(){
+	public int getScore(){
+		return playerScore;
+	}
+	
+	public int getWave(){
+		return currentWave;
+	}
+	
+	public boolean noHealthCheck(){
+		
+		return noHealth;
+	}
+	
+	
+	public void attackPhaseDriver(){
 		
 		//if fist time setup, after each wave this will be reset so that the correct amount of attacker are loaded
 		if(setup){
@@ -89,6 +130,8 @@ public class gameDriver extends Main {
 			setup=false;
 			
 		}
+		
+		//all the attacker
 		
 		attackPhase();
 		
@@ -155,6 +198,11 @@ public class gameDriver extends Main {
 		
 		//deals with all attacker movement
 		attackerDriver.main(attackerList);
+		
+		//check to see if any attackers are at end path and returns the damage to be done, returns 0 other wise
+		playerHealth-=attackerDriver.endPathcheck(attackerList);
+		
+		
 	}
 	
 	//calls redrawbg and redrawattacker
@@ -188,13 +236,18 @@ public class gameDriver extends Main {
 		p.rect(1080, 10, 175, 40);
 		p.fill(Color.blue.getRGB());
 		p.textSize(30);
-		p.text("Start Wave", 1100, 35);
+		p.text("Start Wave", 1100, 38);
 		
 		//clicked on start wave set phase to attack
 		if(p.mousePressed && p.mouseX>1080 && p.mouseX<1260 && p.mouseY>10 && p.mouseY<50){
 			//System.out.println("Clicked on wave start, setting phase to attack phase");
 			phase="attack";
 		}
+		
+		p.textSize(20);
+		p.text("Phase: "+phase, 900, 35);
+		p.text("Player Health: "+playerHealth, 10,  35);
+		p.text("Score: "+playerScore, 400, 35);
 	
 	}
 	

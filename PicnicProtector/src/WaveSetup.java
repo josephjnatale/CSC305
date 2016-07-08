@@ -26,7 +26,7 @@ public class WaveSetup {
 	private void addAttacker(){
 		
 		//add squirrels
-		for(int i=0; i<=eachWave[wave-1][0]; i++){
+		for(int i=0; i<eachWave[wave-1][0]; i++){
 			
 			attackerList.add(new squirrel(170, -(i*115)));
 			

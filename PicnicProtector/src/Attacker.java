@@ -5,9 +5,14 @@ public abstract class Attacker extends Main {
 	//movementspeed is how many pixels per update attacker should move
 	protected double x, y, movementSpeed;
 	
+	protected int attackDamage;
+	
 	
 	//will be set depending on the map
 	protected String type, moving="down";
+	
+	//true if the attacker is at the end of the path
+	protected boolean atEnd=false;
 	
 
 	public Attacker(double x, double y){
@@ -34,6 +39,23 @@ public abstract class Attacker extends Main {
 			y-=movementSpeed;
 			break;
 		}
+		
+		endCheck();
+	}
+	
+	public boolean atEnd(){
+		return atEnd;
+	}
+	
+	public int attackDamage(){
+		return attackDamage;
+	}
+	
+	private void endCheck(){
+		
+		//needs to be changed if added different style maps
+		if(y>730)
+			atEnd=true;
 	}
 	
 	public void setMovingDirection(String dir){

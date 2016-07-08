@@ -14,10 +14,13 @@ public class Main extends PApplet {
 	private int basketx=-250, squirrelx=-550;
 	
 	
-	private int gameState = 0, mapSelected =-1;
+	private int gameState = 1, mapSelected =-1;
 	
 	//is the value of green at the current mouse position
 	protected static int greenAtMouse;
+	
+	//can be a text file holding the scores but for now just a int
+	private int endScore, endWave;
 	
 	public void setup(){
 		
@@ -45,14 +48,36 @@ public class Main extends PApplet {
 			
 		case 2:
 			game.draw();
+			//checks to see if player has lost every 20 frame
+			if(game.noHealthCheck() && frameCount%20==0){
+				//gets final score and wave
+				endScore=game.getScore();
+				endWave=game.getWave();
+				
+				
+				//sests game state to end game screen;
+				gameState=4;
+				
+			}
 			break;	
 			
 		case 3:
 			instructions();
 			break;
+			
+		case 4:
+			gameOver();
+			break;
+			
 		}
 		
-		greenAtMouse= (int) green(images.map1.get(mouseX, mouseY-60));
+		
+		//checks to see if the player has lost
+		
+		
+		//gets green color at mouse every 5 frames
+		if(frameCount%10==0)
+			greenAtMouse= (int) green(images.map1.get(mouseX, mouseY-60));
 		//System.out.println("Green: "+green);
 		
 		
@@ -60,6 +85,24 @@ public class Main extends PApplet {
 		this.textSize(45);
 		fill(Color.cyan.getRGB());
 		text(frameRate, 50, 50);			
+	}
+	
+	private void gameOver(){
+		background(100);
+		textSize(70);
+		fill(255);
+		text("Game Over", 450, 70);
+		text("Final Score: "+endScore+"\n\nFinal Wave: "+endWave, 100, 300);
+		
+		fill(100, 200, 105);
+		
+		if(mouseX>680 && mouseX<1200 && mouseY>520 && mouseY<630)
+			fill(Color.orange.getRGB());
+		
+		rect(680, 520, 420, 110);
+		fill(255);
+		text("Play Again?", 700, 600);
+		
 	}
 	
 	private void instructions(){
@@ -180,8 +223,8 @@ public class Main extends PApplet {
 			gameState = 3 ;
 		}
 		
-		//if user clicks on back change game state
-		if(mouseX >= 50 && mouseX <=50+125 && mouseY>=650 && mouseY<=700 && (gameState == 3||gameState == 1))
+		//if user clicks on back change game state while on map select or instructions
+		if((gameState == 3||gameState == 1)&& mouseX >= 50 && mouseX <=50+125 && mouseY>=650 && mouseY<=700 )
 			gameState = 0;
 		
 		
@@ -194,10 +237,16 @@ public class Main extends PApplet {
 			gameState=2;
 		}
 		
-		//if they click quit
-		if(mouseX >= 950 && mouseX <=950+130 && mouseY>=650 && mouseY<=700 && gameState==0){
+		//if they click quit while on the main menu
+		if(gameState==0 &&  mouseX >= 950 && mouseX <=950+130 && mouseY>=650 && mouseY<=700 ){
 			System.out.println("Detected quit button, now closing window");
 			System.exit(0);
+		}
+		
+		//if they click on play agagin button while at the game overscrren
+		if(gameState==4 && mouseX>680 && mouseX<1200 && mouseY>520 && mouseY<630){
+			//send them to the select menu screen
+			gameState=1;
 		}
 		
 		//displays rgb color values when click, no matter the screen
