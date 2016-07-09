@@ -6,7 +6,7 @@ public class WaveSetup {
 	private ArrayList<Attacker> attackerList = new ArrayList<Attacker>();
 	
 	//for now statically adding the attackers per wave, [wave][# of squirrels, etc, ...]
-	private int[][] eachWave = {{5}};
+	private int[][] eachWave = {{5},{8},{15},{30},{55}};
 	
 	
 	public WaveSetup(int wave){
@@ -32,7 +32,10 @@ public class WaveSetup {
 			
 		}
 		
-		
+	}
+	
+	public void setWave(int wave){
+		this.wave=wave;
 	}
 
 }

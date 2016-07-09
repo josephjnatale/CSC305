@@ -14,9 +14,7 @@ public class Map extends Main{
 			break;
 		}
 	}
-	
-	
-	
+		
 	public int[][] getTurningPoints(){
 		return turningPoints;
 	}
@@ -27,11 +25,4 @@ public class Map extends Main{
 		applet.image(mapImage, mapImage.width/2, mapImage.height/2+60);
 	}
 	
-	public void distanceToPath(int x, int y){
-		
-		
-	}
-	
-	
-
 }

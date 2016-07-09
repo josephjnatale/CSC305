@@ -14,7 +14,7 @@ public class Main extends PApplet {
 	private int basketx=-250, squirrelx=-550;
 	
 	
-	private int gameState = 1, mapSelected =-1;
+	private int gameState = 0, mapSelected =-1;
 	
 	//is the value of green at the current mouse position
 	protected static int greenAtMouse;
@@ -31,9 +31,7 @@ public class Main extends PApplet {
 		imageMode(CENTER);
 	}
 	
-	public void draw(){
-		
-		
+	public void draw(){		
 		
 		//state machine
 		switch(gameState){
@@ -84,7 +82,8 @@ public class Main extends PApplet {
 		//draws framerate over any screen.
 		this.textSize(45);
 		fill(Color.cyan.getRGB());
-		text(frameRate, 50, 50);			
+		text(frameRate, 50, 150);	
+		
 	}
 	
 	private void gameOver(){

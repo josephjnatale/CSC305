@@ -54,7 +54,7 @@ public class gameDriver extends Main {
 		towerDriver = new towerDriver();
 		
 		//sets player health to 100 upon start of new map
-		playerHealth=100;
+		playerHealth=1000;
 		noHealth=false;
 		
 		//sets current wave to 1
@@ -202,6 +202,17 @@ public class gameDriver extends Main {
 		//check to see if any attackers are at end path and returns the damage to be done, returns 0 other wise
 		playerHealth-=attackerDriver.endPathcheck(attackerList);
 		
+		if(attackerList.isEmpty()){
+			phase="build";
+			setup=true;
+			currentWave++;
+			wave.setWave(currentWave);
+			
+			//adds end of wave bonus
+			
+			
+		}
+		
 		
 	}
 	
@@ -248,6 +259,7 @@ public class gameDriver extends Main {
 		p.text("Phase: "+phase, 900, 35);
 		p.text("Player Health: "+playerHealth, 10,  35);
 		p.text("Score: "+playerScore, 400, 35);
+		p.text("Wave: "+currentWave, 700, 35);
 	
 	}
 	
