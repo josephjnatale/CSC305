@@ -15,14 +15,15 @@ public class gameDriver extends Main {
 	private WaveSetup wave = new WaveSetup(currentWave);
 	private Store store;
 	public Map MAP;
-	
+	//the lower the better
+	private int towerFireDelay = 180;
 	
 	//the players health
 	private int playerHealth;
 	
 
 	//Arraylist to keep track of the attackers currently on the screen.
-	public ArrayList<Attacker> attackerList = new ArrayList<Attacker>();
+	private ArrayList<Attacker> attackerList = new ArrayList<Attacker>();
 	
 	//keeps track if first time setup or to resetup wave
 	private boolean setup=true;
@@ -32,7 +33,7 @@ public class gameDriver extends Main {
 	
 	//score of the player
 	private int playerScore=1000;
-
+	private int reloadTime = millis();
 
 	private String phase = "build";
 
@@ -201,7 +202,13 @@ public class gameDriver extends Main {
 		
 		//check to see if any attackers are at end path and returns the damage to be done, returns 0 other wise
 		playerHealth-=attackerDriver.endPathcheck(attackerList);
-		
+		/**Timing of hit Detection
+		 * 
+		 */
+		if(millis() >= reloadTime){
+		towerDriver.hitDetection(attackerList);
+		reloadTime = millis() + towerFireDelay;
+		}
 		if(attackerList.isEmpty()){
 			phase="build";
 			setup=true;
@@ -212,6 +219,7 @@ public class gameDriver extends Main {
 			
 			
 		}
+		
 		
 		
 	}
@@ -263,6 +271,6 @@ public class gameDriver extends Main {
 	
 	}
 	
-
+	
 	 
 }

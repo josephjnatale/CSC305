@@ -10,7 +10,7 @@ public class squirrel extends Attacker{
 		type="squirrel";
 		
 		movementSpeed=3;
-		
+		health = 40;
 		attackDamage=20;
 				
 	}
