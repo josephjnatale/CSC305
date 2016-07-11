@@ -89,6 +89,7 @@ public class attackerDriver {
 		
 		for(int i=0; i<attackerList.size(); i++){
 			if(attackerList.get(i).atEnd()){
+				if(!attackerList.get(i).isDead)
 				damageToBeDone+= attackerList.get(i).attackDamage();
 				attackerList.remove(i);
 			}

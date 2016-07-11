@@ -7,7 +7,7 @@ public class Tower extends towerDriver{
 	 * that delays the hit detection for now needs to be changed if 
 	 * we want multiple tower fire rates
 	 */
-	private int x, y, range = 120, damage = 12, fireRate = 300;
+	private int x, y, range = 160, damage = 12, fireRate = 300;
 
 	private Attacker target = null;
 
