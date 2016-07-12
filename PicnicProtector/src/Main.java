@@ -3,6 +3,7 @@ import processing.core.PImage;
 import java.*;
 import java.awt.Color;
 import java.io.IOException;
+import java.util.logging.Logger;
 
 public class Main extends PApplet {
 	
@@ -10,6 +11,7 @@ public class Main extends PApplet {
 	private Map MAP;
 	private gameDriver game;
 	
+	private final static Logger LOGGER = Logger.getLogger(Logger.GLOBAL_LOGGER_NAME);
 	protected static allMyImages images = new allMyImages();
 	
 	private int basketx=-250, squirrelx=-550;
@@ -27,6 +29,14 @@ public class Main extends PApplet {
 	
 	public void setup(){
 		
+		//Log files setup
+		try {
+		      LoggerMain.setup();
+		    } catch (IOException e) {
+		      e.printStackTrace();
+		      throw new RuntimeException("Problems with creating the log files");
+		    }
+		//log files setup end
 	
 		size(images.menuBackground.width, images.menuBackground.height);
 		background(255);
@@ -144,10 +154,11 @@ public class Main extends PApplet {
 		if(mouseX >= 50 && mouseX <=50+125 && mouseY>=650 && mouseY<=700 && gameState == 1)
 			fill(186,85,211);
 		text("Back", 50, 700);
+	    LOGGER.info("Back button Pressed");
+
 	}
 	
 	private void mainMenu(){
-		
 		//sets background image
 		image(images.menuBackground,images.menuBackground.width/2, images.menuBackground.height/2);
 				
@@ -210,9 +221,10 @@ public class Main extends PApplet {
 	}
 	
 	public void mouseClicked() {
+
 		//if on main menu and they click
 		if(gameState==0 && mouseX >= 580 && mouseX <=580+140 && mouseY>=650 && mouseY<=700){
-			System.out.println("Detected click on Play, sending over to gameDriver");
+			LOGGER.info("Detected click on Play, sending over to gameDriver");
 			//Changes the game state from start menu to running
 			gameState = 1;
 			
@@ -220,7 +232,7 @@ public class Main extends PApplet {
 		
 		//if on menu n click instructions
 		if(gameState==0 && mouseX >= 100 && mouseX <=450 && mouseY>=650 && mouseY<=700){
-			System.out.println("Detected click on Instructions, sending over to gameDriver");
+			LOGGER.info("Detected click on Instructions, sending over to gameDriver");
 			//Changes the game state from start menu to instructions
 			gameState = 3 ;
 		}
@@ -232,7 +244,7 @@ public class Main extends PApplet {
 		
 		//if they are on mapSelect and they click
 		if(gameState==1 && mouseX > 70 && mouseX <420 && mouseY> 100 && mouseY<470){
-			System.out.println("selected map1, sending over to game driver");
+			LOGGER.info("selected map1, sending over to game driver");
 			mapSelected=1;
 			MAP=new Map(this, mapSelected);
 			game = new gameDriver(this,  MAP);
@@ -241,7 +253,7 @@ public class Main extends PApplet {
 		
 		//if they click quit while on the main menu
 		if(gameState==0 &&  mouseX >= 950 && mouseX <=950+130 && mouseY>=650 && mouseY<=700 ){
-			System.out.println("Detected quit button, now closing window");
+			LOGGER.info("Detected quit button, now closing window");
 			System.exit(0);
 		}
 		

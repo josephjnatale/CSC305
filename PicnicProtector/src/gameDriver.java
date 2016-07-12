@@ -64,14 +64,7 @@ public class gameDriver extends Main {
 		
 		//sets current wave to 1
 		currentWave=1;
-		
-		try {
-		      LoggerMain.setup();
-		    } catch (IOException e) {
-		      e.printStackTrace();
-		      throw new RuntimeException("Problems with creating the log files");
-		    }
-		
+
 		
 		
 	}
@@ -230,20 +223,17 @@ public class gameDriver extends Main {
 	
 	//calls redrawbg and redrawattacker
 	private void REDRAW(String phase) {
-		
-		/*
-		try {
-			LoggerMain.setup();
-		} catch (IOException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
-		
-		*/
-		
+	    
+		//playing around, want to have only one FINE level log displayed
+		int x =1;
+		do {
+			
+		LOGGER.setLevel(Level.FINE);
+	    LOGGER.fine("Redrawing");
+		x =0;
+		} while (x > 0);
 	    LOGGER.setLevel(Level.INFO);
-	    LOGGER.info("Redrawing");
-		//System.out.println("Redrawing");
+
 		
 		MAP.drawMap(p);
 		
@@ -254,12 +244,12 @@ public class gameDriver extends Main {
 		
 		if(phase.equals("attack") && !setup){
 			//happens once wave starts
-			//System.out.println("Drawing attackers");
+			LOGGER.info("Drawing attackers");
 			attackerDriver.redrawAttacker();
 			
 		}
 		
-		LOGGER.info("CurrentPhase: "+phase+"\n");
+		LOGGER.fine("CurrentPhase: "+phase+"\n");
 		
 		
 	}
