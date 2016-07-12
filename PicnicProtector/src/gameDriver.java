@@ -160,9 +160,14 @@ public class gameDriver extends Main {
 		if(store.towerSelected()!=-1 && p.mousePressed && !store.overStore()){
 			
 			//check the placement of the tower
-			if(towerDriver.closeToOtherTower(p.mouseX, p.mouseY)&& !towerDriver.overPath())
+			if(towerDriver.closeToOtherTower(p.mouseX, p.mouseY)&& !towerDriver.overPath()){
 				placeTower(p.mouseX, p.mouseY);
-			
+				playerScore -= 100;
+				if(playerScore <= 0){
+					playerScore = 0; 
+					phase="attack";
+				}
+			}
 			//if too close to another tower
 			else if(!towerDriver.closeToOtherTower(p.mouseX, p.mouseY)){
 				p.fill(Color.red.getRGB());
@@ -206,8 +211,9 @@ public class gameDriver extends Main {
 		 * 
 		 */
 		if(millis() >= reloadTime){
-		towerDriver.hitDetection(attackerList);
-		reloadTime = millis() + towerFireDelay;
+			towerDriver.hitDetection(attackerList);
+			reloadTime = millis() + towerFireDelay;
+			playerScore+= towerDriver.income(attackerList);
 		}
 		if(attackerList.isEmpty()){
 			phase="build";
