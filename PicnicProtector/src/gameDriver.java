@@ -3,10 +3,14 @@ import gifAnimation.*;
 
 import java.*;
 import java.awt.Color;
+import java.io.IOException;
 import java.util.ArrayList;
+import java.util.logging.Level;
+import java.util.logging.Logger;
 
 public class gameDriver extends Main {
 
+	private final static Logger LOGGER = Logger.getLogger(Logger.GLOBAL_LOGGER_NAME);
 	private PApplet p;
 	private int currentWave=1;
 
@@ -36,6 +40,7 @@ public class gameDriver extends Main {
 
 	private String phase = "build";
 
+
 	
 	public gameDriver(PApplet parent, Map m){
 		//sets Papplet
@@ -59,6 +64,13 @@ public class gameDriver extends Main {
 		
 		//sets current wave to 1
 		currentWave=1;
+		
+		try {
+		      LoggerMain.setup();
+		    } catch (IOException e) {
+		      e.printStackTrace();
+		      throw new RuntimeException("Problems with creating the log files");
+		    }
 		
 		
 		
@@ -218,6 +230,19 @@ public class gameDriver extends Main {
 	
 	//calls redrawbg and redrawattacker
 	private void REDRAW(String phase) {
+		
+		/*
+		try {
+			LoggerMain.setup();
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		
+		*/
+		
+	    LOGGER.setLevel(Level.INFO);
+	    LOGGER.info("Redrawing");
 		//System.out.println("Redrawing");
 		
 		MAP.drawMap(p);
@@ -234,7 +259,7 @@ public class gameDriver extends Main {
 			
 		}
 		
-		//System.out.println("CurrentPhase: "+phase+"\n");
+		LOGGER.info("CurrentPhase: "+phase+"\n");
 		
 		
 	}

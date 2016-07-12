@@ -2,6 +2,7 @@ import processing.core.PApplet;
 import processing.core.PImage;
 import java.*;
 import java.awt.Color;
+import java.io.IOException;
 
 public class Main extends PApplet {
 	
@@ -21,6 +22,8 @@ public class Main extends PApplet {
 	
 	//can be a text file holding the scores but for now just a int
 	private int endScore, endWave;
+	
+	
 	
 	public void setup(){
 		
@@ -253,6 +256,5 @@ public class Main extends PApplet {
 //        println("Green: "+green(get().pixels[mouseX + mouseY * width]));
 //        println("Blue: "+blue(get().pixels[mouseX + mouseY * width]));
 //		println();
-	}
-	
+	}	
 }
