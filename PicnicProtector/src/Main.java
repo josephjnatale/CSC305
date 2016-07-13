@@ -128,8 +128,6 @@ public class Main extends PApplet {
 			fill(186,85,211);
 		text("Back", 50, 700);
 		
-		
-		
 	}
 	
 	private void selectMap(){

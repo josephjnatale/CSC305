@@ -183,21 +183,21 @@ public class Store extends Main{
 		//backgorund
 		p.fill(0);
 		p.textSize(20);
-		p.text("Tower 1",  menuX+50, menuY+30);
+		p.text("Cannon Tower",  menuX+40, menuY+30);
 		p.textSize(12);
 		p.text(" Dmg: 12 \n Rng: 20 \n $: 100", menuX+135, menuY+60);
-		p.image(getImageT1(), menuX+75, menuY+75, 100, 100);
+		p.image(getImageT1(), menuX+75, menuY+85, 100, 100);
 		
 		p.textSize(20);
-		p.text("Tower 2", menuX+50, menuY+130);
+		p.text("Dark Tower", menuX+50, menuY+170);
 		p.textSize(12);
-		p.text(" Dmg: 20 \n Rng: 15 \n $: 150", menuX+135, menuY+160);
+		p.text(" Dmg: 20 \n Rng: 15 \n $: 150", menuX+135, menuY+200);
 		p.image(getImageT2(), menuX+75, menuY+175, 100, 100);
 
 		p.textSize(20);
-		p.text("Tower 3", menuX+50, menuY+230);
+		p.text("magic Tower", menuX+50, menuY+270);
 		p.textSize(12);
-		p.text(" Dmg: 10 \n Rng: 25 \n $: 200", menuX+135, menuY+260);
+		p.text(" Dmg: 10 \n Rng: 25 \n $: 200", menuX+135, menuY+320);
 		p.image(getImageT3(), menuX+75, menuY+275, 100, 100);
 
 	}
