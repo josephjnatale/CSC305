@@ -1,166 +1,320 @@
-Jul 11, 2016 11:06:16 PM Main mouseClicked
+Jul 12, 2016 12:57:06 AM Main mouseClicked
 INFO: Detected click on Play, sending over to gameDriver
-Jul 11, 2016 11:06:17 PM gameDriver REDRAW
+Jul 12, 2016 12:57:06 AM Main selectMap
+INFO: Back button Pressed
+Jul 12, 2016 12:57:06 AM Main selectMap
+INFO: Back button Pressed
+Jul 12, 2016 12:57:06 AM Main selectMap
+INFO: Back button Pressed
+Jul 12, 2016 12:57:06 AM Main selectMap
+INFO: Back button Pressed
+Jul 12, 2016 12:57:06 AM Main selectMap
+INFO: Back button Pressed
+Jul 12, 2016 12:57:06 AM Main selectMap
+INFO: Back button Pressed
+Jul 12, 2016 12:57:06 AM Main selectMap
+INFO: Back button Pressed
+Jul 12, 2016 12:57:06 AM Main selectMap
+INFO: Back button Pressed
+Jul 12, 2016 12:57:06 AM Main selectMap
+INFO: Back button Pressed
+Jul 12, 2016 12:57:06 AM Main selectMap
+INFO: Back button Pressed
+Jul 12, 2016 12:57:06 AM Main selectMap
+INFO: Back button Pressed
+Jul 12, 2016 12:57:06 AM Main selectMap
+INFO: Back button Pressed
+Jul 12, 2016 12:57:06 AM Main selectMap
+INFO: Back button Pressed
+Jul 12, 2016 12:57:06 AM Main selectMap
+INFO: Back button Pressed
+Jul 12, 2016 12:57:06 AM Main selectMap
+INFO: Back button Pressed
+Jul 12, 2016 12:57:06 AM Main selectMap
+INFO: Back button Pressed
+Jul 12, 2016 12:57:06 AM Main selectMap
+INFO: Back button Pressed
+Jul 12, 2016 12:57:06 AM Main selectMap
+INFO: Back button Pressed
+Jul 12, 2016 12:57:06 AM Main selectMap
+INFO: Back button Pressed
+Jul 12, 2016 12:57:06 AM Main selectMap
+INFO: Back button Pressed
+Jul 12, 2016 12:57:06 AM Main selectMap
+INFO: Back button Pressed
+Jul 12, 2016 12:57:06 AM Main selectMap
+INFO: Back button Pressed
+Jul 12, 2016 12:57:06 AM Main selectMap
+INFO: Back button Pressed
+Jul 12, 2016 12:57:06 AM Main selectMap
+INFO: Back button Pressed
+Jul 12, 2016 12:57:06 AM Main selectMap
+INFO: Back button Pressed
+Jul 12, 2016 12:57:06 AM Main selectMap
+INFO: Back button Pressed
+Jul 12, 2016 12:57:06 AM Main selectMap
+INFO: Back button Pressed
+Jul 12, 2016 12:57:06 AM Main selectMap
+INFO: Back button Pressed
+Jul 12, 2016 12:57:06 AM Main selectMap
+INFO: Back button Pressed
+Jul 12, 2016 12:57:06 AM Main selectMap
+INFO: Back button Pressed
+Jul 12, 2016 12:57:06 AM Main selectMap
+INFO: Back button Pressed
+Jul 12, 2016 12:57:06 AM Main selectMap
+INFO: Back button Pressed
+Jul 12, 2016 12:57:06 AM Main selectMap
+INFO: Back button Pressed
+Jul 12, 2016 12:57:06 AM Main selectMap
+INFO: Back button Pressed
+Jul 12, 2016 12:57:06 AM Main selectMap
+INFO: Back button Pressed
+Jul 12, 2016 12:57:07 AM Main selectMap
+INFO: Back button Pressed
+Jul 12, 2016 12:57:07 AM Main selectMap
+INFO: Back button Pressed
+Jul 12, 2016 12:57:07 AM Main selectMap
+INFO: Back button Pressed
+Jul 12, 2016 12:57:07 AM Main selectMap
+INFO: Back button Pressed
+Jul 12, 2016 12:57:07 AM Main selectMap
+INFO: Back button Pressed
+Jul 12, 2016 12:57:07 AM Main selectMap
+INFO: Back button Pressed
+Jul 12, 2016 12:57:07 AM Main selectMap
+INFO: Back button Pressed
+Jul 12, 2016 12:57:07 AM Main selectMap
+INFO: Back button Pressed
+Jul 12, 2016 12:57:07 AM Main selectMap
+INFO: Back button Pressed
+Jul 12, 2016 12:57:07 AM Main selectMap
+INFO: Back button Pressed
+Jul 12, 2016 12:57:07 AM Main selectMap
+INFO: Back button Pressed
+Jul 12, 2016 12:57:07 AM Main selectMap
+INFO: Back button Pressed
+Jul 12, 2016 12:57:07 AM Main selectMap
+INFO: Back button Pressed
+Jul 12, 2016 12:57:07 AM Main selectMap
+INFO: Back button Pressed
+Jul 12, 2016 12:57:07 AM Main selectMap
+INFO: Back button Pressed
+Jul 12, 2016 12:57:07 AM Main selectMap
+INFO: Back button Pressed
+Jul 12, 2016 12:57:07 AM Main selectMap
+INFO: Back button Pressed
+Jul 12, 2016 12:57:07 AM Main selectMap
+INFO: Back button Pressed
+Jul 12, 2016 12:57:07 AM Main selectMap
+INFO: Back button Pressed
+Jul 12, 2016 12:57:07 AM Main selectMap
+INFO: Back button Pressed
+Jul 12, 2016 12:57:07 AM Main selectMap
+INFO: Back button Pressed
+Jul 12, 2016 12:57:07 AM Main selectMap
+INFO: Back button Pressed
+Jul 12, 2016 12:57:07 AM Main selectMap
+INFO: Back button Pressed
+Jul 12, 2016 12:57:07 AM Main selectMap
+INFO: Back button Pressed
+Jul 12, 2016 12:57:07 AM Main selectMap
+INFO: Back button Pressed
+Jul 12, 2016 12:57:07 AM Main selectMap
+INFO: Back button Pressed
+Jul 12, 2016 12:57:07 AM Main selectMap
+INFO: Back button Pressed
+Jul 12, 2016 12:57:07 AM Main selectMap
+INFO: Back button Pressed
+Jul 12, 2016 12:57:07 AM Main selectMap
+INFO: Back button Pressed
+Jul 12, 2016 12:57:07 AM Main selectMap
+INFO: Back button Pressed
+Jul 12, 2016 12:57:07 AM Main selectMap
+INFO: Back button Pressed
+Jul 12, 2016 12:57:07 AM Main selectMap
+INFO: Back button Pressed
+Jul 12, 2016 12:57:07 AM Main selectMap
+INFO: Back button Pressed
+Jul 12, 2016 12:57:07 AM Main selectMap
+INFO: Back button Pressed
+Jul 12, 2016 12:57:07 AM Main selectMap
+INFO: Back button Pressed
+Jul 12, 2016 12:57:07 AM Main selectMap
+INFO: Back button Pressed
+Jul 12, 2016 12:57:07 AM Main selectMap
+INFO: Back button Pressed
+Jul 12, 2016 12:57:07 AM Main selectMap
+INFO: Back button Pressed
+Jul 12, 2016 12:57:07 AM Main selectMap
+INFO: Back button Pressed
+Jul 12, 2016 12:57:07 AM Main selectMap
+INFO: Back button Pressed
+Jul 12, 2016 12:57:07 AM Main selectMap
+INFO: Back button Pressed
+Jul 12, 2016 12:57:07 AM Main selectMap
+INFO: Back button Pressed
+Jul 12, 2016 12:57:07 AM Main selectMap
+INFO: Back button Pressed
+Jul 12, 2016 12:57:07 AM Main selectMap
+INFO: Back button Pressed
+Jul 12, 2016 12:57:07 AM Main selectMap
+INFO: Back button Pressed
+Jul 12, 2016 12:57:07 AM Main selectMap
+INFO: Back button Pressed
+Jul 12, 2016 12:57:07 AM Main selectMap
+INFO: Back button Pressed
+Jul 12, 2016 12:57:07 AM Main selectMap
+INFO: Back button Pressed
+Jul 12, 2016 12:57:07 AM Main selectMap
+INFO: Back button Pressed
+Jul 12, 2016 12:57:07 AM Main selectMap
+INFO: Back button Pressed
+Jul 12, 2016 12:57:07 AM Main selectMap
+INFO: Back button Pressed
+Jul 12, 2016 12:57:07 AM Main selectMap
+INFO: Back button Pressed
+Jul 12, 2016 12:57:07 AM Main selectMap
+INFO: Back button Pressed
+Jul 12, 2016 12:57:07 AM Main selectMap
+INFO: Back button Pressed
+Jul 12, 2016 12:57:07 AM Main selectMap
+INFO: Back button Pressed
+Jul 12, 2016 12:57:07 AM Main selectMap
+INFO: Back button Pressed
+Jul 12, 2016 12:57:07 AM Main selectMap
+INFO: Back button Pressed
+Jul 12, 2016 12:57:07 AM Main selectMap
+INFO: Back button Pressed
+Jul 12, 2016 12:57:07 AM Main selectMap
+INFO: Back button Pressed
+Jul 12, 2016 12:57:07 AM Main selectMap
+INFO: Back button Pressed
+Jul 12, 2016 12:57:08 AM Main selectMap
+INFO: Back button Pressed
+Jul 12, 2016 12:57:08 AM Main selectMap
+INFO: Back button Pressed
+Jul 12, 2016 12:57:08 AM Main selectMap
+INFO: Back button Pressed
+Jul 12, 2016 12:57:08 AM Main selectMap
+INFO: Back button Pressed
+Jul 12, 2016 12:57:08 AM Main selectMap
+INFO: Back button Pressed
+Jul 12, 2016 12:57:08 AM Main mouseClicked
+INFO: selected map1, sending over to game driver
+Jul 12, 2016 12:57:08 AM gameDriver REDRAW
+FINE: Redrawing
+Jul 12, 2016 12:57:08 AM gameDriver REDRAW
+FINE: Redrawing
+Jul 12, 2016 12:57:08 AM gameDriver REDRAW
 FINE: Redrawing
-Jul 11, 2016 11:06:17 PM gameDriver REDRAW
+Jul 12, 2016 12:57:08 AM gameDriver REDRAW
 FINE: Redrawing
-Jul 11, 2016 11:06:17 PM gameDriver REDRAW
+Jul 12, 2016 12:57:08 AM gameDriver REDRAW
 FINE: Redrawing
-Jul 11, 2016 11:06:17 PM gameDriver REDRAW
+Jul 12, 2016 12:57:08 AM gameDriver REDRAW
 FINE: Redrawing
-Jul 11, 2016 11:06:17 PM gameDriver REDRAW
+Jul 12, 2016 12:57:08 AM gameDriver REDRAW
 FINE: Redrawing
-Jul 11, 2016 11:06:17 PM gameDriver REDRAW
+Jul 12, 2016 12:57:08 AM gameDriver REDRAW
 FINE: Redrawing
-Jul 11, 2016 11:06:17 PM gameDriver REDRAW
+Jul 12, 2016 12:57:08 AM gameDriver REDRAW
 FINE: Redrawing
-Jul 11, 2016 11:06:17 PM gameDriver REDRAW
+Jul 12, 2016 12:57:08 AM gameDriver REDRAW
 FINE: Redrawing
-Jul 11, 2016 11:06:17 PM gameDriver REDRAW
+Jul 12, 2016 12:57:08 AM gameDriver REDRAW
 FINE: Redrawing
-Jul 11, 2016 11:06:17 PM gameDriver REDRAW
+Jul 12, 2016 12:57:08 AM gameDriver REDRAW
 FINE: Redrawing
-Jul 11, 2016 11:06:17 PM gameDriver REDRAW
+Jul 12, 2016 12:57:08 AM gameDriver REDRAW
 FINE: Redrawing
-Jul 11, 2016 11:06:17 PM gameDriver REDRAW
+Jul 12, 2016 12:57:08 AM gameDriver REDRAW
 FINE: Redrawing
-Jul 11, 2016 11:06:17 PM gameDriver REDRAW
+Jul 12, 2016 12:57:08 AM gameDriver REDRAW
 FINE: Redrawing
-Jul 11, 2016 11:06:17 PM gameDriver REDRAW
+Jul 12, 2016 12:57:08 AM gameDriver REDRAW
 FINE: Redrawing
-Jul 11, 2016 11:06:17 PM gameDriver REDRAW
+Jul 12, 2016 12:57:08 AM gameDriver REDRAW
 FINE: Redrawing
-Jul 11, 2016 11:06:17 PM gameDriver REDRAW
+Jul 12, 2016 12:57:08 AM gameDriver REDRAW
 FINE: Redrawing
-Jul 11, 2016 11:06:17 PM gameDriver REDRAW
+Jul 12, 2016 12:57:08 AM gameDriver REDRAW
 FINE: Redrawing
-Jul 11, 2016 11:06:17 PM gameDriver REDRAW
+Jul 12, 2016 12:57:08 AM gameDriver REDRAW
 FINE: Redrawing
-Jul 11, 2016 11:06:17 PM gameDriver REDRAW
+Jul 12, 2016 12:57:08 AM gameDriver REDRAW
 FINE: Redrawing
-Jul 11, 2016 11:06:17 PM gameDriver REDRAW
+Jul 12, 2016 12:57:08 AM gameDriver REDRAW
 FINE: Redrawing
-Jul 11, 2016 11:06:17 PM gameDriver REDRAW
+Jul 12, 2016 12:57:08 AM gameDriver REDRAW
 FINE: Redrawing
-Jul 11, 2016 11:06:17 PM gameDriver REDRAW
+Jul 12, 2016 12:57:08 AM gameDriver REDRAW
 FINE: Redrawing
-Jul 11, 2016 11:06:17 PM gameDriver REDRAW
+Jul 12, 2016 12:57:08 AM gameDriver REDRAW
 FINE: Redrawing
-Jul 11, 2016 11:06:17 PM gameDriver REDRAW
+Jul 12, 2016 12:57:08 AM gameDriver REDRAW
 FINE: Redrawing
-Jul 11, 2016 11:06:17 PM gameDriver REDRAW
+Jul 12, 2016 12:57:08 AM gameDriver REDRAW
 FINE: Redrawing
-Jul 11, 2016 11:06:17 PM gameDriver REDRAW
+Jul 12, 2016 12:57:08 AM gameDriver REDRAW
 FINE: Redrawing
-Jul 11, 2016 11:06:17 PM gameDriver REDRAW
+Jul 12, 2016 12:57:08 AM gameDriver REDRAW
 FINE: Redrawing
-Jul 11, 2016 11:06:17 PM gameDriver REDRAW
+Jul 12, 2016 12:57:08 AM gameDriver REDRAW
 FINE: Redrawing
-Jul 11, 2016 11:06:17 PM gameDriver REDRAW
+Jul 12, 2016 12:57:08 AM gameDriver REDRAW
 FINE: Redrawing
-Jul 11, 2016 11:06:17 PM gameDriver REDRAW
+Jul 12, 2016 12:57:08 AM gameDriver REDRAW
 FINE: Redrawing
-Jul 11, 2016 11:06:17 PM gameDriver REDRAW
+Jul 12, 2016 12:57:08 AM gameDriver REDRAW
 FINE: Redrawing
-Jul 11, 2016 11:06:18 PM gameDriver REDRAW
+Jul 12, 2016 12:57:08 AM gameDriver REDRAW
 FINE: Redrawing
-Jul 11, 2016 11:06:18 PM gameDriver REDRAW
+Jul 12, 2016 12:57:08 AM gameDriver REDRAW
 FINE: Redrawing
-Jul 11, 2016 11:06:18 PM gameDriver REDRAW
+Jul 12, 2016 12:57:09 AM gameDriver REDRAW
 FINE: Redrawing
-Jul 11, 2016 11:06:18 PM gameDriver REDRAW
+Jul 12, 2016 12:57:09 AM gameDriver REDRAW
 FINE: Redrawing
-Jul 11, 2016 11:06:18 PM gameDriver REDRAW
+Jul 12, 2016 12:57:09 AM gameDriver REDRAW
 FINE: Redrawing
-Jul 11, 2016 11:06:18 PM gameDriver REDRAW
+Jul 12, 2016 12:57:09 AM gameDriver REDRAW
 FINE: Redrawing
-Jul 11, 2016 11:06:18 PM gameDriver REDRAW
+Jul 12, 2016 12:57:09 AM gameDriver REDRAW
 FINE: Redrawing
-Jul 11, 2016 11:06:18 PM gameDriver REDRAW
+Jul 12, 2016 12:57:09 AM gameDriver REDRAW
 FINE: Redrawing
-Jul 11, 2016 11:06:18 PM gameDriver REDRAW
+Jul 12, 2016 12:57:09 AM gameDriver REDRAW
 FINE: Redrawing
-Jul 11, 2016 11:06:18 PM gameDriver REDRAW
+Jul 12, 2016 12:57:09 AM gameDriver REDRAW
 FINE: Redrawing
-Jul 11, 2016 11:06:18 PM gameDriver REDRAW
+Jul 12, 2016 12:57:09 AM gameDriver REDRAW
 FINE: Redrawing
-Jul 11, 2016 11:06:18 PM gameDriver REDRAW
+Jul 12, 2016 12:57:09 AM gameDriver REDRAW
 FINE: Redrawing
-Jul 11, 2016 11:06:18 PM gameDriver REDRAW
+Jul 12, 2016 12:57:09 AM gameDriver REDRAW
 FINE: Redrawing
-Jul 11, 2016 11:06:18 PM gameDriver REDRAW
+Jul 12, 2016 12:57:09 AM gameDriver REDRAW
 FINE: Redrawing
-Jul 11, 2016 11:06:18 PM gameDriver REDRAW
+Jul 12, 2016 12:57:09 AM gameDriver REDRAW
 FINE: Redrawing
-Jul 11, 2016 11:06:18 PM gameDriver REDRAW
+Jul 12, 2016 12:57:09 AM gameDriver REDRAW
 FINE: Redrawing
-Jul 11, 2016 11:06:18 PM gameDriver REDRAW
+Jul 12, 2016 12:57:09 AM gameDriver REDRAW
 FINE: Redrawing
-Jul 11, 2016 11:06:18 PM gameDriver REDRAW
+Jul 12, 2016 12:57:09 AM gameDriver REDRAW
 FINE: Redrawing
-Jul 11, 2016 11:06:18 PM gameDriver REDRAW
+Jul 12, 2016 12:57:09 AM gameDriver REDRAW
 FINE: Redrawing
-Jul 11, 2016 11:06:18 PM gameDriver REDRAW
+Jul 12, 2016 12:57:09 AM gameDriver REDRAW
 FINE: Redrawing
-Jul 11, 2016 11:06:18 PM gameDriver REDRAW
+Jul 12, 2016 12:57:09 AM gameDriver REDRAW
 FINE: Redrawing
-Jul 11, 2016 11:06:18 PM gameDriver REDRAW
+Jul 12, 2016 12:57:09 AM gameDriver REDRAW
 FINE: Redrawing
-Jul 11, 2016 11:06:18 PM gameDriver REDRAW
+Jul 12, 2016 12:57:09 AM gameDriver REDRAW
 FINE: Redrawing
-Jul 11, 2016 11:06:18 PM gameDriver REDRAW
+Jul 12, 2016 12:57:09 AM gameDriver REDRAW
 FINE: Redrawing
-Jul 11, 2016 11:06:18 PM gameDriver REDRAW
-FINE: Redrawing
-Jul 11, 2016 11:06:18 PM gameDriver REDRAW
-FINE: Redrawing
-Jul 11, 2016 11:06:18 PM gameDriver REDRAW
-FINE: Redrawing
-Jul 11, 2016 11:06:18 PM gameDriver REDRAW
-FINE: Redrawing
-Jul 11, 2016 11:06:18 PM gameDriver REDRAW
-FINE: Redrawing
-Jul 11, 2016 11:06:18 PM gameDriver REDRAW
-FINE: Redrawing
-Jul 11, 2016 11:06:18 PM gameDriver REDRAW
-FINE: Redrawing
-Jul 11, 2016 11:06:18 PM gameDriver REDRAW
-FINE: Redrawing
-Jul 11, 2016 11:06:18 PM gameDriver REDRAW
-FINE: Redrawing
-Jul 11, 2016 11:06:18 PM gameDriver REDRAW
-FINE: Redrawing
-Jul 11, 2016 11:06:18 PM gameDriver REDRAW
-FINE: Redrawing
-Jul 11, 2016 11:06:18 PM gameDriver REDRAW
-FINE: Redrawing
-Jul 11, 2016 11:06:18 PM gameDriver REDRAW
-FINE: Redrawing
-Jul 11, 2016 11:06:18 PM gameDriver REDRAW
-FINE: Redrawing
-Jul 11, 2016 11:06:18 PM gameDriver REDRAW
-FINE: Redrawing
-Jul 11, 2016 11:06:18 PM gameDriver REDRAW
-FINE: Redrawing
-Jul 11, 2016 11:06:18 PM gameDriver REDRAW
-FINE: Redrawing
-Jul 11, 2016 11:06:18 PM gameDriver REDRAW
-FINE: Redrawing
-Jul 11, 2016 11:06:18 PM gameDriver REDRAW
-FINE: Redrawing
-Jul 11, 2016 11:06:18 PM gameDriver REDRAW
-FINE: Redrawing
-Jul 11, 2016 11:06:18 PM gameDriver REDRAW
-FINE: Redrawing
-Jul 11, 2016 11:06:18 PM gameDriver REDRAW
-FINE: Redrawing
-Jul 11, 2016 11:06:18 PM gameDriver REDRAW
-FINE: Redrawing
-Jul 11, 2016 11:06:18 PM gameDriver REDRAW
-FINE: Redrawing
-Jul 11, 2016 11:06:18 PM gameDriver REDRAW
-FINE: Redrawing
-Jul 11, 2016 11:06:18 PM gameDriver REDRAW
-FINE: Redrawing
-Jul 11, 2016 11:06:18 PM gameDriver REDRAW
+Jul 12, 2016 12:57:09 AM gameDriver REDRAW
 FINE: Redrawing
