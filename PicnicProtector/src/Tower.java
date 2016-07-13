@@ -10,12 +10,14 @@ public class Tower extends towerDriver{
 	private int x, y, range = 160, damage = 12, fireRate = 300;
 
 	private Attacker target = null;
+	
+	private int towerType;
+	
 
-	public Tower( int x, int y){
+	public Tower( int x, int y, int tower){
 		this.x = x;
 		this.y = y;
-
-
+		towerType = tower;
 	}
 
 	public void repos(int x, int y){
@@ -37,8 +39,22 @@ public class Tower extends towerDriver{
 
 	public void draw(PApplet p){
 
-
-		p.image(images.tower1, x, y,  100, 100);
+		switch(towerType){
+		case 1:
+			
+			p.image(images.cannon_tower, x, y,  100, 100);
+			
+			break;
+		case 2:
+			p.image(images.dark_tower, x, y,  100, 100);
+			break;
+		case 3: 
+			p.image(images.magic_tower, x, y,  100, 100);
+			break;
+		default:
+				break;
+	}
+			
 	}
 
 	public int distanceToPoint(int xPos, int yPos){

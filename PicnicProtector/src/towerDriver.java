@@ -14,12 +14,11 @@ public class towerDriver extends Main{
 		towerList = new ArrayList<Tower>();
 	}
 	
-	public void addTower(int x, int y){
-		
-		
-		towerList.add(new Tower(x, y));
+	public void addTower(int x, int y, int towerSelected){
+
+		towerList.add(new Tower(x, y, towerSelected));
 		System.out.println("added a new tower");
-	}
+		}
 	
 	public boolean closeToOtherTower(int x, int y){
 		

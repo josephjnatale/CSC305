@@ -14,6 +14,11 @@ public class allMyImages extends PApplet{
 	public PImage map1 = loadImage("images\\map1.png");
 	public PImage tower1 = loadImage("images\\tower.png");
 	
+	public PImage cannon_tower = loadImage("images\\cannon_tower.png");
+	public PImage dark_tower = loadImage("images\\dark_tower.png");
+	public PImage magic_tower = loadImage("images\\magic_tower.png");
+	
+	
 
 	
 	public allMyImages(){

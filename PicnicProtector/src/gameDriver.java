@@ -25,6 +25,8 @@ public class gameDriver extends Main {
 	//the players health
 	private int playerHealth;
 	
+	private int towerType;
+	
 
 	//Arraylist to keep track of the attackers currently on the screen.
 	private ArrayList<Attacker> attackerList = new ArrayList<Attacker>();
@@ -151,15 +153,26 @@ public class gameDriver extends Main {
 		//will have different options in the future, but for now this dictates what image to draw at the mouse location
 		//when player has clicked on a tower image from the store.
 		//towerSelected will bee -1 when nothing is selected, the default handles that case
+		p.fill(Color.blue.getRGB(), 112);
 		switch(store.towerSelected()){
 		case 1:
-			p.fill(Color.blue.getRGB(), 112);
-			
-			p.ellipse(p.mouseX, p.mouseY, 2*store.getTowerRange(store.towerSelected()), 2*store.getTowerRange(store.towerSelected()));
-			p.image(store.getImage(), p.mouseX, p.mouseY, 100, 100);
+			p.ellipse(p.mouseX, p.mouseY, 2*store.getTowerRange(store.towerSelected()), 2*store.getTowerRange(store.towerSelected()));	
+			p.image(store.getImageT1(), p.mouseX, p.mouseY, 100, 100);
+			towerType = 1;
 			break;
+		case 2:
+			p.ellipse(p.mouseX, p.mouseY, 2*store.getTowerRange(store.towerSelected()), 2*store.getTowerRange(store.towerSelected()));	
+			p.image(store.getImageT2(), p.mouseX, p.mouseY, 100, 100);
+			towerType = 2;
+			break;
+		case 3:
+			p.ellipse(p.mouseX, p.mouseY, 2*store.getTowerRange(store.towerSelected()), 2*store.getTowerRange(store.towerSelected()));	
+			p.image(store.getImageT3(), p.mouseX, p.mouseY, 100, 100);
+			towerType = 3;
+			break;
+		
 		default:
-			break;
+		break;
 		}
 		
 		//if there is a tower selected and the player has clicked and the mouse is not over the store
@@ -201,10 +214,10 @@ public class gameDriver extends Main {
 	
 	//adds the tower newly placed tower to the towerList inside gamedriver and deselects the tower from currently selected
 	private void placeTower(int x, int y){
-		
-		towerDriver.addTower(x,  y);
+
+		towerDriver.addTower(x, y , towerType);
 		store.setTowerSelected(-1);
-	}
+		}
 	
 	
 	private void attackPhase(){
