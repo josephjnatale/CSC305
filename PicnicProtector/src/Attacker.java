@@ -101,7 +101,9 @@ public abstract class Attacker extends Main {
 
 	public abstract void draw(PApplet p);
 
-
+	public boolean isHit() {
+		return isDead;
+	}
 
 }
 

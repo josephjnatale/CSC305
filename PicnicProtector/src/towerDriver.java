@@ -110,6 +110,25 @@ public class towerDriver extends Main{
 		
 	}
 	
+	/**gain income
+	 * 
+	 * @param attackerList
+	 */
+	public int income(ArrayList<Attacker> attackerList) {
+		int score=0;
+		
+		for(int i=0; i<attackerList.size(); i++){
+			if(attackerList.get(i).isHit()){
+				if(attackerList.get(i).isDead){
+					score += attackerList.get(i).attackDamage();
+					attackerList.remove(i);
+				}
+			}
+		}
+		
+		return score;
+	}
+	
 	public boolean overPath(){
 		
 		if(greenAtMouse==177)
