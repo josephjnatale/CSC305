@@ -153,9 +153,10 @@ public class gameDriver extends Main {
 		//towerSelected will bee -1 when nothing is selected, the default handles that case
 		switch(store.towerSelected()){
 		case 1:
-			p.image(store.getImage(), p.mouseX, p.mouseY, 100, 100);
-			//p.ellipse(a, b, c, d);
+			p.fill(Color.blue.getRGB(), 112);
 			
+			p.ellipse(p.mouseX, p.mouseY, 2*store.getTowerRange(store.towerSelected()), 2*store.getTowerRange(store.towerSelected()));
+			p.image(store.getImage(), p.mouseX, p.mouseY, 100, 100);
 			break;
 		default:
 			break;

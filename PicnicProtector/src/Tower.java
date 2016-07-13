@@ -30,6 +30,10 @@ public class Tower extends towerDriver{
 	public int getY(){
 		return y;
 	}
+	
+	public int getRange(){
+		return range;
+	}
 
 	public void draw(PApplet p){
 

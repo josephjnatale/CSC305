@@ -109,6 +109,10 @@ public class Store extends Main{
 		
 	}
 	
+	public int getTowerRange(int towerSelected){
+		return tower1.getRange();
+	}
+	
 	public int getMenuX(){
 		return menuX;
 	}
