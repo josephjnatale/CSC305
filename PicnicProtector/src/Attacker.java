@@ -5,7 +5,7 @@ public abstract class Attacker extends Main {
 	//movementspeed is how many pixels per update attacker should move
 	protected double x, y, movementSpeed;
 	
-	protected int attackDamage;
+	protected int attackDamage, health;
 	
 	
 	//will be set depending on the map
@@ -14,6 +14,7 @@ public abstract class Attacker extends Main {
 	//true if the attacker is at the end of the path
 	protected boolean atEnd=false;
 	
+	protected boolean isDead = false;
 
 	public Attacker(double x, double y){
 		
@@ -51,6 +52,12 @@ public abstract class Attacker extends Main {
 		return attackDamage;
 	}
 	
+	public int getHealth(){
+		return health;
+	}
+	public void setHealth(int updatedHealth){
+		health = updatedHealth;
+	}
 	private void endCheck(){
 		
 		//needs to be changed if added different style maps

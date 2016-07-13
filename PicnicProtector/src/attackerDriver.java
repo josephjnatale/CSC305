@@ -69,14 +69,14 @@ public class attackerDriver {
 
 			//int xPos=attackerList.get(i).getX();
 			//int yPos=attackerList.get(i).getY();
-			
+			if(!attackerList.get(i).isDead){
 			switch(attackerList.get(i).getType()){
-			
 			case "squirrel":
 				//System.out.println("Drawing attacker "+i);
 				attackerList.get(i).draw(p);
 				break;
 			
+			}
 			}
 			//System.out.println("redrew Attacker at("+attackerList.get(i).getX()+" ,"+attackerList.get(i).getY()+")");
 			
@@ -89,6 +89,7 @@ public class attackerDriver {
 		
 		for(int i=0; i<attackerList.size(); i++){
 			if(attackerList.get(i).atEnd()){
+				if(!attackerList.get(i).isDead)
 				damageToBeDone+= attackerList.get(i).attackDamage();
 				attackerList.remove(i);
 			}

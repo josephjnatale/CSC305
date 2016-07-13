@@ -6,11 +6,11 @@ public class towerDriver extends Main{
 	
 
 	private ArrayList<Tower> towerList;
+	private ArrayList<Attacker> attackerList;
 	protected PImage tower1;
 	
 	
 	public towerDriver(){
-		
 		towerList = new ArrayList<Tower>();
 	}
 	
@@ -99,7 +99,16 @@ public class towerDriver extends Main{
 		return true;
 		
 	}
-	
+	/**Executes each towers 
+	 * 
+	 * @param attackerList
+	 */
+	public void hitDetection(ArrayList<Attacker> attackerList){
+		for(int i = 0; i<towerList.size(); i++){
+			towerList.get(i).hitDetection(attackerList);
+		}
+		
+	}
 	
 	public boolean overPath(){
 		
@@ -123,5 +132,6 @@ public class towerDriver extends Main{
 			towerList.get(i).draw(p);
 		}
 	}
+	
 
 }
