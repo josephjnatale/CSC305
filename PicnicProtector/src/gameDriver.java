@@ -154,6 +154,7 @@ public class gameDriver extends Main {
 		switch(store.towerSelected()){
 		case 1:
 			p.image(store.getImage(), p.mouseX, p.mouseY, 100, 100);
+			//p.ellipse(a, b, c, d);
 			
 			break;
 		default:

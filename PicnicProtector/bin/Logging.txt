@@ -1,788 +1,2206 @@
-Jul 13, 2016 12:52:32 PM Main mouseClicked
+Jul 13, 2016 1:15:30 PM Main mouseClicked
 INFO: Detected click on Play, sending over to gameDriver
-Jul 13, 2016 12:52:32 PM Main selectMap
+Jul 13, 2016 1:15:30 PM Main selectMap
 INFO: Back button Pressed
-Jul 13, 2016 12:52:33 PM Main selectMap
+Jul 13, 2016 1:15:30 PM Main selectMap
 INFO: Back button Pressed
-Jul 13, 2016 12:52:33 PM Main selectMap
+Jul 13, 2016 1:15:30 PM Main selectMap
 INFO: Back button Pressed
-Jul 13, 2016 12:52:33 PM Main selectMap
+Jul 13, 2016 1:15:30 PM Main selectMap
 INFO: Back button Pressed
-Jul 13, 2016 12:52:33 PM Main selectMap
+Jul 13, 2016 1:15:30 PM Main selectMap
 INFO: Back button Pressed
-Jul 13, 2016 12:52:33 PM Main selectMap
+Jul 13, 2016 1:15:30 PM Main selectMap
 INFO: Back button Pressed
-Jul 13, 2016 12:52:33 PM Main selectMap
+Jul 13, 2016 1:15:30 PM Main selectMap
 INFO: Back button Pressed
-Jul 13, 2016 12:52:33 PM Main selectMap
+Jul 13, 2016 1:15:30 PM Main selectMap
 INFO: Back button Pressed
-Jul 13, 2016 12:52:33 PM Main selectMap
+Jul 13, 2016 1:15:30 PM Main selectMap
 INFO: Back button Pressed
-Jul 13, 2016 12:52:33 PM Main selectMap
+Jul 13, 2016 1:15:30 PM Main selectMap
 INFO: Back button Pressed
-Jul 13, 2016 12:52:33 PM Main selectMap
+Jul 13, 2016 1:15:30 PM Main selectMap
 INFO: Back button Pressed
-Jul 13, 2016 12:52:33 PM Main selectMap
+Jul 13, 2016 1:15:30 PM Main selectMap
 INFO: Back button Pressed
-Jul 13, 2016 12:52:33 PM Main selectMap
+Jul 13, 2016 1:15:30 PM Main selectMap
 INFO: Back button Pressed
-Jul 13, 2016 12:52:33 PM Main selectMap
+Jul 13, 2016 1:15:30 PM Main selectMap
 INFO: Back button Pressed
-Jul 13, 2016 12:52:33 PM Main selectMap
+Jul 13, 2016 1:15:30 PM Main selectMap
 INFO: Back button Pressed
-Jul 13, 2016 12:52:33 PM Main selectMap
+Jul 13, 2016 1:15:30 PM Main selectMap
 INFO: Back button Pressed
-Jul 13, 2016 12:52:33 PM Main selectMap
+Jul 13, 2016 1:15:30 PM Main selectMap
 INFO: Back button Pressed
-Jul 13, 2016 12:52:33 PM Main selectMap
+Jul 13, 2016 1:15:30 PM Main selectMap
 INFO: Back button Pressed
-Jul 13, 2016 12:52:33 PM Main selectMap
+Jul 13, 2016 1:15:30 PM Main selectMap
 INFO: Back button Pressed
-Jul 13, 2016 12:52:33 PM Main selectMap
+Jul 13, 2016 1:15:30 PM Main selectMap
 INFO: Back button Pressed
-Jul 13, 2016 12:52:33 PM Main selectMap
+Jul 13, 2016 1:15:30 PM Main selectMap
 INFO: Back button Pressed
-Jul 13, 2016 12:52:33 PM Main selectMap
+Jul 13, 2016 1:15:30 PM Main selectMap
 INFO: Back button Pressed
-Jul 13, 2016 12:52:33 PM Main selectMap
+Jul 13, 2016 1:15:30 PM Main selectMap
 INFO: Back button Pressed
-Jul 13, 2016 12:52:33 PM Main selectMap
+Jul 13, 2016 1:15:30 PM Main selectMap
 INFO: Back button Pressed
-Jul 13, 2016 12:52:33 PM Main selectMap
+Jul 13, 2016 1:15:30 PM Main selectMap
 INFO: Back button Pressed
-Jul 13, 2016 12:52:33 PM Main selectMap
+Jul 13, 2016 1:15:30 PM Main selectMap
 INFO: Back button Pressed
-Jul 13, 2016 12:52:33 PM Main selectMap
+Jul 13, 2016 1:15:30 PM Main selectMap
 INFO: Back button Pressed
-Jul 13, 2016 12:52:33 PM Main selectMap
+Jul 13, 2016 1:15:30 PM Main selectMap
 INFO: Back button Pressed
-Jul 13, 2016 12:52:33 PM Main selectMap
+Jul 13, 2016 1:15:30 PM Main selectMap
 INFO: Back button Pressed
-Jul 13, 2016 12:52:33 PM Main selectMap
+Jul 13, 2016 1:15:30 PM Main selectMap
 INFO: Back button Pressed
-Jul 13, 2016 12:52:33 PM Main selectMap
+Jul 13, 2016 1:15:30 PM Main selectMap
 INFO: Back button Pressed
-Jul 13, 2016 12:52:33 PM Main selectMap
+Jul 13, 2016 1:15:30 PM Main selectMap
 INFO: Back button Pressed
-Jul 13, 2016 12:52:33 PM Main selectMap
+Jul 13, 2016 1:15:30 PM Main selectMap
 INFO: Back button Pressed
-Jul 13, 2016 12:52:33 PM Main selectMap
+Jul 13, 2016 1:15:30 PM Main selectMap
 INFO: Back button Pressed
-Jul 13, 2016 12:52:33 PM Main selectMap
+Jul 13, 2016 1:15:30 PM Main selectMap
 INFO: Back button Pressed
-Jul 13, 2016 12:52:33 PM Main selectMap
+Jul 13, 2016 1:15:30 PM Main selectMap
 INFO: Back button Pressed
-Jul 13, 2016 12:52:33 PM Main selectMap
+Jul 13, 2016 1:15:30 PM Main selectMap
 INFO: Back button Pressed
-Jul 13, 2016 12:52:33 PM Main selectMap
+Jul 13, 2016 1:15:30 PM Main selectMap
 INFO: Back button Pressed
-Jul 13, 2016 12:52:33 PM Main selectMap
+Jul 13, 2016 1:15:30 PM Main selectMap
 INFO: Back button Pressed
-Jul 13, 2016 12:52:33 PM Main selectMap
+Jul 13, 2016 1:15:30 PM Main selectMap
 INFO: Back button Pressed
-Jul 13, 2016 12:52:33 PM Main selectMap
+Jul 13, 2016 1:15:30 PM Main selectMap
 INFO: Back button Pressed
-Jul 13, 2016 12:52:33 PM Main selectMap
+Jul 13, 2016 1:15:31 PM Main selectMap
 INFO: Back button Pressed
-Jul 13, 2016 12:52:33 PM Main selectMap
+Jul 13, 2016 1:15:31 PM Main selectMap
 INFO: Back button Pressed
-Jul 13, 2016 12:52:33 PM Main selectMap
+Jul 13, 2016 1:15:31 PM Main selectMap
 INFO: Back button Pressed
-Jul 13, 2016 12:52:33 PM Main selectMap
-INFO: Back button Pressed
-Jul 13, 2016 12:52:33 PM Main selectMap
-INFO: Back button Pressed
-Jul 13, 2016 12:52:33 PM Main selectMap
-INFO: Back button Pressed
-Jul 13, 2016 12:52:33 PM Main selectMap
-INFO: Back button Pressed
-Jul 13, 2016 12:52:33 PM Main selectMap
-INFO: Back button Pressed
-Jul 13, 2016 12:52:33 PM Main selectMap
-INFO: Back button Pressed
-Jul 13, 2016 12:52:33 PM Main selectMap
-INFO: Back button Pressed
-Jul 13, 2016 12:52:33 PM Main selectMap
-INFO: Back button Pressed
-Jul 13, 2016 12:52:33 PM Main selectMap
-INFO: Back button Pressed
-Jul 13, 2016 12:52:33 PM Main selectMap
-INFO: Back button Pressed
-Jul 13, 2016 12:52:33 PM Main mouseClicked
+Jul 13, 2016 1:15:31 PM Main mouseClicked
 INFO: selected map1, sending over to game driver
-Jul 13, 2016 12:52:34 PM gameDriver REDRAW
+Jul 13, 2016 1:15:31 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:34 PM gameDriver REDRAW
+Jul 13, 2016 1:15:31 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:34 PM gameDriver REDRAW
+Jul 13, 2016 1:15:31 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:34 PM gameDriver REDRAW
+Jul 13, 2016 1:15:31 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:34 PM gameDriver REDRAW
+Jul 13, 2016 1:15:31 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:34 PM gameDriver REDRAW
+Jul 13, 2016 1:15:31 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:34 PM gameDriver REDRAW
+Jul 13, 2016 1:15:31 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:34 PM gameDriver REDRAW
+Jul 13, 2016 1:15:31 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:34 PM gameDriver REDRAW
+Jul 13, 2016 1:15:31 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:34 PM gameDriver REDRAW
+Jul 13, 2016 1:15:31 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:34 PM gameDriver REDRAW
+Jul 13, 2016 1:15:31 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:34 PM gameDriver REDRAW
+Jul 13, 2016 1:15:31 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:34 PM gameDriver REDRAW
+Jul 13, 2016 1:15:31 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:34 PM gameDriver REDRAW
+Jul 13, 2016 1:15:31 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:34 PM gameDriver REDRAW
+Jul 13, 2016 1:15:31 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:34 PM gameDriver REDRAW
+Jul 13, 2016 1:15:31 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:34 PM gameDriver REDRAW
+Jul 13, 2016 1:15:31 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:34 PM gameDriver REDRAW
+Jul 13, 2016 1:15:31 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:34 PM gameDriver REDRAW
+Jul 13, 2016 1:15:31 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:34 PM gameDriver REDRAW
+Jul 13, 2016 1:15:31 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:34 PM gameDriver REDRAW
+Jul 13, 2016 1:15:31 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:34 PM gameDriver REDRAW
+Jul 13, 2016 1:15:31 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:34 PM gameDriver REDRAW
+Jul 13, 2016 1:15:31 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:34 PM gameDriver REDRAW
+Jul 13, 2016 1:15:31 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:34 PM gameDriver REDRAW
+Jul 13, 2016 1:15:31 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:34 PM gameDriver REDRAW
+Jul 13, 2016 1:15:31 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:34 PM gameDriver REDRAW
+Jul 13, 2016 1:15:31 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:34 PM gameDriver REDRAW
+Jul 13, 2016 1:15:31 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:34 PM gameDriver REDRAW
+Jul 13, 2016 1:15:31 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:34 PM gameDriver REDRAW
+Jul 13, 2016 1:15:31 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:34 PM gameDriver REDRAW
+Jul 13, 2016 1:15:31 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:34 PM gameDriver REDRAW
+Jul 13, 2016 1:15:31 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:34 PM gameDriver REDRAW
+Jul 13, 2016 1:15:31 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:34 PM gameDriver REDRAW
+Jul 13, 2016 1:15:31 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:34 PM gameDriver REDRAW
+Jul 13, 2016 1:15:31 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:34 PM gameDriver REDRAW
+Jul 13, 2016 1:15:31 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:34 PM gameDriver REDRAW
+Jul 13, 2016 1:15:31 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:34 PM gameDriver REDRAW
+Jul 13, 2016 1:15:31 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:34 PM gameDriver REDRAW
+Jul 13, 2016 1:15:31 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:34 PM gameDriver REDRAW
+Jul 13, 2016 1:15:31 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:34 PM gameDriver REDRAW
+Jul 13, 2016 1:15:31 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:35 PM gameDriver REDRAW
+Jul 13, 2016 1:15:31 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:35 PM gameDriver REDRAW
+Jul 13, 2016 1:15:31 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:35 PM gameDriver REDRAW
+Jul 13, 2016 1:15:31 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:35 PM gameDriver REDRAW
+Jul 13, 2016 1:15:31 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:35 PM gameDriver REDRAW
+Jul 13, 2016 1:15:31 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:35 PM gameDriver REDRAW
+Jul 13, 2016 1:15:31 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:35 PM gameDriver REDRAW
+Jul 13, 2016 1:15:32 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:35 PM gameDriver REDRAW
+Jul 13, 2016 1:15:32 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:35 PM gameDriver REDRAW
+Jul 13, 2016 1:15:32 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:35 PM gameDriver REDRAW
+Jul 13, 2016 1:15:32 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:35 PM gameDriver REDRAW
+Jul 13, 2016 1:15:32 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:35 PM gameDriver REDRAW
+Jul 13, 2016 1:15:32 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:35 PM gameDriver REDRAW
+Jul 13, 2016 1:15:32 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:35 PM gameDriver REDRAW
+Jul 13, 2016 1:15:32 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:35 PM gameDriver REDRAW
+Jul 13, 2016 1:15:32 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:35 PM gameDriver REDRAW
+Jul 13, 2016 1:15:32 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:35 PM gameDriver REDRAW
+Jul 13, 2016 1:15:32 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:35 PM gameDriver REDRAW
+Jul 13, 2016 1:15:32 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:35 PM gameDriver REDRAW
+Jul 13, 2016 1:15:32 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:35 PM gameDriver REDRAW
+Jul 13, 2016 1:15:32 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:35 PM gameDriver REDRAW
+Jul 13, 2016 1:15:32 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:35 PM gameDriver REDRAW
+Jul 13, 2016 1:15:32 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:35 PM gameDriver REDRAW
+Jul 13, 2016 1:15:32 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:35 PM gameDriver REDRAW
+Jul 13, 2016 1:15:32 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:35 PM gameDriver REDRAW
+Jul 13, 2016 1:15:32 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:35 PM gameDriver REDRAW
+Jul 13, 2016 1:15:32 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:35 PM gameDriver REDRAW
+Jul 13, 2016 1:15:32 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:35 PM gameDriver REDRAW
+Jul 13, 2016 1:15:32 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:35 PM gameDriver REDRAW
+Jul 13, 2016 1:15:32 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:35 PM gameDriver REDRAW
+Jul 13, 2016 1:15:32 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:35 PM gameDriver REDRAW
+Jul 13, 2016 1:15:32 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:35 PM gameDriver REDRAW
+Jul 13, 2016 1:15:32 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:35 PM gameDriver REDRAW
+Jul 13, 2016 1:15:32 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:35 PM gameDriver REDRAW
+Jul 13, 2016 1:15:32 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:35 PM gameDriver REDRAW
+Jul 13, 2016 1:15:32 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:35 PM gameDriver REDRAW
+Jul 13, 2016 1:15:32 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:35 PM gameDriver REDRAW
+Jul 13, 2016 1:15:32 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:35 PM gameDriver REDRAW
+Jul 13, 2016 1:15:32 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:35 PM gameDriver REDRAW
+Jul 13, 2016 1:15:32 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:35 PM gameDriver REDRAW
+Jul 13, 2016 1:15:32 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:35 PM gameDriver REDRAW
+Jul 13, 2016 1:15:32 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:35 PM gameDriver REDRAW
+Jul 13, 2016 1:15:32 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:35 PM gameDriver REDRAW
+Jul 13, 2016 1:15:32 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:35 PM gameDriver REDRAW
+Jul 13, 2016 1:15:32 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:35 PM gameDriver REDRAW
+Jul 13, 2016 1:15:32 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:35 PM gameDriver REDRAW
+Jul 13, 2016 1:15:32 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:35 PM gameDriver REDRAW
+Jul 13, 2016 1:15:32 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:35 PM gameDriver REDRAW
+Jul 13, 2016 1:15:32 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:35 PM gameDriver REDRAW
+Jul 13, 2016 1:15:32 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:35 PM gameDriver REDRAW
+Jul 13, 2016 1:15:32 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:35 PM gameDriver REDRAW
+Jul 13, 2016 1:15:32 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:35 PM gameDriver REDRAW
+Jul 13, 2016 1:15:32 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:35 PM gameDriver REDRAW
+Jul 13, 2016 1:15:32 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:35 PM gameDriver REDRAW
+Jul 13, 2016 1:15:32 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:35 PM gameDriver REDRAW
+Jul 13, 2016 1:15:32 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:36 PM gameDriver REDRAW
+Jul 13, 2016 1:15:32 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:36 PM gameDriver REDRAW
+Jul 13, 2016 1:15:32 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:36 PM gameDriver REDRAW
+Jul 13, 2016 1:15:32 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:36 PM gameDriver REDRAW
+Jul 13, 2016 1:15:32 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:36 PM gameDriver REDRAW
+Jul 13, 2016 1:15:32 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:36 PM gameDriver REDRAW
+Jul 13, 2016 1:15:32 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:36 PM gameDriver REDRAW
+Jul 13, 2016 1:15:32 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:36 PM gameDriver REDRAW
+Jul 13, 2016 1:15:32 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:36 PM gameDriver REDRAW
+Jul 13, 2016 1:15:32 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:36 PM gameDriver REDRAW
+Jul 13, 2016 1:15:33 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:36 PM gameDriver REDRAW
+Jul 13, 2016 1:15:33 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:36 PM gameDriver REDRAW
+Jul 13, 2016 1:15:33 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:36 PM gameDriver REDRAW
+Jul 13, 2016 1:15:33 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:36 PM gameDriver REDRAW
+Jul 13, 2016 1:15:33 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:36 PM gameDriver REDRAW
+Jul 13, 2016 1:15:33 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:36 PM gameDriver REDRAW
+Jul 13, 2016 1:15:33 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:36 PM gameDriver REDRAW
+Jul 13, 2016 1:15:33 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:36 PM gameDriver REDRAW
+Jul 13, 2016 1:15:33 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:36 PM gameDriver REDRAW
+Jul 13, 2016 1:15:33 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:36 PM gameDriver REDRAW
+Jul 13, 2016 1:15:33 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:36 PM gameDriver REDRAW
+Jul 13, 2016 1:15:33 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:36 PM gameDriver REDRAW
+Jul 13, 2016 1:15:33 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:36 PM gameDriver REDRAW
+Jul 13, 2016 1:15:33 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:36 PM gameDriver REDRAW
+Jul 13, 2016 1:15:33 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:36 PM gameDriver REDRAW
+Jul 13, 2016 1:15:33 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:36 PM gameDriver REDRAW
+Jul 13, 2016 1:15:33 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:36 PM gameDriver REDRAW
+Jul 13, 2016 1:15:33 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:36 PM gameDriver REDRAW
+Jul 13, 2016 1:15:33 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:36 PM gameDriver REDRAW
+Jul 13, 2016 1:15:33 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:36 PM gameDriver REDRAW
+Jul 13, 2016 1:15:33 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:36 PM gameDriver REDRAW
+Jul 13, 2016 1:15:33 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:36 PM gameDriver REDRAW
+Jul 13, 2016 1:15:33 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:36 PM gameDriver REDRAW
+Jul 13, 2016 1:15:33 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:36 PM gameDriver REDRAW
+Jul 13, 2016 1:15:33 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:36 PM gameDriver REDRAW
+Jul 13, 2016 1:15:33 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:36 PM gameDriver REDRAW
+Jul 13, 2016 1:15:33 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:36 PM gameDriver REDRAW
+Jul 13, 2016 1:15:33 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:36 PM gameDriver REDRAW
+Jul 13, 2016 1:15:33 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:36 PM gameDriver REDRAW
+Jul 13, 2016 1:15:33 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:36 PM gameDriver REDRAW
+Jul 13, 2016 1:15:33 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:36 PM gameDriver REDRAW
+Jul 13, 2016 1:15:33 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:36 PM gameDriver REDRAW
+Jul 13, 2016 1:15:33 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:36 PM gameDriver REDRAW
+Jul 13, 2016 1:15:33 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:36 PM gameDriver REDRAW
+Jul 13, 2016 1:15:33 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:36 PM gameDriver REDRAW
+Jul 13, 2016 1:15:33 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:36 PM gameDriver REDRAW
+Jul 13, 2016 1:15:33 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:36 PM gameDriver REDRAW
+Jul 13, 2016 1:15:33 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:36 PM gameDriver REDRAW
+Jul 13, 2016 1:15:33 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:36 PM gameDriver REDRAW
+Jul 13, 2016 1:15:33 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:36 PM gameDriver REDRAW
+Jul 13, 2016 1:15:33 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:36 PM gameDriver REDRAW
+Jul 13, 2016 1:15:33 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:36 PM gameDriver REDRAW
+Jul 13, 2016 1:15:33 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:36 PM gameDriver REDRAW
+Jul 13, 2016 1:15:33 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:37 PM gameDriver REDRAW
+Jul 13, 2016 1:15:33 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:37 PM gameDriver REDRAW
+Jul 13, 2016 1:15:33 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:37 PM gameDriver REDRAW
+Jul 13, 2016 1:15:33 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:37 PM gameDriver REDRAW
+Jul 13, 2016 1:15:33 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:37 PM gameDriver REDRAW
+Jul 13, 2016 1:15:33 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:37 PM gameDriver REDRAW
+Jul 13, 2016 1:15:33 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:37 PM gameDriver REDRAW
+Jul 13, 2016 1:15:34 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:37 PM gameDriver REDRAW
+Jul 13, 2016 1:15:34 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:37 PM gameDriver REDRAW
+Jul 13, 2016 1:15:34 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:37 PM gameDriver REDRAW
+Jul 13, 2016 1:15:34 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:37 PM gameDriver REDRAW
+Jul 13, 2016 1:15:34 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:37 PM gameDriver REDRAW
+Jul 13, 2016 1:15:34 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:37 PM gameDriver REDRAW
+Jul 13, 2016 1:15:34 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:37 PM gameDriver REDRAW
+Jul 13, 2016 1:15:34 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:37 PM gameDriver REDRAW
+Jul 13, 2016 1:15:34 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:37 PM gameDriver REDRAW
+Jul 13, 2016 1:15:34 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:37 PM gameDriver REDRAW
+Jul 13, 2016 1:15:34 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:37 PM gameDriver REDRAW
+Jul 13, 2016 1:15:34 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:37 PM gameDriver REDRAW
+Jul 13, 2016 1:15:34 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:37 PM gameDriver REDRAW
+Jul 13, 2016 1:15:34 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:37 PM gameDriver REDRAW
+Jul 13, 2016 1:15:34 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:37 PM gameDriver REDRAW
+Jul 13, 2016 1:15:34 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:37 PM gameDriver REDRAW
+Jul 13, 2016 1:15:34 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:37 PM gameDriver REDRAW
+Jul 13, 2016 1:15:34 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:37 PM gameDriver REDRAW
+Jul 13, 2016 1:15:34 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:37 PM gameDriver REDRAW
+Jul 13, 2016 1:15:34 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:37 PM gameDriver REDRAW
+Jul 13, 2016 1:15:34 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:37 PM gameDriver REDRAW
+Jul 13, 2016 1:15:34 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:37 PM gameDriver REDRAW
+Jul 13, 2016 1:15:34 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:37 PM gameDriver REDRAW
+Jul 13, 2016 1:15:34 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:37 PM gameDriver REDRAW
+Jul 13, 2016 1:15:34 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:37 PM gameDriver REDRAW
+Jul 13, 2016 1:15:34 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:37 PM gameDriver REDRAW
+Jul 13, 2016 1:15:34 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:37 PM gameDriver REDRAW
+Jul 13, 2016 1:15:34 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:37 PM gameDriver REDRAW
+Jul 13, 2016 1:15:34 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:37 PM gameDriver REDRAW
+Jul 13, 2016 1:15:34 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:37 PM gameDriver REDRAW
+Jul 13, 2016 1:15:34 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:37 PM gameDriver REDRAW
+Jul 13, 2016 1:15:34 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:37 PM gameDriver REDRAW
+Jul 13, 2016 1:15:34 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:37 PM gameDriver REDRAW
+Jul 13, 2016 1:15:34 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:37 PM gameDriver REDRAW
+Jul 13, 2016 1:15:34 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:37 PM gameDriver REDRAW
+Jul 13, 2016 1:15:34 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:37 PM gameDriver REDRAW
+Jul 13, 2016 1:15:34 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:37 PM gameDriver REDRAW
+Jul 13, 2016 1:15:34 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:37 PM gameDriver REDRAW
+Jul 13, 2016 1:15:34 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:37 PM gameDriver REDRAW
+Jul 13, 2016 1:15:34 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:37 PM gameDriver REDRAW
+Jul 13, 2016 1:15:34 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:37 PM gameDriver REDRAW
+Jul 13, 2016 1:15:34 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:37 PM gameDriver REDRAW
+Jul 13, 2016 1:15:34 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:37 PM gameDriver REDRAW
+Jul 13, 2016 1:15:34 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:37 PM gameDriver REDRAW
+Jul 13, 2016 1:15:34 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:37 PM gameDriver REDRAW
+Jul 13, 2016 1:15:34 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:37 PM gameDriver REDRAW
+Jul 13, 2016 1:15:34 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:37 PM gameDriver REDRAW
+Jul 13, 2016 1:15:34 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:37 PM gameDriver REDRAW
+Jul 13, 2016 1:15:34 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:37 PM gameDriver REDRAW
+Jul 13, 2016 1:15:34 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:34 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:34 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:34 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:35 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:35 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:35 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:35 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:35 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:35 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:35 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:35 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:35 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:35 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:35 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:35 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:35 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:35 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:35 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:35 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:35 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:35 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:35 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:35 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:35 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:35 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:35 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:35 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:35 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:35 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:35 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:35 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:35 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:35 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:35 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:35 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:35 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:35 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:35 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:35 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:35 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:35 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:35 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:35 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:35 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:35 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:35 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:35 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:35 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:35 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:35 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:35 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:35 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:35 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:35 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:35 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:35 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:35 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:35 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:36 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:36 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:36 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:36 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:36 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:36 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:36 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:36 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:36 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:36 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:36 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:36 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:36 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:36 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:36 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:36 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:36 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:36 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:36 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:36 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:36 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:36 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:36 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:36 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:36 PM gameDriver REDRAW
 INFO: Drawing attackers
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:36 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:36 PM gameDriver REDRAW
 INFO: Drawing attackers
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:36 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:36 PM gameDriver REDRAW
 INFO: Drawing attackers
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:36 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:36 PM gameDriver REDRAW
 INFO: Drawing attackers
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:36 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:36 PM gameDriver REDRAW
 INFO: Drawing attackers
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:36 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:36 PM gameDriver REDRAW
 INFO: Drawing attackers
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:36 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:36 PM gameDriver REDRAW
 INFO: Drawing attackers
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:36 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:36 PM gameDriver REDRAW
 INFO: Drawing attackers
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:36 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:36 PM gameDriver REDRAW
 INFO: Drawing attackers
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:36 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:36 PM gameDriver REDRAW
 INFO: Drawing attackers
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:36 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:36 PM gameDriver REDRAW
 INFO: Drawing attackers
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:36 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:36 PM gameDriver REDRAW
 INFO: Drawing attackers
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:36 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:36 PM gameDriver REDRAW
 INFO: Drawing attackers
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:36 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:36 PM gameDriver REDRAW
 INFO: Drawing attackers
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:36 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:36 PM gameDriver REDRAW
 INFO: Drawing attackers
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:36 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:36 PM gameDriver REDRAW
 INFO: Drawing attackers
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:36 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:36 PM gameDriver REDRAW
 INFO: Drawing attackers
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:36 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:36 PM gameDriver REDRAW
 INFO: Drawing attackers
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:36 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:36 PM gameDriver REDRAW
 INFO: Drawing attackers
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:36 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:36 PM gameDriver REDRAW
 INFO: Drawing attackers
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:36 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:36 PM gameDriver REDRAW
 INFO: Drawing attackers
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:36 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:36 PM gameDriver REDRAW
 INFO: Drawing attackers
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:36 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:36 PM gameDriver REDRAW
 INFO: Drawing attackers
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:36 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:36 PM gameDriver REDRAW
 INFO: Drawing attackers
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:36 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:36 PM gameDriver REDRAW
 INFO: Drawing attackers
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:36 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:36 PM gameDriver REDRAW
 INFO: Drawing attackers
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:37 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:37 PM gameDriver REDRAW
 INFO: Drawing attackers
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:37 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:37 PM gameDriver REDRAW
 INFO: Drawing attackers
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:37 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:37 PM gameDriver REDRAW
 INFO: Drawing attackers
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:37 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:37 PM gameDriver REDRAW
 INFO: Drawing attackers
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:37 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:37 PM gameDriver REDRAW
 INFO: Drawing attackers
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:37 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:37 PM gameDriver REDRAW
 INFO: Drawing attackers
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:37 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:37 PM gameDriver REDRAW
 INFO: Drawing attackers
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:37 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:37 PM gameDriver REDRAW
 INFO: Drawing attackers
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:37 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:37 PM gameDriver REDRAW
 INFO: Drawing attackers
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:37 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:37 PM gameDriver REDRAW
 INFO: Drawing attackers
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:37 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:37 PM gameDriver REDRAW
 INFO: Drawing attackers
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:37 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:37 PM gameDriver REDRAW
 INFO: Drawing attackers
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:37 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:37 PM gameDriver REDRAW
 INFO: Drawing attackers
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:37 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:37 PM gameDriver REDRAW
 INFO: Drawing attackers
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:37 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:37 PM gameDriver REDRAW
 INFO: Drawing attackers
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:37 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:37 PM gameDriver REDRAW
 INFO: Drawing attackers
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:37 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:37 PM gameDriver REDRAW
 INFO: Drawing attackers
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:37 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:37 PM gameDriver REDRAW
 INFO: Drawing attackers
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:37 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:37 PM gameDriver REDRAW
 INFO: Drawing attackers
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:37 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:37 PM gameDriver REDRAW
 INFO: Drawing attackers
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:37 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:37 PM gameDriver REDRAW
 INFO: Drawing attackers
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:37 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:37 PM gameDriver REDRAW
 INFO: Drawing attackers
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:37 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:37 PM gameDriver REDRAW
 INFO: Drawing attackers
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:37 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:37 PM gameDriver REDRAW
 INFO: Drawing attackers
-Jul 13, 2016 12:52:38 PM gameDriver REDRAW
+Jul 13, 2016 1:15:37 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:39 PM gameDriver REDRAW
+Jul 13, 2016 1:15:37 PM gameDriver REDRAW
 INFO: Drawing attackers
-Jul 13, 2016 12:52:39 PM gameDriver REDRAW
+Jul 13, 2016 1:15:37 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:39 PM gameDriver REDRAW
+Jul 13, 2016 1:15:37 PM gameDriver REDRAW
 INFO: Drawing attackers
-Jul 13, 2016 12:52:39 PM gameDriver REDRAW
+Jul 13, 2016 1:15:37 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:39 PM gameDriver REDRAW
+Jul 13, 2016 1:15:37 PM gameDriver REDRAW
 INFO: Drawing attackers
-Jul 13, 2016 12:52:39 PM gameDriver REDRAW
+Jul 13, 2016 1:15:37 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:39 PM gameDriver REDRAW
+Jul 13, 2016 1:15:37 PM gameDriver REDRAW
 INFO: Drawing attackers
-Jul 13, 2016 12:52:39 PM gameDriver REDRAW
+Jul 13, 2016 1:15:37 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:39 PM gameDriver REDRAW
+Jul 13, 2016 1:15:37 PM gameDriver REDRAW
 INFO: Drawing attackers
-Jul 13, 2016 12:52:39 PM gameDriver REDRAW
+Jul 13, 2016 1:15:37 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:39 PM gameDriver REDRAW
+Jul 13, 2016 1:15:37 PM gameDriver REDRAW
 INFO: Drawing attackers
-Jul 13, 2016 12:52:39 PM gameDriver REDRAW
+Jul 13, 2016 1:15:37 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:39 PM gameDriver REDRAW
+Jul 13, 2016 1:15:37 PM gameDriver REDRAW
 INFO: Drawing attackers
-Jul 13, 2016 12:52:39 PM gameDriver REDRAW
+Jul 13, 2016 1:15:37 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:39 PM gameDriver REDRAW
+Jul 13, 2016 1:15:37 PM gameDriver REDRAW
 INFO: Drawing attackers
-Jul 13, 2016 12:52:39 PM gameDriver REDRAW
+Jul 13, 2016 1:15:37 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:39 PM gameDriver REDRAW
+Jul 13, 2016 1:15:37 PM gameDriver REDRAW
 INFO: Drawing attackers
-Jul 13, 2016 12:52:39 PM gameDriver REDRAW
+Jul 13, 2016 1:15:37 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:39 PM gameDriver REDRAW
+Jul 13, 2016 1:15:37 PM gameDriver REDRAW
 INFO: Drawing attackers
-Jul 13, 2016 12:52:39 PM gameDriver REDRAW
+Jul 13, 2016 1:15:37 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:39 PM gameDriver REDRAW
+Jul 13, 2016 1:15:37 PM gameDriver REDRAW
 INFO: Drawing attackers
-Jul 13, 2016 12:52:39 PM gameDriver REDRAW
+Jul 13, 2016 1:15:37 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:39 PM gameDriver REDRAW
+Jul 13, 2016 1:15:37 PM gameDriver REDRAW
 INFO: Drawing attackers
-Jul 13, 2016 12:52:39 PM gameDriver REDRAW
+Jul 13, 2016 1:15:37 PM gameDriver REDRAW
 FINE: Redrawing
-Jul 13, 2016 12:52:39 PM gameDriver REDRAW
+Jul 13, 2016 1:15:37 PM gameDriver REDRAW
 INFO: Drawing attackers
+Jul 13, 2016 1:15:37 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:37 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:37 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:37 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:37 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:37 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:37 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:37 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:37 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:37 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:37 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:37 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:37 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:37 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:37 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:37 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:37 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:37 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:37 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:37 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:37 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:37 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:37 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:38 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:38 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:38 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:38 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:38 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:38 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:38 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:38 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:38 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:38 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:38 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:38 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:38 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:38 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:38 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:38 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:38 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:38 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:38 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:38 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:38 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:38 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:38 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:38 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:38 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:38 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:38 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:38 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:38 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:38 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:38 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:38 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:38 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:38 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:38 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:38 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:38 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:38 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:38 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:38 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:38 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:38 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:38 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:38 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:38 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:38 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:38 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:38 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:38 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:38 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:38 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:38 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:38 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:38 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:38 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:38 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:38 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:38 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:38 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:38 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:38 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:38 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:38 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:38 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:38 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:38 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:38 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:38 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:38 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:38 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:38 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:38 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:38 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:38 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:38 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:38 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:38 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:38 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:38 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:38 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:38 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:38 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:38 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:38 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:38 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:38 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:38 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:38 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:38 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:39 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:40 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:41 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:42 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:43 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:43 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:43 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:43 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:43 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:43 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:43 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:43 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:43 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:43 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:43 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:43 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:43 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:43 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:43 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:43 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:43 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:43 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:43 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:43 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:43 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:43 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:43 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:43 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:43 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:43 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:43 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:43 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:43 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:43 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:43 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:43 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:43 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:43 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:43 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:43 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:43 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:43 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:43 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:43 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:43 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:43 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:43 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:43 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:43 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:43 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:43 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:43 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:43 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:43 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:43 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:43 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:43 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:43 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:43 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:43 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:43 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:43 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:43 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:43 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:43 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:43 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:43 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:43 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:43 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:43 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:43 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:43 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:43 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:43 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:43 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:43 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:43 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:43 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:43 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:43 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:43 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:43 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:43 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:43 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:43 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:43 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:43 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:43 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:43 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:43 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:43 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:43 PM gameDriver REDRAW
+FINE: Redrawing
+Jul 13, 2016 1:15:43 PM gameDriver REDRAW
+INFO: Drawing attackers
+Jul 13, 2016 1:15:43 PM gameDriver REDRAW
+FINE: Redrawing

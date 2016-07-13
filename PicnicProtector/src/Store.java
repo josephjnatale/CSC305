@@ -2,7 +2,7 @@ import java.awt.Color;
 
 import processing.core.*;
 
-public class Store {
+public class Store extends Main{
 	
 	private PApplet p;
 
@@ -11,12 +11,12 @@ public class Store {
 	private boolean overTower=false, overStore=false;
 	
 	
-	private PImage tower1;
+	private Tower tower1;
 	
 	public Store(PApplet applet){
 		
 		p=applet;
-		tower1= p.loadImage("images\\tower.png");
+		tower1= new Tower(menuX+50, menuY+30);
 		
 	}
 		
@@ -74,7 +74,7 @@ public class Store {
 		return overStore;
 	}
 	public PImage getImage(){
-		return tower1;
+		return images.tower1;
 	}
 	
 	public int towerSelected(){
@@ -105,7 +105,7 @@ public class Store {
 		p.text("Tower 1",  menuX+50, menuY+30);
 		p.textSize(12);
 		p.text(" Dmg: 12 \n Rng: 20 \n $: 100", menuX+135, menuY+60);
-		p.image(tower1, menuX+75, menuY+75, 100, 100);
+		p.image(getImage(), menuX+75, menuY+75, 100, 100);
 		
 	}
 	
