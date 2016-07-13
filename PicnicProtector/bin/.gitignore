@@ -1,7 +1,9 @@
 /Images/
 /Attacker.class
+/LoggerMain.class
 /Main.class
 /Map.class
+/MyHtmlFormatter.class
 /Store.class
 /Tower.class
 /WaveSetup.class
@@ -10,5 +12,3 @@
 /gameDriver.class
 /squirrel.class
 /towerDriver.class
-/LoggerMain.class
-/MyHtmlFormatter.class

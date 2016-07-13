@@ -182,11 +182,6 @@ public class gameDriver extends Main {
 			//check the placement of the tower
 			if(towerDriver.closeToOtherTower(p.mouseX, p.mouseY)&& !towerDriver.overPath()){
 				placeTower(p.mouseX, p.mouseY);
-				playerScore -= 100;
-				if(playerScore <= 0){
-					playerScore = 0; 
-					phase="attack";
-				}
 			}
 			//if too close to another tower
 			else if(!towerDriver.closeToOtherTower(p.mouseX, p.mouseY)){
@@ -217,7 +212,12 @@ public class gameDriver extends Main {
 
 		towerDriver.addTower(x, y , towerType);
 		store.setTowerSelected(-1);
+		playerScore -= towerType*100;
+		if(playerScore <= 0){
+			playerScore = 0; 
+			phase="attack";
 		}
+	}
 	
 	
 	private void attackPhase(){

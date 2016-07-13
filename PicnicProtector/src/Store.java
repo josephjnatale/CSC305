@@ -157,7 +157,7 @@ public class Store extends Main{
 			//tower1
 			if(p.mouseX>menuX && p.mouseX<menuX+190 && p.mouseY>menuY && p.mouseY<menuY+110){
 
-					towerSelected = 1;
+				towerSelected = 1;
 			}
 			//tower2
 			else if(p.mouseX>menuX && p.mouseX<menuX+190 && p.mouseY>menuY+100 && p.mouseY<menuY+210){

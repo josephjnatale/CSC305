@@ -7,7 +7,7 @@ public class Tower extends towerDriver{
 	 * that delays the hit detection for now needs to be changed if 
 	 * we want multiple tower fire rates
 	 */
-	private int x, y, range = 160, damage = 12, fireRate = 300;
+	private int x, y, range = 160, damage = 12, fireRate = 300, price = 0;
 
 	private Attacker target = null;
 	
@@ -41,9 +41,7 @@ public class Tower extends towerDriver{
 
 		switch(towerType){
 		case 1:
-			
 			p.image(images.cannon_tower, x, y,  100, 100);
-			
 			break;
 		case 2:
 			p.image(images.dark_tower, x, y,  100, 100);
@@ -52,8 +50,8 @@ public class Tower extends towerDriver{
 			p.image(images.magic_tower, x, y,  100, 100);
 			break;
 		default:
-				break;
-	}
+			break;
+		}
 			
 	}
 
