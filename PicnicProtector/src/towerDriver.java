@@ -16,9 +16,25 @@ public class towerDriver extends Main{
 	
 	public void addTower(int x, int y, int towerSelected){
 
-		towerList.add(new Tower(x, y, towerSelected));
-		System.out.println("added a new tower");
+		switch(towerSelected){
+		case 1:
+			towerList.add(new CannonTower(x, y));
+			System.out.println("added a new Cannon tower");
+			break;
+		case 2:
+			towerList.add(new DarkTower(x, y));
+			System.out.println("added a new Dark tower");
+			break;
+		case 3:
+			towerList.add(new MagicTower(x, y));
+			System.out.println("added a new Magic tower");
+			break;
+			
+		default:
+			break;
 		}
+			
+	}
 	
 	public boolean closeToOtherTower(int x, int y){
 		

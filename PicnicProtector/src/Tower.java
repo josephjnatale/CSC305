@@ -8,20 +8,28 @@ public class Tower extends towerDriver{
 	 * that delays the hit detection for now needs to be changed if 
 	 * we want multiple tower fire rates
 	 */
-	private int x, y, range = 160, damage = 12, fireRate = 300, price = 0;
+	protected int x;
 
-	private Attacker target = null;
+	protected int y;
+
+	protected int range;
+
+	protected int damage;
+
+	protected int fireRate;
+
+	protected int price;
+
+	protected Attacker target = null;
 	
-	private int towerType;
-	private float lastShot;
+	protected float lastShot;
 	
-	private boolean shooting=false;
+	protected boolean shooting=false;
 			
 
-	public Tower( int x, int y, int tower){
+	public Tower( int x, int y){
 		this.x = x;
 		this.y = y;
-		towerType = tower;
 	}
 
 	public void repos(int x, int y){
@@ -40,14 +48,19 @@ public class Tower extends towerDriver{
 	public int getRange(){
 		return range;
 	}
+	
+	protected void setRange(int rangeSet){
+		range=rangeSet;
+	}
+	
+	
 
-	public void draw(PApplet p){
+	public  void draw(PApplet p){}
+	
+	
 
-		switch(towerType){
-		case 1:
-			p.image(images.cannon_tower, x, y);
-			break;
-		case 2:
+		
+		/*
 			p.image(images.dark_tower, x, y);
 			break;
 		case 3: 
@@ -81,7 +94,7 @@ public class Tower extends towerDriver{
 				p.image(images.laser, 0, 0, 100, distanceToPoint(target.getX(), target.getY()));
 				p.popMatrix();
 			}
-			*/
+			
 			//draws line from tower to attacker
 			if(shooting){
 				p.stroke(Color.blue.getRGB());
@@ -96,7 +109,7 @@ public class Tower extends towerDriver{
 			
 		}
 	}
-	
+	*/
 	private float angleOfAttacker(){
 		
 		PVector v1 = new PVector(x, y);
@@ -122,7 +135,7 @@ public class Tower extends towerDriver{
 		try{
 			rangeCheck = distanceToPoint(target.getX(),target.getY());
 			
-			if (rangeCheck <= range){
+			if (rangeCheck <= getRange()){
 				shoot(target);
 				
 				// for shoot animation timing
@@ -146,7 +159,7 @@ public class Tower extends towerDriver{
 			System.out.println("Tower Looking for Target");
 			for (int index = 0; index < attackerList.size(); index++)
 				if(!attackerList.get(index).isDead){
-					if(distanceToPoint(attackerList.get(index).getX(), attackerList.get(index).getY()) <= range)
+					if(distanceToPoint(attackerList.get(index).getX(), attackerList.get(index).getY()) <= getRange())
 						target = attackerList.get(index);
 				}
 		}/* Exception unneeded as we are no longer using Thread.sleep

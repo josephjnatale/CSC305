@@ -25,7 +25,7 @@ public class gameDriver extends Main {
 	//the players health
 	private int playerHealth;
 	
-	private int towerType;
+	private int towerSelected;
 	
 
 	//Arraylist to keep track of the attackers currently on the screen.
@@ -159,22 +159,21 @@ public class gameDriver extends Main {
 		switch(store.towerSelected()){
 		case 1:
 			p.ellipse(p.mouseX, p.mouseY, 2*store.getTowerRange(store.towerSelected()), 2*store.getTowerRange(store.towerSelected()));	
-			p.image(store.getImageT1(), p.mouseX, p.mouseY);
-			towerType = 1;
+			p.image(store.getImageT1(), p.mouseX, p.mouseY);			
 			break;
+			
 		case 2:
 			p.ellipse(p.mouseX, p.mouseY, 2*store.getTowerRange(store.towerSelected()), 2*store.getTowerRange(store.towerSelected()));	
-			p.image(store.getImageT2(), p.mouseX, p.mouseY);
-			towerType = 2;
+			p.image(store.getImageT2(), p.mouseX, p.mouseY);			
 			break;
+			
 		case 3:
 			p.ellipse(p.mouseX, p.mouseY, 2*store.getTowerRange(store.towerSelected()), 2*store.getTowerRange(store.towerSelected()));	
 			p.image(store.getImageT3(), p.mouseX, p.mouseY);
-			towerType = 3;
 			break;
 		
 		default:
-		break;
+			break;
 		}
 		
 		//if there is a tower selected and the player has clicked and the mouse is not over the store
@@ -211,10 +210,11 @@ public class gameDriver extends Main {
 	
 	//adds the tower newly placed tower to the towerList inside gamedriver and deselects the tower from currently selected
 	private void placeTower(int x, int y){
-
-		towerDriver.addTower(x, y , towerType);
+		towerSelected=store.towerSelected();
+		
+		towerDriver.addTower(x, y , towerSelected);
 		store.setTowerSelected(-1);
-		playerScore -= towerType*100;
+		
 		if(playerScore <= 0){
 			playerScore = 0; 
 			phase="attack";

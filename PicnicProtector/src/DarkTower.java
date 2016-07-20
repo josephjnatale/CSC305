@@ -2,9 +2,9 @@ import java.awt.Color;
 
 import processing.core.PApplet;
 
-public class CannonTower extends Tower {
+public class DarkTower extends Tower{
 
-	public CannonTower(int x, int y) {
+	public DarkTower(int x, int y) {
 		super(x, y);
 		range=160;
 		damage = 12;
@@ -15,16 +15,16 @@ public class CannonTower extends Tower {
 	public void draw(PApplet p){
 		
 	
-		p.image(images.cannon_tower, x, y);
+		p.image(images.dark_tower, x, y);
 		if(target!=null){
 			if(shooting){
-				p.stroke(Color.blue.getRGB());
+				p.stroke(Color.red.getRGB());
 				p.line(x, y, target.getX(), target.getY());
 				lastShot=p.millis();
 				
 			}
 			else if(p.millis()-lastShot>fireRate && p.millis()-lastShot%20!=0){
-				p.stroke(Color.blue.getRGB());
+				p.stroke(Color.red.getRGB());
 				p.line(x, y, target.getX(), target.getY());
 			}
 		}
