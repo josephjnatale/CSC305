@@ -18,12 +18,14 @@ public class MagicTower extends Tower{
 		p.image(images.magic_tower, x, y);
 		if(target!=null){
 			if(shooting){
+				p.strokeWeight(5);
 				p.stroke(Color.green.getRGB());
 				p.line(x, y, target.getX(), target.getY());
 				lastShot=p.millis();
 				
 			}
 			else if(p.millis()-lastShot>fireRate && p.millis()-lastShot%20!=0){
+				p.strokeWeight(5);
 				p.stroke(Color.green.getRGB());
 				p.line(x, y, target.getX(), target.getY());
 			}

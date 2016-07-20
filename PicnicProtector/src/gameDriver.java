@@ -286,6 +286,10 @@ public class gameDriver extends Main {
 	}
 	
 	private void drawInterface(){
+		
+		p.stroke(0);
+		p.strokeWeight(1);
+		
 		p.fill(255);
 		p.rect(0, 0, 1280, 60);
 		

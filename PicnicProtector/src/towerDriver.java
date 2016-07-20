@@ -65,7 +65,7 @@ public class towerDriver extends Main{
 			System.out.println("Distance to closet Tower: "+closetdistance);
 			
 			//this is where it decides if it the current tower is too close or not
-			if(closetdistance<60)
+			if(closetdistance<65)
 				return false;
 			
 			
