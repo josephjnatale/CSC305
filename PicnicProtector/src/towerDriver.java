@@ -125,6 +125,7 @@ public class towerDriver extends Main{
 		
 	}
 	
+	
 	/**gain income
 	 * 
 	 * @param attackerList
@@ -167,5 +168,15 @@ public class towerDriver extends Main{
 		}
 	}
 	
+	
+	public int getPrice(int towerSelected){
+		int price = 0;
+		
 
+		price = towerList.get(towerSelected-1).getPrice();
+		
+		return price;
+		
+	}
+	
 }

@@ -1,6 +1,11 @@
 /Images/
+/squirrel.class
+/towerDriver.class
 /Attacker.class
+/CannonTower.class
+/DarkTower.class
 /LoggerMain.class
+/MagicTower.class
 /Main.class
 /Map.class
 /MyHtmlFormatter.class
@@ -10,8 +15,3 @@
 /allMyImages.class
 /attackerDriver.class
 /gameDriver.class
-/squirrel.class
-/towerDriver.class
-/CannonTower.class
-/DarkTower.class
-/MagicTower.class

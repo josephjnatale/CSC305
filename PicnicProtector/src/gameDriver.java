@@ -38,7 +38,9 @@ public class gameDriver extends Main {
 	private boolean noHealth;
 	
 	//score of the player
-	private int playerScore=1000;
+	private int playerScore= 0;
+	private int playerBank = 1000;
+	
 	private int reloadTime = millis();
 
 	private String phase = "build";
@@ -213,10 +215,13 @@ public class gameDriver extends Main {
 		towerSelected=store.towerSelected();
 		
 		towerDriver.addTower(x, y , towerSelected);
+		
+		playerBank  -= towerDriver.getPrice(towerSelected);
+
 		store.setTowerSelected(-1);
 		
-		if(playerScore <= 0){
-			playerScore = 0; 
+		if(playerBank <= 0){
+			playerBank = 0; 
 			phase="attack";
 		}
 	}
@@ -235,17 +240,19 @@ public class gameDriver extends Main {
 		if(millis() >= reloadTime){
 			towerDriver.hitDetection(attackerList);
 			reloadTime = millis() + towerFireDelay;
+			
 			playerScore+= towerDriver.income(attackerList);
+	
 		}
 		if(attackerList.isEmpty()){
 			phase="build";
 			setup=true;
+			
+			playerBank+= 100;
+
 			currentWave++;
 			wave.setWave(currentWave);
-			
-			//adds end of wave bonus
-			
-			
+			//adds end of wave bonus	
 		}
 		
 		
@@ -310,7 +317,8 @@ public class gameDriver extends Main {
 		p.text("Player Health: "+playerHealth, 10,  35);
 		p.text("Score: "+playerScore, 400, 35);
 		p.text("Wave: "+currentWave, 700, 35);
-	
+		p.text("Bank: "+playerBank, 550, 35);
+
 	}
 	
 	

@@ -53,7 +53,6 @@ public class Tower extends towerDriver{
 		range=rangeSet;
 	}
 	
-	
 
 	public  void draw(PApplet p){}
 	
@@ -168,4 +167,7 @@ public class Tower extends towerDriver{
 		}*/
 	}
 
+	public int getPrice(){
+		return price;
+	}
 }

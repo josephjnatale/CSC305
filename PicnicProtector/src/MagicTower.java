@@ -9,7 +9,7 @@ public class MagicTower extends Tower{
 		range=160;
 		damage = 12;
 		fireRate = 300;
-		price = 100;
+		price = 200;
 	}
 	
 	public void draw(PApplet p){
