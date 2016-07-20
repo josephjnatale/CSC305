@@ -113,6 +113,8 @@ public class gameDriver extends Main {
 			
 		//System.out.println("player health: " + playerHealth);
 		
+		
+		
 	}
 	
 	public int getScore(){
@@ -157,17 +159,17 @@ public class gameDriver extends Main {
 		switch(store.towerSelected()){
 		case 1:
 			p.ellipse(p.mouseX, p.mouseY, 2*store.getTowerRange(store.towerSelected()), 2*store.getTowerRange(store.towerSelected()));	
-			p.image(store.getImageT1(), p.mouseX, p.mouseY, 100, 100);
+			p.image(store.getImageT1(), p.mouseX, p.mouseY);
 			towerType = 1;
 			break;
 		case 2:
 			p.ellipse(p.mouseX, p.mouseY, 2*store.getTowerRange(store.towerSelected()), 2*store.getTowerRange(store.towerSelected()));	
-			p.image(store.getImageT2(), p.mouseX, p.mouseY, 100, 100);
+			p.image(store.getImageT2(), p.mouseX, p.mouseY);
 			towerType = 2;
 			break;
 		case 3:
 			p.ellipse(p.mouseX, p.mouseY, 2*store.getTowerRange(store.towerSelected()), 2*store.getTowerRange(store.towerSelected()));	
-			p.image(store.getImageT3(), p.mouseX, p.mouseY, 100, 100);
+			p.image(store.getImageT3(), p.mouseX, p.mouseY);
 			towerType = 3;
 			break;
 		

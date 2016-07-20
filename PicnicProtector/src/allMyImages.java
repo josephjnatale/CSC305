@@ -9,6 +9,8 @@ public class allMyImages extends PApplet{
 	public Gif squirrelDown = new Gif(this, "images\\squirrelDown.gif");
 	public Gif squirrelOriginal = new Gif(this, "images\\squirrelGif--Original.gif");
 	
+	public Gif laser = new Gif(this, "images\\laser.gif");
+	
 	public PImage basket = loadImage("images\\basket.png");
 	public PImage menuBackground = loadImage("images\\menu.jpg");
 	public PImage map1 = loadImage("images\\map1.png");
@@ -17,6 +19,7 @@ public class allMyImages extends PApplet{
 	public PImage cannon_tower = loadImage("images\\cannon_tower.png");
 	public PImage dark_tower = loadImage("images\\dark_tower.png");
 	public PImage magic_tower = loadImage("images\\magic_tower.png");
+	
 	
 	
 

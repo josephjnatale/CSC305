@@ -1,3 +1,4 @@
+import java.awt.Color;
 import java.util.ArrayList;
 
 import processing.core.*;
@@ -12,7 +13,10 @@ public class Tower extends towerDriver{
 	private Attacker target = null;
 	
 	private int towerType;
+	private float lastShot;
 	
+	private boolean shooting=false;
+			
 
 	public Tower( int x, int y, int tower){
 		this.x = x;
@@ -41,18 +45,64 @@ public class Tower extends towerDriver{
 
 		switch(towerType){
 		case 1:
-			p.image(images.cannon_tower, x, y,  100, 100);
+			p.image(images.cannon_tower, x, y);
 			break;
 		case 2:
-			p.image(images.dark_tower, x, y,  100, 100);
+			p.image(images.dark_tower, x, y);
 			break;
 		case 3: 
-			p.image(images.magic_tower, x, y,  100, 100);
+			p.image(images.magic_tower, x, y);
 			break;
 		default:
 			break;
 		}
+		
+		if(target!=null){
 			
+			/* Code for drawing the laser gif at angle to attacker, does not work
+			if(shooting){
+				p.pushMatrix();
+				p.translate(x, y);
+				p.rotate(PApplet.radians(angleOfAttacker()));
+				images.laser.play();
+				p.image(images.laser, 0, 0, 100, distanceToPoint(target.getX(), target.getY()));
+				lastShot=p.millis();
+				System.out.println("Last shot at "+lastShot);
+				p.popMatrix();
+			}
+			
+			else if(p.millis()-lastShot>1000){
+				System.out.println("Time since lastShot: " + (p.millis()-lastShot));
+				p.pushMatrix();
+				p.translate(x, y);
+				p.rotate(PApplet.radians(angleOfAttacker()));
+				System.out.println("Angle of attacker in radians: "+ angleOfAttacker());
+				images.laser.play();
+				p.image(images.laser, 0, 0, 100, distanceToPoint(target.getX(), target.getY()));
+				p.popMatrix();
+			}
+			*/
+			//draws line from tower to attacker
+			if(shooting){
+				p.stroke(Color.blue.getRGB());
+				p.line(x, y, target.getX(), target.getY());
+				lastShot=p.millis();
+				
+			}
+			else if(p.millis()-lastShot>fireRate && p.millis()-lastShot%20!=0){
+				p.stroke(Color.blue.getRGB());
+				p.line(x, y, target.getX(), target.getY());
+			}
+			
+		}
+	}
+	
+	private float angleOfAttacker(){
+		
+		PVector v1 = new PVector(x, y);
+		PVector v2 = new PVector(target.getX(), target.getY()); 
+		return PVector.angleBetween(v1, v2);
+		
 	}
 
 	public int distanceToPoint(int xPos, int yPos){
@@ -61,6 +111,8 @@ public class Tower extends towerDriver{
 	public void shoot(Attacker attacker){
 		attacker.setHealth(attacker.getHealth() - damage);
 		System.out.println("Shoots " + attacker.getHealth());
+		System.out.println("drawing laser");
+		
 	}
 
 
@@ -72,13 +124,18 @@ public class Tower extends towerDriver{
 			
 			if (rangeCheck <= range){
 				shoot(target);
-				//Failed attempts at slowing fire rate
-				//Thread.sleep(500);
-				//delay(300);
+				
+				// for shoot animation timing
+				shooting = true;
+				
 				
 				
 			}else{
 				target = null;
+				
+				//shoot animation non existent otherwise
+				shooting = false;
+				
 			}
 			if(target.getHealth() <= 0){
 				target.isDead = true;
@@ -86,7 +143,7 @@ public class Tower extends towerDriver{
 			}
 			//this will be the search behaviour so that the tower only switches targets when it no longer has a target to shoot
 		}catch(NullPointerException e){
-			System.out.println("Switch targets");
+			System.out.println("Tower Looking for Target");
 			for (int index = 0; index < attackerList.size(); index++)
 				if(!attackerList.get(index).isDead){
 					if(distanceToPoint(attackerList.get(index).getX(), attackerList.get(index).getY()) <= range)
