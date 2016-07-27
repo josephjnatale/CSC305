@@ -93,9 +93,9 @@ public class Main extends PApplet {
 		
 		
 		//draws framerate over any screen.
-		this.textSize(45);
-		fill(Color.cyan.getRGB());
-		text(frameRate, 50, 150);	
+//		this.textSize(45);
+//		fill(Color.cyan.getRGB());
+//		text(frameRate, 50, 150);	
 		
 	}
 	

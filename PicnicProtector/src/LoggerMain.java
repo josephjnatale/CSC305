@@ -39,8 +39,13 @@ public class LoggerMain {
 //    
     logger.setLevel(Level.INFO);
     
-    fileTxt = new FileHandler("Logging.txt");
-    fileHTML = new FileHandler("Logging.html");
+
+
+    String date = new SimpleDateFormat("dd-MM-yyyy HH-mm-s").format(new Date());
+
+
+    fileTxt = new FileHandler("Logging "+date+".txt");
+    fileHTML = new FileHandler("Logging "+date+".html");
 
     // create a TXT formatter
     formatterTxt = new SimpleFormatter();

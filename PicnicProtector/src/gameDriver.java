@@ -250,16 +250,6 @@ public class gameDriver extends Main {
 		}
 		if(attackerList.isEmpty()){
 			phase="endWave";
-			//adds end of wave bonus
-			
-			
-			phase="build";
-			setup=true;
-			
-			
-
-			currentWave++;
-			wave.setWave(currentWave);
 		}
 		
 		
