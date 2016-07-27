@@ -30,13 +30,6 @@ public class LoggerMain {
     }
     
     
-    private String calcDate(long millisecs) {
-    	
-        SimpleDateFormat date_format = new SimpleDateFormat("MMM dd,yyyy HH:mm:ss.SS");
-        Date resultdate = new Date(millisecs);
-        return date_format.format(resultdate);
-      }
-    
     logger.setLevel(Level.INFO);
     fileTxt = new FileHandler("Logging.txt");
     fileHTML = new FileHandler("Logging.html");

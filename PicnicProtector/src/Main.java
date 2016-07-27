@@ -149,10 +149,11 @@ public class Main extends PApplet {
 		//back button highlight
 		textSize(60);
 		//If mouse is over back, change the fill purple 
-		if(mouseX >= 50 && mouseX <=50+125 && mouseY>=650 && mouseY<=700 && gameState == 1)
+		if(mouseX >= 50 && mouseX <=50+125 && mouseY>=650 && mouseY<=700 && gameState == 1){
 			fill(186,85,211);
 		text("Back", 50, 700);
 	    LOGGER.info("Back button Pressed");
+		}
 
 	}
 	

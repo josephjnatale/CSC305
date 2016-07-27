@@ -1,5 +1,6 @@
 import java.awt.Color;
 import java.util.ArrayList;
+import java.util.logging.Logger;
 
 import processing.core.*;
 
@@ -55,6 +56,9 @@ public class Tower extends towerDriver{
 	
 
 	public  void draw(PApplet p){}
+	
+	private final static Logger LOGGER = Logger.getLogger(Logger.GLOBAL_LOGGER_NAME);
+
 	
 	
 
@@ -122,8 +126,8 @@ public class Tower extends towerDriver{
 	}
 	public void shoot(Attacker attacker){
 		attacker.setHealth(attacker.getHealth() - damage);
-		System.out.println("Shoots " + attacker.getHealth());
-		System.out.println("drawing laser");
+		LOGGER.info("Shoots " + attacker.getHealth());
+		LOGGER.fine("drawing laser");
 		
 	}
 
@@ -155,7 +159,7 @@ public class Tower extends towerDriver{
 			}
 			//this will be the search behaviour so that the tower only switches targets when it no longer has a target to shoot
 		}catch(NullPointerException e){
-			System.out.println("Tower Looking for Target");
+			LOGGER.fine("Tower Looking for Target");
 			for (int index = 0; index < attackerList.size(); index++)
 				if(!attackerList.get(index).isDead){
 					if(distanceToPoint(attackerList.get(index).getX(), attackerList.get(index).getY()) <= getRange())
