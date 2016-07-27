@@ -243,13 +243,22 @@ public class gameDriver extends Main {
 		if(millis() >= reloadTime){
 			towerDriver.hitDetection(attackerList);
 			reloadTime = millis() + towerFireDelay;
+			
 			playerScore+= towerDriver.income(attackerList);
+	
 		}
 		if(attackerList.isEmpty()){
 			phase="endWave";
 			//adds end of wave bonus
 			
 			
+			phase="build";
+			setup=true;
+			
+			
+
+			currentWave++;
+			wave.setWave(currentWave);
 		}
 		
 		

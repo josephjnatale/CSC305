@@ -1,81 +1,238 @@
+<<<<<<< HEAD
 Jul 26, 2016 10:01:33 PM Main mouseClicked
+=======
+Jul 20, 2016 1:01:14 PM Main mouseClicked
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 INFO: Detected click on Play, sending over to gameDriver
+<<<<<<< HEAD
 Jul 26, 2016 10:01:33 PM Main selectMap
+=======
+Jul 20, 2016 1:01:14 PM Main selectMap
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 INFO: Back button Pressed
+<<<<<<< HEAD
 Jul 26, 2016 10:01:33 PM Main selectMap
+=======
+Jul 20, 2016 1:01:14 PM Main selectMap
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 INFO: Back button Pressed
+<<<<<<< HEAD
 Jul 26, 2016 10:01:33 PM Main selectMap
+=======
+Jul 20, 2016 1:01:14 PM Main selectMap
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 INFO: Back button Pressed
+<<<<<<< HEAD
 Jul 26, 2016 10:01:33 PM Main selectMap
+=======
+Jul 20, 2016 1:01:14 PM Main selectMap
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 INFO: Back button Pressed
+<<<<<<< HEAD
 Jul 26, 2016 10:01:33 PM Main selectMap
+=======
+Jul 20, 2016 1:01:14 PM Main selectMap
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 INFO: Back button Pressed
+<<<<<<< HEAD
 Jul 26, 2016 10:01:33 PM Main selectMap
+=======
+Jul 20, 2016 1:01:14 PM Main selectMap
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 INFO: Back button Pressed
+<<<<<<< HEAD
 Jul 26, 2016 10:01:33 PM Main selectMap
+=======
+Jul 20, 2016 1:01:14 PM Main selectMap
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 INFO: Back button Pressed
+<<<<<<< HEAD
 Jul 26, 2016 10:01:33 PM Main selectMap
+=======
+Jul 20, 2016 1:01:14 PM Main selectMap
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 INFO: Back button Pressed
+<<<<<<< HEAD
 Jul 26, 2016 10:01:33 PM Main selectMap
+=======
+Jul 20, 2016 1:01:14 PM Main selectMap
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 INFO: Back button Pressed
+<<<<<<< HEAD
 Jul 26, 2016 10:01:33 PM Main selectMap
+=======
+Jul 20, 2016 1:01:14 PM Main selectMap
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 INFO: Back button Pressed
+<<<<<<< HEAD
 Jul 26, 2016 10:01:33 PM Main selectMap
+=======
+Jul 20, 2016 1:01:14 PM Main selectMap
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 INFO: Back button Pressed
+<<<<<<< HEAD
 Jul 26, 2016 10:01:33 PM Main selectMap
+=======
+Jul 20, 2016 1:01:14 PM Main selectMap
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 INFO: Back button Pressed
+<<<<<<< HEAD
 Jul 26, 2016 10:01:33 PM Main selectMap
+=======
+Jul 20, 2016 1:01:14 PM Main selectMap
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 INFO: Back button Pressed
+<<<<<<< HEAD
 Jul 26, 2016 10:01:33 PM Main selectMap
+=======
+Jul 20, 2016 1:01:14 PM Main selectMap
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 INFO: Back button Pressed
+<<<<<<< HEAD
 Jul 26, 2016 10:01:33 PM Main selectMap
+=======
+Jul 20, 2016 1:01:14 PM Main selectMap
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 INFO: Back button Pressed
+<<<<<<< HEAD
 Jul 26, 2016 10:01:33 PM Main selectMap
+=======
+Jul 20, 2016 1:01:14 PM Main selectMap
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 INFO: Back button Pressed
+<<<<<<< HEAD
 Jul 26, 2016 10:01:33 PM Main selectMap
+=======
+Jul 20, 2016 1:01:14 PM Main selectMap
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 INFO: Back button Pressed
+<<<<<<< HEAD
 Jul 26, 2016 10:01:33 PM Main selectMap
+=======
+Jul 20, 2016 1:01:14 PM Main selectMap
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 INFO: Back button Pressed
+<<<<<<< HEAD
 Jul 26, 2016 10:01:33 PM Main selectMap
+=======
+Jul 20, 2016 1:01:14 PM Main selectMap
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 INFO: Back button Pressed
+<<<<<<< HEAD
 Jul 26, 2016 10:01:33 PM Main selectMap
+=======
+Jul 20, 2016 1:01:14 PM Main selectMap
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 INFO: Back button Pressed
+<<<<<<< HEAD
 Jul 26, 2016 10:01:33 PM Main selectMap
+=======
+Jul 20, 2016 1:01:14 PM Main selectMap
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 INFO: Back button Pressed
+<<<<<<< HEAD
 Jul 26, 2016 10:01:33 PM Main selectMap
+=======
+Jul 20, 2016 1:01:14 PM Main selectMap
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 INFO: Back button Pressed
+<<<<<<< HEAD
 Jul 26, 2016 10:01:33 PM Main selectMap
+=======
+Jul 20, 2016 1:01:14 PM Main selectMap
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 INFO: Back button Pressed
+<<<<<<< HEAD
 Jul 26, 2016 10:01:33 PM Main selectMap
+=======
+Jul 20, 2016 1:01:14 PM Main selectMap
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 INFO: Back button Pressed
+<<<<<<< HEAD
 Jul 26, 2016 10:01:33 PM Main selectMap
+=======
+Jul 20, 2016 1:01:14 PM Main selectMap
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 INFO: Back button Pressed
+<<<<<<< HEAD
 Jul 26, 2016 10:01:33 PM Main selectMap
+=======
+Jul 20, 2016 1:01:14 PM Main selectMap
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 INFO: Back button Pressed
+<<<<<<< HEAD
 Jul 26, 2016 10:01:33 PM Main selectMap
+=======
+Jul 20, 2016 1:01:14 PM Main selectMap
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 INFO: Back button Pressed
+<<<<<<< HEAD
 Jul 26, 2016 10:01:33 PM Main selectMap
+=======
+Jul 20, 2016 1:01:14 PM Main selectMap
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 INFO: Back button Pressed
+<<<<<<< HEAD
 Jul 26, 2016 10:01:33 PM Main selectMap
+=======
+Jul 20, 2016 1:01:14 PM Main selectMap
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 INFO: Back button Pressed
+<<<<<<< HEAD
 Jul 26, 2016 10:01:33 PM Main selectMap
+=======
+Jul 20, 2016 1:01:14 PM Main selectMap
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 INFO: Back button Pressed
+<<<<<<< HEAD
 Jul 26, 2016 10:01:33 PM Main selectMap
+=======
+Jul 20, 2016 1:01:14 PM Main selectMap
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 INFO: Back button Pressed
+<<<<<<< HEAD
 Jul 26, 2016 10:01:33 PM Main selectMap
+=======
+Jul 20, 2016 1:01:14 PM Main selectMap
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 INFO: Back button Pressed
+<<<<<<< HEAD
 Jul 26, 2016 10:01:33 PM Main selectMap
+=======
+Jul 20, 2016 1:01:14 PM Main selectMap
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 INFO: Back button Pressed
+<<<<<<< HEAD
 Jul 26, 2016 10:01:33 PM Main selectMap
+=======
+Jul 20, 2016 1:01:14 PM Main selectMap
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 INFO: Back button Pressed
+<<<<<<< HEAD
 Jul 26, 2016 10:01:34 PM Main selectMap
+=======
+Jul 20, 2016 1:01:14 PM Main selectMap
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 INFO: Back button Pressed
+<<<<<<< HEAD
 Jul 26, 2016 10:01:34 PM Main selectMap
+=======
+Jul 20, 2016 1:01:14 PM Main selectMap
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 INFO: Back button Pressed
+<<<<<<< HEAD
 Jul 26, 2016 10:01:34 PM Main selectMap
+=======
+Jul 20, 2016 1:01:14 PM Main selectMap
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 INFO: Back button Pressed
+<<<<<<< HEAD
 Jul 26, 2016 10:01:34 PM Main selectMap
+=======
+Jul 20, 2016 1:01:14 PM Main selectMap
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 INFO: Back button Pressed
+<<<<<<< HEAD
 Jul 26, 2016 10:01:34 PM Main selectMap
 INFO: Back button Pressed
 Jul 26, 2016 10:01:34 PM Main selectMap
@@ -87,371 +244,1119 @@ INFO: Back button Pressed
 Jul 26, 2016 10:01:34 PM Main selectMap
 INFO: Back button Pressed
 Jul 26, 2016 10:01:34 PM Main mouseClicked
+=======
+Jul 20, 2016 1:01:14 PM Main selectMap
+INFO: Back button Pressed
+Jul 20, 2016 1:01:14 PM Main selectMap
+INFO: Back button Pressed
+Jul 20, 2016 1:01:14 PM Main selectMap
+INFO: Back button Pressed
+Jul 20, 2016 1:01:14 PM Main selectMap
+INFO: Back button Pressed
+Jul 20, 2016 1:01:14 PM Main selectMap
+INFO: Back button Pressed
+Jul 20, 2016 1:01:14 PM Main selectMap
+INFO: Back button Pressed
+Jul 20, 2016 1:01:14 PM Main selectMap
+INFO: Back button Pressed
+Jul 20, 2016 1:01:14 PM Main selectMap
+INFO: Back button Pressed
+Jul 20, 2016 1:01:14 PM Main mouseClicked
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 INFO: selected map1, sending over to game driver
+<<<<<<< HEAD
 Jul 26, 2016 10:01:34 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:14 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:34 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:14 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:34 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:14 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:34 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:14 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:34 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:14 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:34 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:14 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:34 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:14 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:34 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:15 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:34 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:15 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:34 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:15 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:34 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:15 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:34 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:15 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:34 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:15 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:34 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:15 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:34 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:15 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:34 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:15 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:34 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:15 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:34 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:15 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:34 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:15 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:34 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:15 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:34 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:15 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:34 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:15 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:34 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:15 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:34 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:15 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:34 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:15 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:34 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:15 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:35 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:15 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:35 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:15 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:35 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:15 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:35 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:15 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:35 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:15 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:35 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:15 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:35 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:15 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:35 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:15 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:35 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:15 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:35 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:15 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:35 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:15 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:35 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:15 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:35 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:15 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:35 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:15 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:35 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:15 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:35 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:15 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:35 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:15 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:35 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:15 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:35 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:15 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:35 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:15 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:35 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:15 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:35 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:15 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:35 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:15 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:35 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:15 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:35 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:15 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:35 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:15 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:35 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:15 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:35 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:15 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:35 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:15 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:35 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:15 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:35 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:15 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:35 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:15 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:35 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:15 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:35 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:15 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:35 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:15 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:35 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:15 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:35 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:15 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:35 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:15 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:35 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:15 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:36 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:15 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:36 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:15 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:36 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:16 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:36 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:16 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:36 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:16 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:36 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:16 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:36 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:16 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:36 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:16 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:36 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:16 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:36 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:16 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:36 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:16 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:36 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:16 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:36 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:16 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:36 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:16 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:36 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:16 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:36 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:16 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:36 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:16 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:36 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:16 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:36 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:16 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:36 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:16 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:36 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:16 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:36 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:16 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:36 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:16 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:36 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:16 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:36 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:16 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:36 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:16 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:36 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:16 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:36 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:16 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:36 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:16 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:36 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:16 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:36 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:16 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:36 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:16 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:36 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:16 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:36 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:16 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:36 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:16 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:36 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:16 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:36 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:16 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:36 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:16 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:37 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:16 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:37 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:16 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:37 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:16 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:37 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:16 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:37 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:16 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:37 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:16 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:37 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:16 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:37 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:16 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:37 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:16 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:37 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:16 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:37 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:16 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:37 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:16 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:37 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:16 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:37 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:16 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:37 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:16 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:37 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:16 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:37 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:16 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:37 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:16 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:37 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:16 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:37 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:16 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:37 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:16 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:37 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:16 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:37 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:17 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:37 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:17 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:37 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:17 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:37 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:17 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:37 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:17 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:37 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:17 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:37 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:17 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:37 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:17 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:37 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:17 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:37 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:17 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:37 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:17 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:37 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:17 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:37 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:17 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:37 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:17 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:37 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:17 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:37 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:17 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:37 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:17 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:37 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:17 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:37 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:17 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:37 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:17 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:37 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:17 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:37 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:17 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:37 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:17 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:37 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:17 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:37 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:17 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:37 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:17 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:37 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:17 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:37 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:17 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:37 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:17 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:38 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:17 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:38 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:17 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:38 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:17 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:38 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:17 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:38 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:17 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:38 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:17 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:38 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:17 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:38 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:17 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:38 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:17 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:38 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:17 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:38 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:17 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:38 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:17 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:38 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:17 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:38 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:17 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:38 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:17 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:38 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:17 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:38 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:17 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:38 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:17 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:38 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:17 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:38 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:17 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:38 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:17 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:38 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:17 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:38 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:17 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:38 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:17 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:38 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:17 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:38 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:17 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:39 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:17 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:39 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:18 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
+<<<<<<< HEAD
 Jul 26, 2016 10:01:39 PM gameDriver REDRAW
 FINE: Redrawing
 Jul 26, 2016 10:01:39 PM gameDriver REDRAW
@@ -7295,4 +8200,7 @@ FINE: Redrawing
 Jul 26, 2016 10:02:23 PM gameDriver REDRAW
 INFO: Drawing attackers
 Jul 26, 2016 10:02:23 PM gameDriver REDRAW
+=======
+Jul 20, 2016 1:01:18 PM gameDriver REDRAW
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 FINE: Redrawing
