@@ -1,4 +1,6 @@
 import java.io.IOException;
+import java.text.SimpleDateFormat;
+import java.util.Date;
 import java.util.logging.ConsoleHandler;
 import java.util.logging.FileHandler;
 import java.util.logging.Formatter;
@@ -27,6 +29,13 @@ public class LoggerMain {
       rootLogger.removeHandler(handlers[0]);
     }
     
+    
+    private String calcDate(long millisecs) {
+    	
+        SimpleDateFormat date_format = new SimpleDateFormat("MMM dd,yyyy HH:mm:ss.SS");
+        Date resultdate = new Date(millisecs);
+        return date_format.format(resultdate);
+      }
     
     logger.setLevel(Level.INFO);
     fileTxt = new FileHandler("Logging.txt");

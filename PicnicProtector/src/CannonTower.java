@@ -6,7 +6,7 @@ public class CannonTower extends Tower {
 
 	public CannonTower(int x, int y) {
 		super(x, y);
-		range=160;
+		range = 160;
 		damage = 12;
 		fireRate = 300;
 		price = 100;

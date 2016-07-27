@@ -1,10 +1,11 @@
 import java.util.ArrayList;
+import java.util.logging.Logger;
 
 import processing.core.*;
 
 public class towerDriver extends Main{
 	
-
+	private final static Logger LOGGER = Logger.getLogger(Logger.GLOBAL_LOGGER_NAME);
 	private ArrayList<Tower> towerList;
 	private ArrayList<Attacker> attackerList;
 	protected PImage tower1;
@@ -19,15 +20,15 @@ public class towerDriver extends Main{
 		switch(towerSelected){
 		case 1:
 			towerList.add(new CannonTower(x, y));
-			System.out.println("added a new Cannon tower");
+			LOGGER.info("added a new Cannon tower");
 			break;
 		case 2:
 			towerList.add(new DarkTower(x, y));
-			System.out.println("added a new Dark tower");
+			LOGGER.info("added a new Dark tower");
 			break;
 		case 3:
 			towerList.add(new MagicTower(x, y));
-			System.out.println("added a new Magic tower");
+			LOGGER.info("added a new Magic tower");
 			break;
 			
 		default:
@@ -62,7 +63,7 @@ public class towerDriver extends Main{
 				}
 			}
 			
-			System.out.println("Distance to closet Tower: "+closetdistance);
+			LOGGER.info("Distance to closet Tower: "+closetdistance);
 			
 			//this is where it decides if it the current tower is too close or not
 			if(closetdistance<65)
@@ -152,7 +153,7 @@ public class towerDriver extends Main{
 		
 		else if(greenAtMouse==122){
 			
-			System.out.println("INVALID POSITION");
+			LOGGER.info("INVALID POSITION");
 			return true;
 		}
 		
