@@ -1,19 +1,8 @@
-<<<<<<< HEAD
-=======
 /Images/
-<<<<<<< HEAD
-/squirrel.class
-/towerDriver.class
->>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
-=======
->>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
+/Sound/
 /Attacker.class
 /CannonTower.class
 /DarkTower.class
-<<<<<<< HEAD
-/Images/
-=======
->>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 /LoggerMain.class
 /MagicTower.class
 /Main.class
@@ -25,14 +14,5 @@
 /allMyImages.class
 /attackerDriver.class
 /gameDriver.class
-<<<<<<< HEAD
-<<<<<<< HEAD
 /squirrel.class
 /towerDriver.class
-/Sound/
-=======
->>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
-=======
-/squirrel.class
-/towerDriver.class
->>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git

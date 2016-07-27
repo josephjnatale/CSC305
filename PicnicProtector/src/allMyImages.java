@@ -25,6 +25,8 @@ public class allMyImages extends PApplet{
 	
 	
 	
+	public PImage store = loadImage("images\\store.png");
+	public PImage tower_path = loadImage("images\\towerpath.png");
 	
 	
 	public allMyImages() {

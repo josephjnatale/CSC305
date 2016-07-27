@@ -125,17 +125,26 @@ public class Main extends PApplet {
 		text(" Picnic Protector", 200, 100);
 		textSize(20);
 
-		text (" You are given a health, score, bank and wave number to start with.", 50, 200);
-		
-		//build phase
-			//access the store and buy towers
-			// click on tower and place on the map anywhere besides the path
-			// click start wave when done
-		//attk phase
-			//gain income for each successful kill
-			// lose health if attker reaches end
-		// when health goes to 0 you lose
-		// good luck!
+		text (" The goal of this game is to protect your picnic from the squirrels", 50, 200);
+		text (" You are given a health, score, bank and wave number to start with.", 50, 250);
+		textSize(40);
+		text (" Build Phase.", 50, 300);
+		textSize(20);
+		text (" Access the store on your right to buy towers. ", 100, 350);
+		image(images.store, 1100, 200, images.store.width/2, images.store.height/2);
+
+		text (" Click on the desired tower and place it anywhere on the map besides the path or other towers. ", 100, 400);
+		image(images.tower_path, 1100, 500, images.tower_path.width, images.tower_path.height);
+
+		text (" When you are done, you can start the wave of hungry squirrels. ", 100, 450);
+		textSize(40);
+		text (" Attack Phase. ", 50, 500);
+		textSize(20);
+		text (" For the head of one squirrel you are awarded more money in your bank. ", 100, 550);
+		text (" But if the squirrel manages to reach the end, you lose health. ", 100, 600);
+		text (" And when your health is 0, that's game! ", 100, 650);
+		textSize(40);
+		text (" GoodLuck! ", 700, 650);
 		
 		
 		//If mouse is over play, change the fill purple 
