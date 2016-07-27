@@ -1,7 +1,7 @@
+/Images/
 /Attacker.class
 /CannonTower.class
 /DarkTower.class
-/Images/
 /LoggerMain.class
 /MagicTower.class
 /Main.class
@@ -15,4 +15,3 @@
 /gameDriver.class
 /squirrel.class
 /towerDriver.class
-/CannonTowerTest.class
