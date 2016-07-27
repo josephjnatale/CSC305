@@ -43,7 +43,7 @@ public class gameDriver extends Main {
 	private int playerScore=1000;
 	private int reloadTime = millis();
 
-	private String phase = "build";
+	public static String phase = "build";
 
 
 	
@@ -76,7 +76,6 @@ public class gameDriver extends Main {
 		
 	public void draw()
 	{	
-		//System.out.println(""+greenAtMouse);
 		/*
 		Order of the layers drawn
 		
@@ -119,7 +118,7 @@ public class gameDriver extends Main {
 		if(p.frameCount%15==0 && playerHealth<=0)
 			noHealth=true;
 			
-		//System.out.println("player health: " + playerHealth);
+		LOGGER.fine("player health: " + playerHealth);
 		
 		
 		
@@ -230,7 +229,9 @@ public class gameDriver extends Main {
 	}
 	
 	
+	
 	private void attackPhase(){
+		
 		
 		//deals with all attacker movement
 		attackerDriver.main(attackerList);
@@ -297,15 +298,7 @@ public class gameDriver extends Main {
 	//calls redrawbg and redrawattacker
 	private void REDRAW(String phase) {
 	    
-		//playing around, want to have only one FINE level log displayed
-		int x =1;
-		do {
-			
-		LOGGER.setLevel(Level.FINE);
 	    LOGGER.fine("Redrawing");
-		x =0;
-		} while (x > 0);
-	    LOGGER.setLevel(Level.INFO);
 
 		
 		MAP.drawMap(p);
@@ -317,12 +310,11 @@ public class gameDriver extends Main {
 		
 		if(phase.equals("attack") && !setup){
 			//happens once wave starts
-			LOGGER.info("Drawing attackers");
+			LOGGER.fine("Drawing attackers");
 			attackerDriver.redrawAttacker();
 			
 		}
 		
-		LOGGER.fine("CurrentPhase: "+phase+"\n");
 		
 		
 	}
@@ -355,6 +347,7 @@ public class gameDriver extends Main {
 	
 	}
 	
+
 	
 	 
 }

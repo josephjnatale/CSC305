@@ -122,7 +122,22 @@ public class Main extends PApplet {
 		background(100);
 		textSize(60);
 		fill(255);
-		text("I will fill in instructions later.", 200, 400);
+		text(" Picnic Protector", 200, 100);
+		textSize(20);
+
+		text (" You are given a health, score, bank and wave number to start with.", 50, 200);
+		
+		//build phase
+			//access the store and buy towers
+			// click on tower and place on the map anywhere besides the path
+			// click start wave when done
+		//attk phase
+			//gain income for each successful kill
+			// lose health if attker reaches end
+		// when health goes to 0 you lose
+		// good luck!
+		
+		
 		//If mouse is over play, change the fill purple 
 		if(mouseX >= 50 && mouseX <=50+125 && mouseY>=650 && mouseY<=700 && gameState == 3)
 			fill(186,85,211);
@@ -149,10 +164,11 @@ public class Main extends PApplet {
 		//back button highlight
 		textSize(60);
 		//If mouse is over back, change the fill purple 
-		if(mouseX >= 50 && mouseX <=50+125 && mouseY>=650 && mouseY<=700 && gameState == 1)
+		if(mouseX >= 50 && mouseX <=50+125 && mouseY>=650 && mouseY<=700 && gameState == 1){
 			fill(186,85,211);
 		text("Back", 50, 700);
 	    LOGGER.info("Back button Pressed");
+		}
 
 	}
 	

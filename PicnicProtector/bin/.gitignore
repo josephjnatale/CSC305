@@ -1,8 +1,11 @@
 <<<<<<< HEAD
 =======
 /Images/
+<<<<<<< HEAD
 /squirrel.class
 /towerDriver.class
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
+=======
 >>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
 /Attacker.class
 /CannonTower.class
@@ -23,8 +26,13 @@
 /attackerDriver.class
 /gameDriver.class
 <<<<<<< HEAD
+<<<<<<< HEAD
 /squirrel.class
 /towerDriver.class
 /Sound/
 =======
+>>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git
+=======
+/squirrel.class
+/towerDriver.class
 >>>>>>> branch 'master' of https://github.com/josephjnatale/CSC305.git

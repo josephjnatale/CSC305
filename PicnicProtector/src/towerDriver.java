@@ -35,6 +35,9 @@ public class towerDriver extends Main{
 		default:
 			break;
 		}
+		
+		LOGGER.info("CurrentPhase: "+gameDriver.phase+"\n");
+
 			
 	}
 	
