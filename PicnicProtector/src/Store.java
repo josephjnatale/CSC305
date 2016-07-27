@@ -17,9 +17,9 @@ public class Store extends Main{
 	public Store(PApplet applet){
 		
 		p=applet;
-		tower1= new Tower(menuX+50, menuY+30);
-		tower2= new Tower(menuX+50, menuY+130);
-		tower3= new Tower(menuX+50, menuY+230);
+		tower1= new CannonTower(menuX+50, menuY+30);
+		tower2= new DarkTower(menuX+50, menuY+130);
+		tower3= new MagicTower(menuX+50, menuY+230);
 		
 		
 	}

@@ -14,7 +14,6 @@ public class CannonTower extends Tower {
 	
 	public void draw(PApplet p){
 		
-	
 		p.image(images.cannon_tower, x, y);
 		if(target!=null){
 			if(shooting){

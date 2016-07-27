@@ -29,6 +29,7 @@ public class LoggerMain {
     
     
     logger.setLevel(Level.INFO);
+    
     fileTxt = new FileHandler("Logging.txt");
     fileHTML = new FileHandler("Logging.html");
 

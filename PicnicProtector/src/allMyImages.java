@@ -1,6 +1,9 @@
 import processing.core.*;
 import gifAnimation.*;
 
+import java.io.*;
+import sun.audio.*;
+
 public class allMyImages extends PApplet{
 	
 	public Gif squirrelUp = new Gif(this, "images\\squirrelUp.gif");
@@ -22,10 +25,11 @@ public class allMyImages extends PApplet{
 	
 	
 	
-
 	
-	public allMyImages(){
-		
+	
+	public allMyImages() {
+				  
+		 
 	}
 	
 	

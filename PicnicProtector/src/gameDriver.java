@@ -19,6 +19,8 @@ public class gameDriver extends Main {
 	private WaveSetup wave = new WaveSetup(currentWave);
 	private Store store;
 	public Map MAP;
+	
+	
 	//the lower the better
 	private int towerFireDelay = 180;
 	
@@ -101,6 +103,12 @@ public class gameDriver extends Main {
 		case "attack":
 			attackPhaseDriver();
 			break;
+		
+		case "endWave":
+			waveSummary();
+			break;
+				
+		
 		}
 		
 		//draws images for the store
@@ -238,17 +246,42 @@ public class gameDriver extends Main {
 			playerScore+= towerDriver.income(attackerList);
 		}
 		if(attackerList.isEmpty()){
-			phase="build";
-			setup=true;
-			currentWave++;
-			wave.setWave(currentWave);
-			
+			phase="endWave";
 			//adds end of wave bonus
 			
 			
 		}
 		
 		
+		
+	}
+	
+	private void waveSummary(){
+		
+		p.stroke(0);
+		p.fill(Color.yellow.getRGB());
+		p.rect(100, 100,  850,  500);
+		p.textSize(35);
+		p.fill(0);
+		p.text("Wave Summary", 450, 150);
+		p.textSize(25);
+		p.text("Wave "+currentWave+" Completed!\nAttacker break down\nSquirrels last wave: "+wave.getSquirrelCount(currentWave), 150, 200);
+		p.text("Wave Bonus: $"+currentWave*50, 570, 200);
+		p.text("Attackers next wave: " +wave.getSquirrelCount(currentWave+1), 570, 270);
+		
+		p.fill(Color.green.getRGB());
+		p.rect(700, 500, 230, 75);
+		p.fill(Color.pink.getRGB());
+		p.text("Continue", 760, 540);
+		
+		
+		if(p.mousePressed && p.mouseX>=700 && p.mouseX<=930 && p.mouseY>=500 && p.mouseY<=575){
+		
+			phase="build";
+			setup=true;
+			currentWave++;			
+			wave.setWave(currentWave);
+		}
 		
 	}
 	

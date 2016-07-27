@@ -33,6 +33,13 @@ public class WaveSetup {
 		}
 		
 	}
+	public int getWave(){
+		return wave;
+	}
+	public int getSquirrelCount(int wave){
+		return eachWave[wave-1][0];
+		
+	}
 	
 	public void setWave(int wave){
 		this.wave=wave;
